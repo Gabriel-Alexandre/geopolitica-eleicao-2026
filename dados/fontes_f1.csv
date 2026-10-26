@@ -41,3 +41,6 @@ g02,agregador,reações do mundo,(France 24),https://www.france24.com/en/america
 b03,brasil,Flávio Bolsonaro,candidato derrotado (CN1),"https://www.cn1.com.br/noticias/17/148132,flavio-bolsonaro-rejeita-vitoria-de-lula-e-anuncia-pedido-de-anulacao-das-eleicoes"
 t10,trump,Donald Trump,arquivo independente dos posts no Truth Social (Trump's Truth),https://www.trumpstruth.org/search?start_date=2026-10-25&end_date=2026-10-26&per_page=100
 r04,russia,Vladimir Putin,nota oficial do Kremlin,http://en.kremlin.ru/events/president/news/81087
+t11,trump,Donald Trump,"a mesma página do t01 (Infobae, EFE) relida à tarde",https://www.infobae.com/america/agencias/2026/10/26/trump-cuestiona-la-victoria-de-lula-y-dice-que-se-uso-el-manual-de-joe-biden/
+t12,trump,Donald Trump,"a mesma página do t03 (Diario Libre, EFE) relida à tarde",https://www.diariolibre.com/mundo/estados-unidos/2026/10/25/donald-trump-cuestiona-victoria-de-lula-en-brasil/3700374
+t13,trump,Donald Trump,"a mesma página do t02 (Times Brasil, EFE) relida à tarde",https://timesbrasil.com.br/brasil/trump-questiona-vitoria-de-lula-cita-manual-de-joe-biden-e-diz-que-comunistas-nao-largam-o-poder/

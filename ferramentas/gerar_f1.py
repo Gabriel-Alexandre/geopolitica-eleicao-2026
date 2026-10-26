@@ -129,9 +129,20 @@ def relatorio(citacoes: list[dict], r: dict, sobre_brasil: list) -> str:
              f"{r['truth_social_posts_em_25_out']} posts em 25/out, do primeiro ({r['truth_social_primeiro_e_ultimo'][0] if r['truth_social_primeiro_e_ultimo'] else '?'}) "
              f"ao último lido ({r['truth_social_primeiro_e_ultimo'][1] if r['truth_social_primeiro_e_ultimo'] else '?'}, horário da costa leste dos EUA), e "
              f"{r['truth_social_posts_sobre_brasil']} falam de Brasil, Lula, Bolsonaro ou Biden. A EFE não diz o canal, e não foi achado vídeo nem transcrição da fala.")
-    l.append(f"- **A Time não registrou a fala** até o começo da manhã de 26/out (*\"{por_id['q03']['citacao']}\"*). As duas versões do pré-registro se resolvem assim: houve a fala, relatada por uma agência só; não foi achado post dele nem nota da Casa Branca.")
+    l.append(f"- **A Time não registrou a fala** até o começo da manhã de 26/out (*\"{por_id['q03']['citacao']}\"*).")
+    # releitura da tarde (t11, t12, t13): a própria EFE trocou o texto
+    manifesto = json.loads((DADOS / "MANIFESTO.json").read_text(encoding="utf-8"))
+    tarde = (DADOS / "capturas" / "t12.txt")
+    trocado = tarde.exists() and "no se ha pronunciado" in tarde.read_text(encoding="utf-8")
+    if "t11" in manifesto and trocado:
+        l.append(f"- 🔧 **Relido à tarde, a própria EFE trocou o texto.** Às {manifesto['t12']['capturado_em_utc']} (UTC), o endereço do Infobae dava "
+                 f"{manifesto['t11'].get('status_http')}, e o Diario Libre trazia, no mesmo endereço e com a mesma hora do despacho, outro texto da EFE: "
+                 "*\"Trump aún no se pronuncia sobre la derrota de su aliado Flávio Bolsonaro\"*, dizendo que ele *\"no se ha pronunciado aún públicamente\"*. "
+                 "A Times Brasil ainda trazia a frase, citando a EFE (t13). **Leitura do projeto:** a frase não tem fonte de pé; ela entra como algo que uma agência "
+                 "publicou e trocou, nunca como fala do Trump. As duas versões do pré-registro se resolvem assim: não foi achado post dele, nem nota da Casa Branca, "
+                 "nem fala que a agência mantivesse.")
     l.append(f"- Antes do resultado, ele tinha dito: *\"{por_id['q02']['citacao']}\"*.")
-    l.append("- **Como isso entra nas suposições:** a fala é anterior ao commit do pré-registro e já estava no §0 dele (*\"duas versões\"*). "
+    l.append("- **Como isso entra nas suposições:** a fala é anterior ao commit do pré-registro e já estava no §0 dele (*\"duas versões\"*), e depois foi trocada pela própria EFE. "
              "Ela não usa as palavras do critério da S7 (*fraudada, roubada, manipulada*, ou apoio à anulação), então **a S7 continua aberta** até 05/jan/2027. "
              "Para a S5 (parabéns em até 30 dias), é um sinal na direção prevista em L, não uma resolução.\n")
 

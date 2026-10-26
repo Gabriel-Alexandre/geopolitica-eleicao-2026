@@ -16,7 +16,7 @@
 - **Os EUA continuam tratando o governo Lula como o governo do Brasil:** quase certo se o resultado for legítimo; improvável se a fraude for demonstrada.
 - **Trump parabeniza Lula em público em até 30 dias:** muito improvável se o resultado for legítimo; quase nenhuma chance se a fraude for demonstrada.
 - **O Departamento de Estado trata o resultado como válido em público em até 30 dias:** chance parecida se o resultado for legítimo; quase nenhuma chance se a fraude for demonstrada.
-- **Trump ou o governo dos EUA dizem em público que houve fraude ou apoiam a anulação:** chance parecida se o resultado for legítimo; muito provável se a fraude for demonstrada.
+- **Trump ou o governo dos EUA dizem em público que houve fraude ou apoiam a anulação:** improvável se o resultado for legítimo; muito provável se a fraude for demonstrada.
 - **Os EUA adotam nova medida contra autoridades ou contra a economia brasileira até a posse:** chance parecida se o resultado for legítimo; provável se a fraude for demonstrada.
 - **Xi Jinping manda mensagem pessoal a Lula até 02/nov:** provável se o resultado for legítimo; improvável se a fraude for demonstrada.
 - **Putin parabeniza Lula até 02/nov:** aconteceu se o resultado for legítimo; aconteceu se a fraude for demonstrada.

@@ -2,15 +2,16 @@
 
 Gerado por `ferramentas/gerar_f1.py`. Cada citação foi procurada, palavra por palavra, no texto capturado da página (`dados/capturas/<fonte>.txt`, com sha256 em `dados/MANIFESTO.json`). As duas lentes do pré-registro valem aqui: as falas dos dois lados entram pela mesma régua.
 
-**Captura:** 39 de 42 páginas. **Citações conferidas no texto capturado:** 33 de 33.
+**Captura:** 42 de 45 páginas. **Citações conferidas no texto capturado:** 33 de 33.
 
 ## 1. O que o Trump disse, e o que não disse
 
 - **A fala existe, e a origem é uma só: a agência EFE**, de Washington, na noite de 25/out: *"Acaban de aplicar en Brasil el manual de Joe Biden. Bolsonaro llevaba una gran ventaja en la primera vuelta y era el claro favorito para ganar la segunda. Pero los comunistas no sueltan el poder una vez que lo consiguen"* (conferida no texto capturado). Vários veículos republicaram o mesmo despacho (Infobae, Times Brasil, Primera Hora, Diario Libre); isso é uma fonte repetida, não várias.
 - **Não está entre os posts do Truth Social de 25/out.** O arquivo independente dos posts dele (Trump's Truth) tem 19 posts em 25/out, do primeiro (October 25, 2026, 12:42 AM) ao último lido (October 25, 2026, 10:31 PM, horário da costa leste dos EUA), e 0 falam de Brasil, Lula, Bolsonaro ou Biden. A EFE não diz o canal, e não foi achado vídeo nem transcrição da fala.
-- **A Time não registrou a fala** até o começo da manhã de 26/out (*"Trump has not reacted to the election results as of early Monday"*). As duas versões do pré-registro se resolvem assim: houve a fala, relatada por uma agência só; não foi achado post dele nem nota da Casa Branca.
+- **A Time não registrou a fala** até o começo da manhã de 26/out (*"Trump has not reacted to the election results as of early Monday"*).
+- 🔧 **Relido à tarde, a própria EFE trocou o texto.** Às 2026-10-26T15:50:57+00:00 (UTC), o endereço do Infobae dava 404, e o Diario Libre trazia, no mesmo endereço e com a mesma hora do despacho, outro texto da EFE: *"Trump aún no se pronuncia sobre la derrota de su aliado Flávio Bolsonaro"*, dizendo que ele *"no se ha pronunciado aún públicamente"*. A Times Brasil ainda trazia a frase, citando a EFE (t13). **Leitura do projeto:** a frase não tem fonte de pé; ela entra como algo que uma agência publicou e trocou, nunca como fala do Trump. As duas versões do pré-registro se resolvem assim: não foi achado post dele, nem nota da Casa Branca, nem fala que a agência mantivesse.
 - Antes do resultado, ele tinha dito: *"I don’t want to get into that, but we are watching"*.
-- **Como isso entra nas suposições:** a fala é anterior ao commit do pré-registro e já estava no §0 dele (*"duas versões"*). Ela não usa as palavras do critério da S7 (*fraudada, roubada, manipulada*, ou apoio à anulação), então **a S7 continua aberta** até 05/jan/2027. Para a S5 (parabéns em até 30 dias), é um sinal na direção prevista em L, não uma resolução.
+- **Como isso entra nas suposições:** a fala é anterior ao commit do pré-registro e já estava no §0 dele (*"duas versões"*), e depois foi trocada pela própria EFE. Ela não usa as palavras do critério da S7 (*fraudada, roubada, manipulada*, ou apoio à anulação), então **a S7 continua aberta** até 05/jan/2027. Para a S5 (parabéns em até 30 dias), é um sinal na direção prevista em L, não uma resolução.
 
 ## 2. As falas, por grupo
 
@@ -112,8 +113,8 @@ Gerado por `ferramentas/gerar_f1.py`. Cada citação foi procurada, palavra por 
 ## 5. O que não foi capturado
 
 - `t05`: 404
-- `d04`: Error
-- `b01`: 403
+- `d04`: ReadTimeout
+- `t11`: 404
 
 A fala do Flávio, que estava no Conjur (403), está conferida pela Al Jazeera (q21) e pela CN1 (b03). A apuração da Reuters sobre o Departamento de Estado (US News, tempo esgotado) segue registrada no pré-registro como reportagem com fonte anônima.
 

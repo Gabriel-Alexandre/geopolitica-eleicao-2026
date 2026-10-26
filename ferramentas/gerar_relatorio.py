@@ -92,7 +92,7 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
          f"**Veredito de lente hoje:** {veredito_de_lente(criterios)}. Os critérios estão na §3.\n"]
     l += tabela_suposicoes(sintese)
     l += ["", "## 2. O que o Trump e quem fala por ele disseram\n",
-          f"- A fala do *\"manual de Joe Biden\"* tem uma origem só, a agência EFE (noite de 25/out). Não está entre os posts do Truth Social de 25/out no arquivo independente: "
+          f"- A fala do *\"manual de Joe Biden\"* tinha uma origem só, um texto da agência EFE (noite de 25/out), e **a própria EFE trocou esse texto**, no mesmo endereço, por outro dizendo que o Trump não tinha se pronunciado (relido na tarde de 26/out; `docs/F1_REACOES.md` §1). Ela não está entre os posts do Truth Social de 25/out no arquivo independente: "
           f"{f1['truth_social_posts_sobre_brasil']} de {f1['truth_social_posts_em_25_out']} posts de 25/out falam do Brasil.",
           "- O advogado da Trump Media, Martin De Luca, escreveu que ninguém vai reconhecer a eleição; Donald Trump Jr. e Elon Musk compartilharam; Jason Miller publicou o discurso do Flávio em inglês.",
           "- Até a manhã de 26/out: nenhuma nota da Casa Branca ou do Departamento de Estado, nenhuma medida nova da OFAC.",

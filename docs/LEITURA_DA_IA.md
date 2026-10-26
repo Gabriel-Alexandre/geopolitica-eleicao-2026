@@ -40,7 +40,7 @@ Feita pelo Claude depois de todas as fases. Para cada suposição: o que mudou d
 - **Agora:** L muito improvável · F1 quase nenhuma chance · F2 muito improvável
 - **O histórico:** os EUA parabenizaram em até 30 dias: 7 de 8 (88%) (fraude não demonstrada (lente L)) · os EUA parabenizaram em até 30 dias: 3 de 5 (60%) (todos, vencedor neutro da potência) · os EUA parabenizaram em até 30 dias: 0 de 5 (0%) (todos, vencedor adversario da potência)
 - **O estado em 26/out:** Trump pôs o resultado em dúvida, segundo a EFE; nenhum parabéns
-- **Por quê:** O histórico puxa para cima: na lente L os EUA quase sempre cumprimentaram, e com o vencedor neutro (como o Lula em 2014 e 2022, emenda 4) foi a maioria. Puxam para baixo a fala do próprio Trump (EFE) e o caso mais parecido da era Trump, a Hungria de 2026, em que o aliado perdeu e não houve cumprimento formal. A suposição é sobre o Trump em pessoa
+- **Por quê:** O histórico puxa para cima: na lente L os EUA quase sempre cumprimentaram, e com o vencedor neutro (como o Lula em 2014 e 2022, emenda 4) foi a maioria. Puxam para baixo o silêncio do governo, as falas do círculo do Trump e o caso mais parecido da era Trump, a Hungria de 2026, em que o aliado perdeu e não houve cumprimento formal. A suposição é sobre o Trump em pessoa
 
 ## S6 · O Departamento de Estado trata o resultado como válido em público em até 30 dias
 
@@ -48,15 +48,15 @@ Feita pelo Claude depois de todas as fases. Para cada suposição: o que mudou d
 - **Agora:** L chance parecida · F1 quase nenhuma chance · F2 chance parecida
 - **O histórico:** os EUA parabenizaram em até 30 dias: 7 de 8 (88%) (fraude não demonstrada (lente L)) · os EUA não reconheceram: 0 de 8 (0%) (fraude não demonstrada (lente L))
 - **O estado em 26/out:** nada do Departamento de Estado até 10h05
-- **Por quê:** As duas forças se anulam: no histórico da lente L os EUA sempre reconheceram de alguma forma (na Hungria, com o vice-presidente dizendo que trabalharia com o novo governo); aqui o presidente pôs o resultado em dúvida, segundo a EFE, e o governo não tinha falado nas primeiras 13 horas. O defensor da lente L pediu provável; a faixa fica com a variante dele publicada
+- **Por quê:** As duas forças se anulam: no histórico da lente L os EUA sempre reconheceram de alguma forma (na Hungria, com o vice-presidente dizendo que trabalharia com o novo governo); aqui o governo não tinha falado nas primeiras 13 horas e o círculo do Trump questionou o resultado. O defensor da lente L pediu provável; a faixa fica com a variante dele publicada
 
 ## S7 · Trump ou o governo dos EUA dizem em público que houve fraude ou apoiam a anulação
 
 - **Antes (pré-registro):** L improvável · F1 muito provável · F2 improvável
-- **Agora:** L chance parecida · F1 muito provável · F2 chance parecida
+- **Agora:** L improvável · F1 muito provável · F2 improvável
 - **O histórico:** os EUA não reconheceram: 0 de 8 (0%) (fraude não demonstrada (lente L))
 - **O estado em 26/out:** a fala da EFE (manual de Joe Biden) põe o resultado em dúvida sem as palavras do critério
-- **Por quê:** Subiu porque o padrão do próprio Trump apareceu num caso recente: em Honduras 2025 ele falou em fraude sem prova quando a contagem atrasou, e aqui, segundo a EFE, já citou o Joe Biden ao falar do resultado. Pesa contra a Hungria 2026, em que ninguém do governo alegou fraude depois da derrota do aliado. O governo como instituição nunca declarou fraude num caso da lente L, por isso não passa de chance parecida
+- **Por quê:** Chegou a subir para chance parecida e voltou para improvável na tarde de 26/out: metade do motivo era a fala do Trump publicada pela EFE, e a própria EFE trocou o texto por outro dizendo que ele não tinha se pronunciado (capturas t11 e t12). Fica o padrão de Honduras 2025, em que ele falou em fraude sem prova quando a contagem atrasou; pesa contra a Hungria 2026, em que ninguém do governo alegou fraude. O governo como instituição nunca declarou fraude num caso da lente L
 
 ## S8 · Os EUA adotam nova medida contra autoridades ou contra a economia brasileira até a posse
 
@@ -100,7 +100,7 @@ Feita pelo Claude depois de todas as fases. Para cada suposição: o que mudou d
 
 ## As potências
 
-- **EUA:** fica de pé *H2 · alinhamento (a reação depende de quem ganhou); H3 · troca segue sem evidência contra e sem evidência a favor*. Tudo o que se viu cabe na H2: silêncio do governo, questionamento retórico do presidente relatado por uma agência, e o círculo (De Luca, Don Jr., Musk, Miller) falando antes. Em Honduras 2025, com o aliado vencendo, o governo parabenizou; na Hungria 2026, com o aliado perdendo, houve fala reconhecendo o novo governo, sem cumprimento formal. Pela regra da §6 (vence a hipótese com menos evidência contra), H2 e H3 empatam em zero evidência contra; a H2 fica na frente porque tem evidência a favor e a H3 nenhuma. A H3 só aparece se surgir negociação com condição anunciada
+- **EUA:** fica de pé *H2 · alinhamento (a reação depende de quem ganhou); H3 · troca segue sem evidência contra e sem evidência a favor*. Tudo o que se viu cabe na H2: silêncio do governo e o círculo (De Luca, Don Jr., Musk, Miller) falando antes; a fala do presidente que uma agência publicou foi trocada pela própria agência. Em Honduras 2025, com o aliado vencendo, o governo parabenizou; na Hungria 2026, com o aliado perdendo, houve fala reconhecendo o novo governo, sem cumprimento formal. Pela regra da §6 (vence a hipótese com menos evidência contra), H2 e H3 empatam em zero evidência contra; a H2 fica na frente porque tem evidência a favor e a H3 nenhuma. A H3 só aparece se surgir negociação com condição anunciada
 - **China:** fica de pé *H5 · segue a autoridade eleitoral do país*. Parabenizou pelo porta-voz depois do anúncio do TSE e, perguntada sobre o pedido de anulação, disse que respeita a escolha do povo brasileiro. É o mesmo padrão de Venezuela 2024 e de Brasil 2018 e 2022: segue quem o órgão eleitoral proclama
 - **Rússia:** fica de pé *H7 · segue a autoridade eleitoral do país*. Putin mandou carta cerca de 12 horas depois do resultado, como em 2022; o porta-voz Peskov saudou a vitória. A palavra soberania aparece, mas sem acusar ninguém
 - **Círculo do Trump:** fica de pé *H9 em parte: o círculo antecipa o tom, não o reconhecimento*. Contagem pelos casos pré-registrados: em Honduras 2025, a alegação de fraude de Trump foi seguida de restrição de visto a dois funcionários eleitorais (registrado por uma das passadas) e depois o governo parabenizou o vencedor aliado; na Hungria 2026, nenhum ato depois da derrota do aliado; no Brasil em 2025, a ordem das tarifas cita o processo contra Jair Bolsonaro (m01, m02). Dois de três episódios tiveram algum ato oficial depois da fala do círculo, nenhum com não reconhecimento. No Brasil, até a manhã de 26/out, nenhuma fala do círculo foi seguida de ato

@@ -45,11 +45,11 @@
   },
   "t05": {
     "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-brasil-segunda-vuelta-2026-donald-trump-cuestiona-la-victoria-de-lula-da-silva-y-dice-que-se-uso-el-manual-de-joe-biden-flavio-bolsonario-brasil-apuesplan-ultimas-noticia/",
-    "capturado_em_utc": "2026-10-26T13:09:14+00:00",
-    "metodo": "navegador (Edge via Playwright, HTML renderizado)",
+    "capturado_em_utc": "2026-10-26T15:49:26+00:00",
+    "metodo": "pedido direto (requests)",
     "status_http": 404,
-    "bytes_html": 1746441,
-    "sha256_html": "1a0294442a8415329a5d7b358e6df9031722432f928b843a4e784264c5ed9d39",
+    "bytes_html": 1333552,
+    "sha256_html": "bd6f14b91029af1ca6b45579f8346fab84f7c3a38dbaccc478002b9d7ee83d7a",
     "ok": false
   },
   "t06": {
@@ -131,10 +131,10 @@
   },
   "d04": {
     "url": "https://www.usnews.com/news/world/articles/2026-10-24/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power",
-    "capturado_em_utc": "2026-10-26T13:09:30+00:00",
-    "metodo": "navegador (Edge via Playwright, HTML renderizado)",
+    "capturado_em_utc": "2026-10-26T15:49:29+00:00",
+    "metodo": "pedido direto (requests)",
     "ok": false,
-    "erro": "Error"
+    "erro": "ReadTimeout"
   },
   "c01": {
     "url": "https://www.cnnbrasil.com.br/blogs/lourival-santanna/internacional/advogado-de-empresa-de-trump-critica-decisao-do-stf-e-compara-lula-a-maduro/",
@@ -270,12 +270,14 @@
   },
   "b01": {
     "url": "https://conjur.com.br/2026-out-25/derrotado-flavio-bolsonaro-critica-zanin-e-diz-que-vai-pedir-anulacao",
-    "capturado_em_utc": "2026-10-26T13:09:33+00:00",
-    "metodo": "navegador (Edge via Playwright, HTML renderizado)",
-    "status_http": 403,
-    "bytes_html": 29032,
-    "sha256_html": "692c5855e6830e299a5081b32fd6a70bbb7f70a431c099451e18aa968a1007ac",
-    "ok": false
+    "capturado_em_utc": "2026-10-26T15:50:11+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 140725,
+    "sha256_html": "754315dd6fa3b1ac732d89d6757d302262d81fd23d83527fb18e6046cd84d224",
+    "sha256_texto": "415a862ebd7b2be8935c3092b8a0729884919fb20c7b219e606d11e5a8f1c0aa",
+    "caracteres_texto": 4778,
+    "ok": true
   },
   "b02": {
     "url": "https://www.metropoles.com/brasil/flavio-que-agora-pede-anulacao-da-eleicao-prometeu-aceitar-o-resultado",
@@ -1057,6 +1059,37 @@
     "sha256_html": "72f5b4902ae75f56da93527d0c8af92391a253ef386e9a9b782444188047889b",
     "sha256_texto": "0b54d15858ebefaba2bd11529a9e485bef974e82b94631854d085f04239d91ac",
     "caracteres_texto": 10888,
+    "ok": true
+  },
+  "t11": {
+    "url": "https://www.infobae.com/america/agencias/2026/10/26/trump-cuestiona-la-victoria-de-lula-y-dice-que-se-uso-el-manual-de-joe-biden/",
+    "capturado_em_utc": "2026-10-26T15:50:55+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 404,
+    "bytes_html": 17753,
+    "sha256_html": "f8c44c1d25e4c8d3c8f79ceae25e4f0dbc3082b8f18cbf141677e4e489bbbc59",
+    "ok": false
+  },
+  "t12": {
+    "url": "https://www.diariolibre.com/mundo/estados-unidos/2026/10/25/donald-trump-cuestiona-victoria-de-lula-en-brasil/3700374",
+    "capturado_em_utc": "2026-10-26T15:50:57+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 224615,
+    "sha256_html": "6522bbcf0ecc2b71563fff48a5fbf65af71547b01ef6c9f738167c9295212e22",
+    "sha256_texto": "c2206c711379c7a01b80ad97a376c176fb879aa9235c57b43fa0110334c7128e",
+    "caracteres_texto": 3890,
+    "ok": true
+  },
+  "t13": {
+    "url": "https://timesbrasil.com.br/brasil/trump-questiona-vitoria-de-lula-cita-manual-de-joe-biden-e-diz-que-comunistas-nao-largam-o-poder/",
+    "capturado_em_utc": "2026-10-26T15:51:00+00:00",
+    "metodo": "pedido direto (requests)",
+    "status_http": 200,
+    "bytes_html": 94833,
+    "sha256_html": "8049efd2a7505397b2e57137f35b5ae55f0a3e365d684e1e32024b21cbb99d20",
+    "sha256_texto": "667ebb068cac36c022e77120ec294ccf535d7a39b8304181fdda28bbc26357e5",
+    "caracteres_texto": 5320,
     "ok": true
   }
 }

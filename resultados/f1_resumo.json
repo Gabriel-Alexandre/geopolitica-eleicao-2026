@@ -1,10 +1,10 @@
 {
-  "fontes_na_lista": 42,
-  "fontes_capturadas": 39,
+  "fontes_na_lista": 45,
+  "fontes_capturadas": 42,
   "fontes_que_falharam": {
     "t05": 404,
-    "d04": "Error",
-    "b01": 403
+    "d04": "ReadTimeout",
+    "t11": 404
   },
   "citacoes": 33,
   "citacoes_conferidas": 33,
