@@ -1,0 +1,13 @@
+---
+description: Fundamentos do projeto geopolitica-eleicao-2026
+alwaysApply: true
+---
+
+- O pré-registro (`docs/PRE_REGISTRO.md`) manda; mudança só por emenda datada (§13).
+- Duas lentes em tudo: L (legítimo, com as margens de dúvida), F1 (fraude demonstrada), F2 (fraude não demonstrada). Na lente L, procurar o que derrubaria a legitimidade; na F, o que derrubaria a fraude.
+- "Fraude" só como hipótese de lente ou entre aspas; nem afirmar nem negar fora do veredito dos critérios C1 a C5.
+- Intenção de pessoa não se julga: "a medida é consistente com".
+- Falas do círculo do Trump e do círculo do Lula entram com o vínculo como a fonte descreve, pela mesma régua.
+- Reportagem com fonte anônima: "segundo a Reuters", nunca fato do projeto.
+- Probabilidade pela escala ICD 203 (§4 do pré-registro).
+- Toda captura com hash; no git, texto extraído, nunca HTML bruto.
