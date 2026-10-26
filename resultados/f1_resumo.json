@@ -1,0 +1,20 @@
+{
+  "fontes_na_lista": 42,
+  "fontes_capturadas": 39,
+  "fontes_que_falharam": {
+    "t05": 404,
+    "d04": "ReadTimeout",
+    "b01": 403
+  },
+  "citacoes": 33,
+  "citacoes_conferidas": 33,
+  "truth_social_posts_lidos": 19,
+  "truth_social_posts_em_25_out": 19,
+  "truth_social_posts_sobre_brasil": 0,
+  "truth_social_primeiro_e_ultimo": [
+    "October 25, 2026, 12:42 AM",
+    "October 25, 2026, 10:31 PM"
+  ],
+  "commit_pre_registro": "0f72f8e",
+  "hora_commit_pre_registro": "2026-10-26T08:07:38-03:00"
+}

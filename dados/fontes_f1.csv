@@ -1,0 +1,43 @@
+id,grupo,quem,vinculo_como_a_fonte_descreve,url
+t01,trump,Donald Trump,presidente dos EUA (EFE via Infobae),https://www.infobae.com/america/agencias/2026/10/26/trump-cuestiona-la-victoria-de-lula-y-dice-que-se-uso-el-manual-de-joe-biden/
+t02,trump,Donald Trump,presidente dos EUA (EFE via Times Brasil),https://timesbrasil.com.br/brasil/trump-questiona-vitoria-de-lula-cita-manual-de-joe-biden-e-diz-que-comunistas-nao-largam-o-poder/
+t03,trump,Donald Trump,presidente dos EUA (EFE via Diario Libre),https://www.diariolibre.com/mundo/estados-unidos/2026/10/25/donald-trump-cuestiona-victoria-de-lula-en-brasil/3700374
+t04,trump,Donald Trump,presidente dos EUA (EFE via Primera Hora),https://www.primerahora.com/noticias/estados-unidos/notas/trump-cuestiona-la-victoria-de-lula-y-dice-que-se-uso-el-manual-de-joe-biden/
+t05,trump,Donald Trump,presidente dos EUA (EFE via El Comercio),https://elcomercio.pe/mundo/latinoamerica/elecciones-brasil-segunda-vuelta-2026-donald-trump-cuestiona-la-victoria-de-lula-da-silva-y-dice-que-se-uso-el-manual-de-joe-biden-flavio-bolsonario-brasil-apuesplan-ultimas-noticia/
+t06,trump,Donald Trump,presidente dos EUA (Rio Times),https://www.riotimesonline.com/trump-questions-lula-win-brazil-biden-playbook-2026/
+t07,trump,Donald Trump,presidente dos EUA (Time),https://time.com/article/2026/10/26/brazil-lula-bolsonaro-presidential-election-trump/
+t08,varios,"Trump, Lula, Flávio e Don Jr.",(Al Jazeera),https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win
+t09,trump,Donald Trump,presidente dos EUA (Rio Times),https://www.riotimesonline.com/uruguay-backs-lula-win-trump-doubts-orsi-2026
+d01,oficial_eua,Departamento de Estado,carta de Katherine Bowles a congressistas (ICL),https://iclnoticias.com.br/lider-democrata-comemora-vitoria-de-lula-trump-mantem-silencio/
+d02,oficial_eua,Casa Branca e Departamento de Estado,(Jornal de Brasília),https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-tera-trump-como-principal-desafio-externo-e-apostara-em-dialogo-apos-embates-na-eleicao/
+d03,oficial_eua,Departamento de Estado,porta-voz Amanda Roberson (CNN Brasil),https://www.cnnbrasil.com.br/blogs/priscila-yazbek/internacional/a-cnn-eua-negam-interferencia-na-eleicao-brasileira-apos-acusacoes-de-lula/
+d04,oficial_eua,Departamento de Estado,apuração da Reuters (US News),https://www.usnews.com/news/world/articles/2026-10-24/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power
+c01,circulo_trump,Martin De Luca,advogado da Trump Media e da Rumble (CNN Brasil),https://www.cnnbrasil.com.br/blogs/lourival-santanna/internacional/advogado-de-empresa-de-trump-critica-decisao-do-stf-e-compara-lula-a-maduro/
+c02,circulo_trump,Martin De Luca,advogado de Trump (Exame),https://exame.com/mundo/advogado-de-trump-critica-stf-por-prorrogar-votacao-no-brasil-manipulacao-descarada/
+c03,circulo_trump,Martin De Luca,advogado de Trump (Metrópoles),https://www.metropoles.com/colunas/manoela-alcantara/advogado-de-trump-questiona-eleicao-apos-zanin-ampliar-votacao-ate-as-19h
+c04,circulo_trump,Martin De Luca,advogado de Trump (Gazeta do Povo),https://www.gazetadopovo.com.br/eleicoes/2026/advogado-de-trump-questiona-decisao-de-zanin-sobre-horario-de-votacao-no-brasil/
+c05,circulo_trump,Martin De Luca,advogado de Trump (Correio da Manhã via Ricardo Antunes),https://ricardoantunes.net/advogado-de-trump-diz-nao-ser-possivel-reconhecer-a-eleicao-no-brasil-antes-de-entender-o-que-aconteceu/
+c06,circulo_trump,Donald Trump Jr.,filho do presidente (Poder360),https://www.poder360.com.br/poder-eleicoes-2026/filho-de-trump-compartilha-post-que-chama-lula-de-proximo-maduro/
+c07,circulo_trump,Jason Miller,conselheiro das campanhas de Trump (Rio Times),https://www.riotimesonline.com/brazil-trump-adviser-jason-miller-posts-flavio-bolsonaro-speech-2026/
+c08,circulo_trump,Eduardo Bolsonaro e Paulo Figueiredo,aliados com acesso ao governo Trump (DCM),https://www.diariodocentrodomundo.com.br/essencial/eduardo-e-paulo-figueiredo-se-revoltam-com-prorrogacao-das-eleicoes-golpe/
+c09,circulo_trump,Paulo Figueiredo,(CartaCapital),https://www.cartacapital.com.br/politica/apos-reeleicao-de-lula-paulo-figueiredo-pede-que-bolsonaristas-nao-repitam-8-de-janeiro/
+c10,circulo_trump,Eduardo Bolsonaro,(Brasil em Folhas),https://www.brasilemfolhas.com.br/2026/10/eduardo-bolsonaro-diz-que-atuara-nos-eua-por-retomada-de-sancoes-a-moraes/
+l01,circulo_lula,Celso Amorim,assessor especial de Lula (CartaCapital),https://www.cartacapital.com.br/politica/o-povo-brasileiro-vai-ganhar-as-eleicoes-apesar-das-influencias-externas-diz-celso-amorim/
+l02,circulo_lula,Celso Amorim,assessor especial de Lula (Hora do Povo),https://horadopovo.com.br/povo-brasileiro-vai-ganhar-essa-eleicao-e-derrotar-as-ingerencias-externas-afirma-amorim/
+b01,brasil,Flávio Bolsonaro,candidato derrotado (Conjur),https://conjur.com.br/2026-out-25/derrotado-flavio-bolsonaro-critica-zanin-e-diz-que-vai-pedir-anulacao
+b02,brasil,Flávio Bolsonaro e PL,candidato derrotado (Metrópoles),https://www.metropoles.com/brasil/flavio-que-agora-pede-anulacao-da-eleicao-prometeu-aceitar-o-resultado
+r01,russia,Vladimir Putin,presidente da Rússia (Brasil de Fato),https://www.brasildefato.com.br/2026/10/26/putin-parabeniza-lula-pela-reeleicao-e-elogia-protecao-da-soberania-brasileira/
+r02,russia,Vladimir Putin,presidente da Rússia (DN),https://www.dn.pt/internacional/putin-felicita-lula-da-silva-pela-vitria-nas-eleies
+r03,russia,Kremlin,lista de notícias do Kremlin,http://en.kremlin.ru/events/president/news
+h01,china,Guo Jiakun,porta-voz da chancelaria chinesa (CGTN),https://news.cgtn.com/news/2026-10-26/China-congratulates-Lula-on-his-presidential-election-victory--1RyC7BBrVfy/p.html
+h02,china,Guo Jiakun,porta-voz da chancelaria chinesa (Democrata),https://www.democrata.es/en/international/china-greets-lula-s-electoral-victory-in-brazil-and-bets-on-tightening-the-bilateral-relationship/
+u01,ue,Ursula von der Leyen,presidente da Comissão Europeia (Jornal de Brasília),https://jornaldebrasilia.com.br/noticias/politica-e-poder/ursula-von-der-leyen-parabeniza-lula-pela-vitoria-e-ve-parceria-com-o-brasil-florescer/
+u02,ue,António Costa,presidente do Conselho Europeu (Jornal de Brasília),https://jornaldebrasilia.com.br/noticias/politica-e-poder/presidente-do-conselho-europeu-parabeniza-lula-e-afirma-que-ue-e-brasil-sao-parceiros-solidos/
+u03,ue,líderes europeus,(Euronews),https://www.euronews.com/2026/10/26/democracy-has-won-europe-celebrates-lulas-surprise-victory-in-brazil
+a01,america_latina,líderes estrangeiros,(Brasil de Fato),https://brasildefato.com.br/2026/10/25/lideres-estrangeiros-comemoram-reeleicao-de-lula-e-destacam-defesa-da-democracia-fascismo-foi-detido
+a02,america_latina,líderes europeus e latino-americanos,(SBT News),https://sbtnews.sbt.com.br/noticia/eleicoes/lideres-europeus-parabenizam-lula-por-reeleicao-no-brasil
+g01,agregador,reações do mundo,(Al Jazeera),https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race
+g02,agregador,reações do mundo,(France 24),https://www.france24.com/en/americas/20261026-congratulations-world-leaders-hail-lula-s-election-victory-in-brazil
+b03,brasil,Flávio Bolsonaro,candidato derrotado (CN1),"https://www.cn1.com.br/noticias/17/148132,flavio-bolsonaro-rejeita-vitoria-de-lula-e-anuncia-pedido-de-anulacao-das-eleicoes"
+t10,trump,Donald Trump,arquivo independente dos posts no Truth Social (Trump's Truth),https://www.trumpstruth.org/search?start_date=2026-10-25&end_date=2026-10-26&per_page=100
+r04,russia,Vladimir Putin,nota oficial do Kremlin,http://en.kremlin.ru/events/president/news/81087

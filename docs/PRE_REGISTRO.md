@@ -189,4 +189,10 @@ Cada linha tem a faixa nas três lentes e o **critério de resolução**. A nota
 
 ## 13. Emendas
 
-Nenhuma até agora.
+### Emenda 1 (26/out/2026, escrita **depois** de ver o dado)
+
+**O que muda:** suposição cujo evento aconteceu **antes** do commit deste pré-registro (`0f72f8e`, 26/out, 8h07 de Brasília), mesmo sem a IA saber dele na hora, sai da nota de Brier e é publicada à parte, com a hora do evento e a do commit.
+
+**Por quê:** na F1, a nota do Kremlin com os parabéns de Putin (S10) apareceu com hora de 12h40 de Moscou, 6h40 de Brasília, uma hora e meia antes do commit. A sondagem da manhã não a tinha achado, mas ela já existia. Contar como acerto seria contar um fato já ocorrido como previsão.
+
+**Direção:** conservadora, porque tira um acerto da conta. Nenhuma faixa, critério ou lente mudou.
