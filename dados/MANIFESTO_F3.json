@@ -1,0 +1,116 @@
+{
+  "comtrade_2015": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2015&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7267,
+    "sha256": "b5ea6e13128bcbf3b1101721c20573e5ec0ba6f8bba422608c83f6dff01a683c"
+  },
+  "comtrade_2016": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2016&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7267,
+    "sha256": "e6b86cfe1464dd12d845a1ac325a67b7a1721ce964cd2a0a03793743a9e0eb81"
+  },
+  "comtrade_2017": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2017&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7267,
+    "sha256": "6cf2dee67ad1ff6a56b0fea1e3f7ad3954bc0f05451453f6878a0ab0496515bb"
+  },
+  "comtrade_2018": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2018&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7267,
+    "sha256": "2e1142165363907cbeecab9bbb4339f51aa86901a9898369d570c8caa728a4a5"
+  },
+  "comtrade_2019": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2019&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7267,
+    "sha256": "7c59af2c1811c2371669ce80cce3c97bc6baae93c17984b22e29e411af1c4bb8"
+  },
+  "comtrade_2020": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2020&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7269,
+    "sha256": "bdda6476568c2a7877627b9c6c3630f748ce1c30660c6b82da13d958b02ab378"
+  },
+  "comtrade_2021": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2021&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7267,
+    "sha256": "6c236fd14534b1343bc300f785758959ef497a79ab1077126da022d642974abc"
+  },
+  "comtrade_2022": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2022&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7262,
+    "sha256": "f0d576920e19faea8f166dd7a1c8211c57d41ea5e236cdf857708079142af19f"
+  },
+  "comtrade_2023": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2023&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7272,
+    "sha256": "7c09ebb32c6799ca778cebd2ab3cba987c87346bdce79cc885657c731a74dd93"
+  },
+  "comtrade_2024": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2024&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7270,
+    "sha256": "8e58ec7d0b88a2767132b2255db8276503206f60826b6e26accc7cd00115f47f"
+  },
+  "comtrade_2025": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2025&partnerCode=0,156,842,643&flowCode=X,M&cmdCode=TOTAL",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 7271,
+    "sha256": "c8eee69679d802bdc0765df33c388637ec5ab5f2e1f2a8737cb6f19a99f869ac"
+  },
+  "onu_AgreementScores.csv": {
+    "url": "https://dataverse.harvard.edu/api/access/datafile/11837234",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 145439690,
+    "sha256": "fc45eafe48e05bf4ed867250dc23a90242969a11248783095a965ed75bed08a6"
+  },
+  "onu_IdealpointestimatesFP_2026FP.csv": {
+    "url": "https://dataverse.harvard.edu/api/access/datafile/14098429",
+    "capturado_em_utc": "2026-10-26T13:03:21+00:00",
+    "bytes": 1419867,
+    "sha256": "3ae821bbd19977d4229cde5ac648e4bc915d637ec0dcf93368838cf5bde2a956"
+  },
+  "usgs_terras_raras_2026": {
+    "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf",
+    "capturado_em_utc": "2026-10-26T13:03:26+00:00",
+    "bytes": 639984,
+    "sha256": "0116a192336fec41c38d8e11dad553bb7703308c1fbd1f97dc14b75c7e7d9900"
+  },
+  "comtrade_adubos_2021": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2021&partnerCode=0,156,842,643&flowCode=M&cmdCode=31",
+    "capturado_em_utc": "2026-10-26T13:03:32+00:00",
+    "bytes": 3656,
+    "sha256": "a3152f1898a698c56f90c149434ea27df398301304ff5d8a31a41a3db6525c18"
+  },
+  "comtrade_adubos_2022": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2022&partnerCode=0,156,842,643&flowCode=M&cmdCode=31",
+    "capturado_em_utc": "2026-10-26T13:03:41+00:00",
+    "bytes": 3659,
+    "sha256": "2c00d38e9843114597977a4f1ae646ee15123ccea4118d0295b20061fb3e4345"
+  },
+  "comtrade_adubos_2023": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2023&partnerCode=0,156,842,643&flowCode=M&cmdCode=31",
+    "capturado_em_utc": "2026-10-26T13:03:46+00:00",
+    "bytes": 3657,
+    "sha256": "490f2a29b3d2041e72f899743d73bfccc0d2b27a346f704a17285ac4fb70fcc7"
+  },
+  "comtrade_adubos_2024": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2024&partnerCode=0,156,842,643&flowCode=M&cmdCode=31",
+    "capturado_em_utc": "2026-10-26T13:03:52+00:00",
+    "bytes": 3659,
+    "sha256": "27b5342c3a90574ab7727a3b9f91fe94ce948216bdf013594ce8641e35696d26"
+  },
+  "comtrade_adubos_2025": {
+    "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2025&partnerCode=0,156,842,643&flowCode=M&cmdCode=31",
+    "capturado_em_utc": "2026-10-26T13:03:56+00:00",
+    "bytes": 3659,
+    "sha256": "091f2e37ba8f48b66806a8fefe3fe2623e17d8ff49575bbe1607de929ba09ccd"
+  }
+}

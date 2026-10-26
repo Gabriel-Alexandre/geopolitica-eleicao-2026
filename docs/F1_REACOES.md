@@ -2,7 +2,7 @@
 
 Gerado por `ferramentas/gerar_f1.py`. Cada citação foi procurada, palavra por palavra, no texto capturado da página (`dados/capturas/<fonte>.txt`, com sha256 em `dados/MANIFESTO.json`). As duas lentes do pré-registro valem aqui: as falas dos dois lados entram pela mesma régua.
 
-**Captura:** 39 de 42 páginas. **Citações conferidas no texto capturado:** 33 de 33.
+**Captura:** 49 de 42 páginas. **Citações conferidas no texto capturado:** 33 de 33.
 
 ## 1. O que o Trump disse, e o que não disse
 
@@ -112,7 +112,7 @@ Gerado por `ferramentas/gerar_f1.py`. Cada citação foi procurada, palavra por 
 ## 5. O que não foi capturado
 
 - `t05`: 404
-- `d04`: ReadTimeout
+- `d04`: Error
 - `b01`: 403
 
 A fala do Flávio, que estava no Conjur (403), está conferida pela Al Jazeera (q21) e pela CN1 (b03). A apuração da Reuters sobre o Departamento de Estado (US News, tempo esgotado) segue registrada no pré-registro como reportagem com fonte anônima.

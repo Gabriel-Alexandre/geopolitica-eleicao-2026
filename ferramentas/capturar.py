@@ -8,6 +8,7 @@ Página com texto já capturado não é baixada de novo, a menos que se passe --
 Com --navegador, as que faltam são abertas no Edge (para páginas que recusam o pedido direto).
 """
 import csv
+import re
 import hashlib
 import json
 import sys
@@ -45,7 +46,14 @@ def extrair_texto(html: bytes) -> str:
         corpo = sopa.body or sopa
     linhas = [linha.strip() for linha in corpo.get_text("\n").splitlines()]
     texto = "\n".join(linha for linha in linhas if linha)
-    return f"TITULO: {titulo}\n\n{texto}\n"
+    return tarjar(f"TITULO: {titulo}\n\n{texto}\n")
+
+
+def tarjar(texto: str) -> str:
+    """Documento pessoal (passaporte, identidade, CPF) não entra no repositório público, nem quando a página oficial o traz."""
+    texto = re.sub(r"(Passport)\s+[A-Z]{0,3}\d[\w-]*", r"\1 [tarjado]", texto)
+    texto = re.sub(r"(National ID No\.)\s*[\d./-]+", r"\1 [tarjado]", texto)
+    return re.sub(r"(CPF:?)\s*\d{3}\.?\d{3}\.?\d{3}-?\d{2}", r"\1 [tarjado]", texto)
 
 
 def baixar_com_navegador(url: str) -> tuple[int, bytes]:
@@ -89,9 +97,7 @@ def main() -> None:
             (BRUTOS / f"{ident}.html").write_bytes(bruto)
             if status == 200:
                 texto = extrair_texto(bruto)
-                # gravado em bytes: no Windows, write_text trocaria 
- por 
- e o arquivo deixaria de bater com o hash
+                # gravado em bytes: no Windows, write_text trocaria o fim de linha e o arquivo deixaria de bater com o hash
                 bytes_texto = texto.encode("utf-8")
                 destino.write_bytes(bytes_texto)
                 registro["sha256_texto"] = sha256(bytes_texto)

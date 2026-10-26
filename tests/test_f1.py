@@ -26,3 +26,9 @@ def test_o_arquivo_capturado_bate_com_o_hash_do_manifesto():
         if registro.get("ok"):
             dados = (RAIZ / "dados" / "capturas" / f"{ident}.txt").read_bytes()
             assert hashlib.sha256(dados).hexdigest() == registro["sha256_texto"], ident
+
+
+def test_todos_os_scripts_compilam():
+    import py_compile
+    for script in (RAIZ / "ferramentas").glob("*.py"):
+        py_compile.compile(str(script), doraise=True)
