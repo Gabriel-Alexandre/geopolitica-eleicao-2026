@@ -76,3 +76,7 @@ Regra do pré-registro (§5): cada caso é codificado em **duas passadas indepen
 - Os **dois lados**: em cada caso, procure tanto o que sustenta a acusação de fraude quanto o que a rejeita, e registre a conclusão das instituições e dos observadores, não a sua.
 - Datas exatas sempre que achar; se a data for aproximada, diga nas notas.
 - Não invente: campo sem fonte fica `null` e a nota diz por quê.
+
+## Como as passadas foram feitas (registro, 26/out/2026)
+
+As duas passadas foram feitas por quatro instâncias da mesma IA (Claude), duas por passada, cada uma em contexto separado, com esta ficha como instrução e a ordem de não abrir os arquivos da outra passada. Nenhuma instância via o trabalho das outras. **Limite:** codificadores do mesmo modelo podem errar do mesmo jeito; a concordância mede o acordo entre eles, não a verdade. A cota de buscas da sessão acabou no meio do trabalho, e por isso parte dos casos fechou com páginas abertas diretamente e seis casos não fecharam com duas fontes.

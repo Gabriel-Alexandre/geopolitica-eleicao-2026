@@ -7,6 +7,7 @@ Regras: pré-registro §5 e emendas 2 e 3.
 """
 import csv
 import json
+import statistics
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -165,7 +166,11 @@ def taxas_base(casos: dict) -> list[dict]:
     return linhas
 
 
-def teste_do_passado(casos: dict) -> tuple[list[dict], dict]:
+def ano(nome: str) -> int:
+    return int(nome.rsplit("-", 1)[1])
+
+
+def teste_do_passado(casos: dict, so_anteriores: bool = False) -> tuple[list[dict], dict]:
     """Emenda 2: cada caso previsto pela taxa dos outros (deixa-um-de-fora), com a condição conhecida na noite."""
     validos = {n: r for n, r in casos.items() if "excluido" not in r}
     linhas = []
@@ -177,6 +182,7 @@ def teste_do_passado(casos: dict) -> tuple[list[dict], dict]:
             chave = CONDICAO.get(desfecho)
             condicao = registro.get(chave) if chave else None
             outros = [funcao(r) for n, r in validos.items() if n != nome
+                      and (not so_anteriores or ano(n) < ano(nome))
                       and (chave is None or condicao in (None, "divergente") or r.get(chave) == condicao)]
             outros = [v for v in outros if v is not None]
             previsto = (sum(outros) + 1) / (len(outros) + 2)  # Laplace: sem dado, 50%
@@ -193,6 +199,21 @@ def teste_do_passado(casos: dict) -> tuple[list[dict], dict]:
             if do_caso:
                 resumo[caso] = round(sum(l["brier"] for l in do_caso) / len(do_caso), 4)
     return linhas, resumo
+
+
+def brier_sem_condicionar(casos: dict) -> float:
+    """Referência mais dura (pedido do auditor): a taxa geral dos outros casos, sem a relação do vencedor."""
+    validos = {n: r for n, r in casos.items() if "excluido" not in r}
+    notas = []
+    for nome, registro in validos.items():
+        for funcao in DESFECHOS.values():
+            real = funcao(registro)
+            if real is None:
+                continue
+            outros = [v for v in (funcao(r) for n, r in validos.items() if n != nome) if v is not None]
+            previsto = (sum(outros) + 1) / (len(outros) + 2)
+            notas.append((previsto - real) ** 2)
+    return round(sum(notas) / len(notas), 4)
 
 
 # ---------- F3 ----------
@@ -233,6 +254,62 @@ def interesses() -> dict:
     }
 
 
+# ---------- revisão adversarial: o teto das duas pontas e as variantes ----------
+
+DIFERENCA_2026 = 64_256_232 - 59_826_041  # votos do Lula menos votos do Flávio (TSE, 100% apurado)
+VOTOS_DEPOIS_17H_G1 = 35_521  # contagem do g1 nos logs (dados/f4_estado_26out.md §4); uma origem só
+
+
+def teto_das_duas_pontas() -> dict:
+    """As duas queixas de procedimento, levadas ao pior caso para cada lado (pedido dos dois revisores)."""
+    detalhe = ler_csv(DERIVADOS / "copias" / "uf_detalhe_previsao_segundo_turno.csv")
+    abst = lambda ano, turno: sum(int(l["abstencoes"]) for l in detalhe if l["ano"] == str(ano) and l["turno"] == str(turno))  # noqa: E731
+    impedidos = {}
+    for fatia in (55, 60, 65, 75, 100):
+        saldo_por_eleitor = (2 * fatia - 100) / 100  # cada impedido tiraria esse saldo do Flávio
+        impedidos[f"{fatia}% para o Flávio"] = round(DIFERENCA_2026 / saldo_por_eleitor)
+    return {
+        "diferenca_votos": DIFERENCA_2026,
+        "votos_acrescentados_necessarios_todos_para_o_lula": DIFERENCA_2026,
+        "votos_depois_das_17h_g1": VOTOS_DEPOIS_17H_G1,
+        "vezes_que_o_g1_teria_de_estar_errado": round(DIFERENCA_2026 / VOTOS_DEPOIS_17H_G1, 1),
+        "eleitores_impedidos_necessarios": impedidos,
+        "abstencao_2o_turno_2022": abst(2022, 2),
+        "abstencao_1o_turno_2026": abst(2026, 1),
+    }
+
+
+def variantes(casos: dict) -> list[dict]:
+    """Objeções que viram conta (docs/REVISAO_ADVERSARIAL.md)."""
+    linhas = []
+    validos = {n: r for n, r in casos.items() if "excluido" not in r}
+    # V1 (defensor da lente F): anulação por irregularidade de procedimento conta na lente L
+    base = [n for n, r in validos.items() if r.get("fraude_demonstrada") == "nao" and sim_nao(r.get("eleicao_anulada_ou_refeita")) is not None]
+    anuladas_base = [n for n in base if sim_nao(validos[n].get("eleicao_anulada_ou_refeita")) == 1]
+    for nome, extra in [("V1a: Quênia 2017 contado como fraude não demonstrada (a Suprema Corte anulou por irregularidade, sem atribuir fraude)", ["quenia-2017"]),
+                        ("V1b: Quênia 2017 e Malaui 2019 contados como fraude não demonstrada", ["quenia-2017", "malaui-2019"])]:
+        extras = [n for n in extra if n not in base]
+        anuladas = anuladas_base + [n for n in extras]  # os dois foram anulados
+        linhas.append({"variante": nome, "desfecho": "anulada_ou_refeita (lente L)",
+                       "principal": f"{len(anuladas_base)} de {len(base)}", "variante_valor": f"{len(anuladas)} de {len(base) + len(extras)}"})
+    # V3 (auditor): a lente F do histórico junta fraude demonstrada e fraude disputada; aqui separadas
+    for desfecho in ("anulada_ou_refeita", "eua_nao_reconheceu", "eua_sancao_12m", "vencedor_tomou_posse"):
+        for categoria in ("sim", "disputado"):
+            valores = [(n, DESFECHOS[desfecho](r)) for n, r in validos.items() if r.get("fraude_demonstrada") == categoria]
+            valores = [(n, v) for n, v in valores if v is not None]
+            linhas.append({"variante": f"V3: só fraude {'demonstrada' if categoria == 'sim' else 'disputada'}", "desfecho": desfecho,
+                           "principal": "demonstrada e disputada juntas",
+                           "variante_valor": f"{sum(v for _, v in valores)} de {len(valores)} ({', '.join(n for n, _ in valores)})"})
+    # V2 (defensor da lente L): a relação do Lula com os EUA em 2026 declarada como neutra, como em 2014 e 2022
+    for desfecho in ("eua_parabens_30d", "eua_sancao_12m"):
+        for relacao in ("neutro", "adversario"):
+            valores = [DESFECHOS[desfecho](r) for r in validos.values() if r.get("relacao_do_vencedor.eua") == relacao]
+            valores = [v for v in valores if v is not None]
+            linhas.append({"variante": f"V2: relação do Lula com os EUA em 2026 = {relacao}", "desfecho": desfecho,
+                           "principal": "relação não declarada", "variante_valor": f"{sum(valores)} de {len(valores)}"})
+    return linhas
+
+
 def gravar_csv(nome: str, linhas: list[dict]) -> None:
     if not linhas:
         return
@@ -248,9 +325,13 @@ def main() -> None:
     casos, concordancia = consenso(a, b)
     base = taxas_base(casos)
     teste, resumo_teste = teste_do_passado(casos)
+    _, resumo_anteriores = teste_do_passado(casos, so_anteriores=True)
+    resumo_teste["brier_so_com_casos_anteriores"] = resumo_anteriores.get("brier_metodo")
+    resumo_teste["brier_taxa_geral_sem_condicionar"] = brier_sem_condicionar(casos)
     gravar_csv("f2_concordancia.csv", concordancia)
     gravar_csv("f2_taxas_base.csv", base)
     gravar_csv("f6_teste_do_passado.csv", teste)
+    gravar_csv("variantes.csv", variantes(casos))
     (RESULTADOS / "f2_casos_consenso.json").write_text(json.dumps(casos, ensure_ascii=False, indent=2), encoding="utf-8")
     pares = [l for l in concordancia if l["casos_com_as_duas"]]
     resumo = {
@@ -258,9 +339,10 @@ def main() -> None:
                "casos_na_conta": sum("excluido" not in r for r in casos.values()),
                "casos_excluidos": {n: r["excluido"] for n, r in casos.items() if "excluido" in r},
                "concordancia_media": round(sum(l["concordancia"] for l in pares) / len(pares), 3) if pares else None,
-               "kappa_mediano": sorted(l["kappa"] for l in pares if l["kappa"] is not None)[len(pares) // 2] if pares else None},
+               "kappa_mediano": round(statistics.median(l["kappa"] for l in pares if l["kappa"] is not None), 3) if pares else None},
         "f6": resumo_teste,
         "f3": interesses(),
+        "teto_das_duas_pontas": teto_das_duas_pontas(),
     }
     (RESULTADOS / "RESUMO.json").write_text(json.dumps(resumo, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps({k: v for k, v in resumo.items() if k != "f3"}, ensure_ascii=False, indent=2))

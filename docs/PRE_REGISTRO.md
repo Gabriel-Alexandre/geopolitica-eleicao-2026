@@ -206,3 +206,25 @@ Cada linha tem a faixa nas três lentes e o **critério de resolução**. A nota
 ### Emenda 3 (26/out/2026, antes de ver o dado de C1 e C2)
 
 **A fonte de C1 e C2 mudou de nome:** o projeto do vídeo 16 passou a se chamar `investigacao-segundo-turno-2026` (é ele que está coletando os boletins, o RDV e os logs do 2º turno). Os números de C1 e C2 vêm de lá, copiados com hash. Enquanto não existirem, C1 e C2 ficam *sem dado*. Número de imprensa sobre votos depois das 17h não substitui o C1: o g1 contou 35.521 votos depois das 17h no 2º turno, e o projeto do vídeo 8 mediu 3,72 milhões no 1º turno sem prorrogação nenhuma; a diferença de cem vezes pede a medida feita nos logs antes de qualquer uso.
+
+### Emenda 4 (26/out/2026, escrita **depois** de ver o dado e a revisão adversarial)
+
+Cinco mudanças, todas pedidas pelos revisores (`docs/revisao/`), cada uma com a direção dita:
+
+1. **C3 e C5 com prazo e fonte.** "Ação não proposta" só aponta L depois de vencido o prazo da ação; com 14 horas de prazo corrido, C3 fica *sem dado*. Item de C5 que não foi conferido em duas fontes, ou que só veio de resumo de busca, não conta; C5 fica *sem dado* até o consolidado do TSE. Direção: contra L (o veredito de lente deixa de ter critérios a favor de L).
+2. **A lente F do histórico separada em duas.** O pré-registro chamava de lente F os casos de fraude demonstrada e os de fraude disputada juntos, sem dizer. As taxas passam a sair juntas e separadas (`resultados/variantes.csv`, V3).
+3. **A relação do Lula com os EUA em 2026 declarada como neutra**, como foi codificada em 2014 e 2022, porque nenhuma das duas passadas codificou 2026 e as suposições usavam a taxa sem dizer qual. A variante *adversário* é publicada ao lado (V2). Direção: a favor de L.
+4. **C1 ganha uma parte b: os eleitores impedidos de votar** (seções que fecharam antes do aviso das 17h49, falta de ônibus). Ela se mede nos mesmos logs e atas do projeto do vídeo 16. Enquanto não houver dado, publica-se o **teto das duas pontas**: quantos votos acrescentados, ou quantos eleitores impedidos, seriam precisos para virar a diferença (`resultados/RESUMO.json`). Direção: a favor de F (mede uma alegação que o C1 original deixava de fora).
+5. **O teste do passado também só com casos anteriores** a cada caso testado, além do deixa-um-de-fora, e contra a taxa geral sem condicionar.
+
+### Emenda 5 (26/out/2026, depois do dado e da revisão do auditor)
+
+O que o projeto fez diferente do escrito, dito por extenso:
+
+1. **A nota de Brier das suposições usa as faixas da §8 (as do pré-registro), não as faixas atualizadas** do relatório. As atualizadas são a leitura de hoje, depois do dado; usá-las na nota seria dar a si mesmo a chance de corrigir a aposta.
+2. **A fonte do comércio mudou de Comex Stat (MDIC) para UN Comtrade**, com os dados declarados pelo próprio Brasil: a API do Comex Stat respondeu 429 a todos os pedidos de 26/out e os arquivos em lote não abriram.
+3. **A base NELDA não foi usada.** A taxa-base saiu só dos casos codificados à mão (§5). É um limite do projeto, não uma escolha de resultado.
+4. **A taxa do teste do passado usa a suavização de Laplace**: (casos com o desfecho + 1) ÷ (casos + 2), o que dá 50% quando não há caso parecido.
+5. **A S12 resolve quando os dados existirem**, não em 31/dez/2027: a base de votos da ONU vai até 2024 e o comércio de 2027 só sai em 2028.
+6. **As fontes da F4 foram capturadas com sha256** depois do levantamento (`dados/fontes_f4.csv`), como a §9 pede para toda fonte.
+7. **Ordem da emenda 2:** quando ela foi gravada (commit `e0b1bc2`, 10h11), a pasta `dados/casos/` estava vazia, conferido na sessão; as fichas entraram no commit seguinte. Isso não é verificável por terceiro além da ordem dos commits.

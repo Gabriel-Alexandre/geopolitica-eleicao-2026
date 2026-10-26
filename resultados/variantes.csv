@@ -1,0 +1,15 @@
+variante,desfecho,principal,variante_valor
+"V1a: Quênia 2017 contado como fraude não demonstrada (a Suprema Corte anulou por irregularidade, sem atribuir fraude)",anulada_ou_refeita (lente L),0 de 10,1 de 11
+V1b: Quênia 2017 e Malaui 2019 contados como fraude não demonstrada,anulada_ou_refeita (lente L),0 de 10,2 de 12
+V3: só fraude demonstrada,anulada_ou_refeita,demonstrada e disputada juntas,"0 de 2 (bielorrussia-2020, venezuela-2024)"
+V3: só fraude disputada,anulada_ou_refeita,demonstrada e disputada juntas,"3 de 4 (bolivia-2019, quenia-2007, quenia-2017, romenia-2024)"
+V3: só fraude demonstrada,eua_nao_reconheceu,demonstrada e disputada juntas,"2 de 2 (bielorrussia-2020, venezuela-2024)"
+V3: só fraude disputada,eua_nao_reconheceu,demonstrada e disputada juntas,"0 de 3 (bolivia-2019, quenia-2007, romenia-2024)"
+V3: só fraude demonstrada,eua_sancao_12m,demonstrada e disputada juntas,"2 de 2 (bielorrussia-2020, venezuela-2024)"
+V3: só fraude disputada,eua_sancao_12m,demonstrada e disputada juntas,"1 de 4 (bolivia-2019, quenia-2007, quenia-2017, romenia-2024)"
+V3: só fraude demonstrada,vencedor_tomou_posse,demonstrada e disputada juntas,"2 de 2 (bielorrussia-2020, venezuela-2024)"
+V3: só fraude disputada,vencedor_tomou_posse,demonstrada e disputada juntas,"2 de 4 (bolivia-2019, quenia-2007, quenia-2017, romenia-2024)"
+V2: relação do Lula com os EUA em 2026 = neutro,eua_parabens_30d,relação não declarada,3 de 5
+V2: relação do Lula com os EUA em 2026 = adversario,eua_parabens_30d,relação não declarada,0 de 5
+V2: relação do Lula com os EUA em 2026 = neutro,eua_sancao_12m,relação não declarada,0 de 6
+V2: relação do Lula com os EUA em 2026 = adversario,eua_sancao_12m,relação não declarada,4 de 5

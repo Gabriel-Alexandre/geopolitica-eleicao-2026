@@ -1,20 +1,23 @@
 # Estado
 
-**26/out/2026, 8h:** repositório criado e pré-registro publicado (`docs/PRE_REGISTRO.md`).
+**26/out/2026:** todas as fases do pré-registro rodaram com o que existia até a manhã de 26/out. Comece pelo [`RESUMO_SIMPLES.md`](RESUMO_SIMPLES.md) e pelo [`RELATORIO.md`](RELATORIO.md).
 
-**26/out/2026, manhã: F1 feita.** 39 de 42 páginas capturadas com sha256, 33 de 33 citações conferidas palavra por palavra no texto capturado, relatório em [`docs/F1_REACOES.md`](docs/F1_REACOES.md). O que o Trump disse: a fala do *"manual de Joe Biden"* existe e vem de uma origem só, a EFE; não foi post no Truth Social (0 de 19 posts de 25/out falam do Brasil). Putin parabenizou às 6h40 de Brasília, antes do pré-registro: emenda 1 (sai da nota de Brier). Para refazer: `python ferramentas/capturar.py dados/fontes_f1.csv` (e `--navegador` para as que recusam o pedido direto) e `python ferramentas/gerar_f1.py`.
-
-## Próximas fases (do pré-registro)
-
-| Fase | O que sai | Estado |
+| Fase | O que saiu | Estado |
 |---|---|---|
-| F0 · Pré-registro | `docs/PRE_REGISTRO.md` | ✅ |
-| F1 · As primeiras 72 h | reações oficiais e falas dos dois círculos, capturadas com hash | ✅ 1ª captura (26/out, manhã); novas capturas em 7 dias e na posse |
-| F2 · A classe de referência | NELDA e as fichas dos casos, em duas passadas | ⬜ |
-| F3 · Os interesses | comércio, investimento, minerais, sanções, votos na ONU | ⬜ |
-| F4 · A contestação | critérios C1 a C5, com o projeto `apuracao-segundo-turno-2026` | ⬜ |
-| F5 · Síntese | suposições pelas lentes L, F1 e F2, peso das lentes | ⬜ |
-| F6 · Teste do passado | Brasil 2022, Honduras 2025, Hungria 2026, com a nota de Brier | ⬜ |
-| F7 · Fechamento | validação, revisão adversarial, relatório e gráficos por script | ⬜ |
+| F0 · Pré-registro | `docs/PRE_REGISTRO.md` (`0f72f8e`) e as emendas 1 a 5 (§13) | ✅ |
+| F1 · As primeiras horas | 39 de 42 páginas com sha256, 33 de 33 citações conferidas: [`docs/F1_REACOES.md`](docs/F1_REACOES.md) | ✅ 1ª captura; ⬜ nova captura em 02/nov e na posse (§9 do pré-registro) |
+| F2 · O histórico | 25 casos em duas passadas independentes, 19 na conta, concordância e kappa em `resultados/f2_concordancia.csv` | ✅ |
+| F3 · Os interesses | comércio, adubos, votos na ONU, terras raras e as medidas dos EUA, com sha256 em `dados/MANIFESTO_F3.json` | ✅ |
+| F4 · A contestação | critérios C1 a C5 em [`docs/F4_CONTESTACAO.md`](docs/F4_CONTESTACAO.md) e o levantamento dos dois lados em `dados/f4_estado_26out.md` (41 de 46 fontes com sha256) | ⚠️ os 5 critérios **sem dado** em 26/out (emenda 4); C1 e C2 esperam os logs do projeto `investigacao-segundo-turno-2026`, C3 o prazo da ação, C4 os inquéritos e a OEA, C5 o consolidado do TSE |
+| F5 · Síntese | as 12 suposições pelas lentes L, F1 e F2 em `dados/sintese_suposicoes.csv` e no relatório | ✅ |
+| F6 · Teste do passado | deixa-um-de-fora em `resultados/f6_teste_do_passado.csv` | ✅ |
+| F7 · Fechamento | validação independente, revisão adversarial, relatório, resumo, leitura da IA, 8 gráficos | ✅ |
 
-Mudança de regra depois de hoje: só por emenda, na §13 do pré-registro.
+## O que falta, e quando
+
+- **C1 e C2:** quando o projeto `investigacao-segundo-turno-2026` publicar os votos depois das 17h e a conferência dos boletins contra a totalização, copiar com hash, preencher `dados/criterios_c1_c5.csv` e rodar `analise.py`, `gerar_relatorio.py`. O veredito de lente muda só por esses dois critérios.
+- **Conferir as suposições:** cada uma tem prazo e critério de resolução na §8 do pré-registro (02/nov, 25/nov, 05/jan/2027 e fim de 2027).
+
+## Como refazer tudo
+
+Ver a §8 do `RELATORIO.md`.

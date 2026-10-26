@@ -8,6 +8,7 @@ import textwrap
 from pathlib import Path
 
 import matplotlib
+import matplotlib.patches
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
@@ -119,7 +120,7 @@ def g06_taxas_base() -> None:
              ("russia_parabens_7d", "Rússia parabeniza em até 7 dias"), ("anulada_ou_refeita", "A eleição é anulada ou refeita")]
     figura, eixo = nova("O que aconteceu nas eleições contestadas",
                         "Em quantos casos, pelas duas lentes (fraude não demonstrada e fraude demonstrada ou disputada)")
-    figura.subplots_adjust(left=0.30)
+    figura.subplots_adjust(left=0.34, top=0.74)
     grupos = [("fraude não demonstrada (lente L)", "#2E8B57", -0.2), ("fraude demonstrada ou disputada (lente F)", "#B03A2E", 0.2)]
     for grupo, cor, deslocamento in grupos:
         for posicao, (chave, _) in enumerate(itens):
@@ -130,11 +131,11 @@ def g06_taxas_base() -> None:
             eixo.barh(posicao + deslocamento, taxa, height=0.38, color=cor)
             eixo.text(taxa + 1, posicao + deslocamento, f"{linha['sim']} de {linha['n']}", va="center", fontsize=20)
     eixo.set_yticks(range(len(itens)))
-    eixo.set_yticklabels([rotulo for _, rotulo in itens])
+    eixo.set_yticklabels([rotulo for _, rotulo in itens], fontsize=19)
     eixo.invert_yaxis()
     eixo.set_xlim(0, 115)
     eixo.xaxis.set_major_formatter(lambda v, _: f"{v:.0f}%" if v <= 100 else "")
-    eixo.text(0.0, -0.13, "verde: fraude não demonstrada  ·  vermelho: fraude demonstrada ou disputada",
+    eixo.text(0.0, 1.04, "verde: fraude não demonstrada  ·  vermelho: fraude demonstrada ou disputada",
               transform=eixo.transAxes, fontsize=18, color="#444444")
     salvar(figura, "g06_o_que_aconteceu", "fichas dos casos, duas passadas independentes (dados/casos/)")
 
@@ -153,6 +154,39 @@ def g07_quem_reconheceu() -> None:
     salvar(figura, "g07_quem_deu_parabens", "capturas com sha256 em dados/capturas/ (docs/F1_REACOES.md)")
 
 
+FAIXA_COR = {"quase nenhuma chance": "#7F1D1D", "muito improvável": "#B91C1C", "improvável": "#F87171",
+             "chance parecida": "#D1D5DB", "provável": "#86EFAC", "muito provável": "#22C55E",
+             "quase certo": "#15803D", "aconteceu": "#1E3A8A", "não se aplica": "#FFFFFF"}
+CURTO = {"S1": "Justiça anula o 2º turno", "S2": "Lula toma posse", "S3": "Protestos em 5 estados ou mais",
+         "S4": "EUA tratam Lula como governo", "S5": "Trump dá parabéns em 30 dias",
+         "S6": "Dep. de Estado trata como válido", "S7": "EUA falam em fraude",
+         "S8": "Nova medida dos EUA até a posse", "S9": "Xi manda mensagem pessoal",
+         "S10": "Putin dá parabéns", "S11": "China ou Rússia acusam os EUA",
+         "S12": "Brasil mais perto da China"}
+
+
+def g08_suposicoes() -> None:
+    with (RAIZ / "dados" / "sintese_suposicoes.csv").open(encoding="utf-8") as arquivo:
+        linhas = list(csv.DictReader(arquivo))
+    figura, eixo = nova("O que esperar, pelas duas lentes", "Faixa de probabilidade se o resultado for legítimo e se a fraude for demonstrada")
+    figura.subplots_adjust(left=0.08, right=0.97, top=0.80, bottom=0.12)
+    eixo.axis("off")
+    altura = 1 / (len(linhas) + 1)
+    eixo.text(0.57, 1 - altura / 2, "se legítimo (L)", ha="center", fontsize=20, fontweight="bold", transform=eixo.transAxes)
+    eixo.text(0.85, 1 - altura / 2, "se fraude demonstrada (F1)", ha="center", fontsize=20, fontweight="bold", transform=eixo.transAxes)
+    for i, linha in enumerate(linhas):
+        y = 1 - (i + 1.5) * altura
+        eixo.text(0.0, y, CURTO.get(linha["id"], linha["suposicao"]), fontsize=17, va="center", transform=eixo.transAxes)
+        for x, chave in ((0.57, "final_L"), (0.85, "final_F1")):
+            faixa = linha[chave]
+            eixo.add_patch(matplotlib.patches.FancyBboxPatch((x - 0.125, y - altura * 0.4), 0.25, altura * 0.8,
+                           boxstyle="round,pad=0.003", color=FAIXA_COR.get(faixa, "#EEEEEE"), transform=eixo.transAxes))
+            escuro = faixa in ("quase nenhuma chance", "muito improvável", "quase certo", "aconteceu")
+            eixo.text(x, y, faixa, ha="center", va="center", fontsize=16, color="white" if escuro else "black",
+                      transform=eixo.transAxes)
+    salvar(figura, "g08_suposicoes_duas_lentes", "dados/sintese_suposicoes.csv; escala de probabilidade da ICD 203")
+
+
 def main() -> None:
     resumo = json.loads((RESULTADOS / "RESUMO.json").read_text(encoding="utf-8"))
     f3 = resumo["f3"]
@@ -163,6 +197,7 @@ def main() -> None:
     g05_adubos(f3)
     g06_taxas_base()
     g07_quem_reconheceu()
+    g08_suposicoes()
     print(sorted(p.name for p in FIGURAS.glob("*.png")))
 
 

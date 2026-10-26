@@ -2,12 +2,12 @@
 
 Gerado por `ferramentas/gerar_f1.py`. Cada citação foi procurada, palavra por palavra, no texto capturado da página (`dados/capturas/<fonte>.txt`, com sha256 em `dados/MANIFESTO.json`). As duas lentes do pré-registro valem aqui: as falas dos dois lados entram pela mesma régua.
 
-**Captura:** 49 de 42 páginas. **Citações conferidas no texto capturado:** 33 de 33.
+**Captura:** 39 de 42 páginas. **Citações conferidas no texto capturado:** 33 de 33.
 
 ## 1. O que o Trump disse, e o que não disse
 
 - **A fala existe, e a origem é uma só: a agência EFE**, de Washington, na noite de 25/out: *"Acaban de aplicar en Brasil el manual de Joe Biden. Bolsonaro llevaba una gran ventaja en la primera vuelta y era el claro favorito para ganar la segunda. Pero los comunistas no sueltan el poder una vez que lo consiguen"* (conferida no texto capturado). Vários veículos republicaram o mesmo despacho (Infobae, Times Brasil, Primera Hora, Diario Libre); isso é uma fonte repetida, não várias.
-- **Não foi post no Truth Social.** O arquivo independente dos posts dele (Trump's Truth) tem 19 posts em 25/out, do primeiro (October 25, 2026, 12:42 AM) ao último lido (October 25, 2026, 10:31 PM, horário da costa leste dos EUA), e 0 falam de Brasil, Lula, Bolsonaro ou Biden. A EFE não diz o canal, e não foi achado vídeo nem transcrição da fala.
+- **Não está entre os posts do Truth Social de 25/out.** O arquivo independente dos posts dele (Trump's Truth) tem 19 posts em 25/out, do primeiro (October 25, 2026, 12:42 AM) ao último lido (October 25, 2026, 10:31 PM, horário da costa leste dos EUA), e 0 falam de Brasil, Lula, Bolsonaro ou Biden. A EFE não diz o canal, e não foi achado vídeo nem transcrição da fala.
 - **A Time não registrou a fala** até o começo da manhã de 26/out (*"Trump has not reacted to the election results as of early Monday"*). As duas versões do pré-registro se resolvem assim: houve a fala, relatada por uma agência só; não foi achado post dele nem nota da Casa Branca.
 - Antes do resultado, ele tinha dito: *"I don’t want to get into that, but we are watching"*.
 - **Como isso entra nas suposições:** a fala é anterior ao commit do pré-registro e já estava no §0 dele (*"duas versões"*). Ela não usa as palavras do critério da S7 (*fraudada, roubada, manipulada*, ou apoio à anulação), então **a S7 continua aberta** até 05/jan/2027. Para a S5 (parabéns em até 30 dias), é um sinal na direção prevista em L, não uma resolução.
@@ -30,7 +30,7 @@ Gerado por `ferramentas/gerar_f1.py`. Cada citação foi procurada, palavra por 
 | (Jornal de Brasília) | 25/out, noite | · | *"a Casa Branca não havia se manifestado sobre o resultado eleitoral brasileiro"* | [d02](https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-tera-trump-como-principal-desafio-externo-e-apostara-em-dialogo-apos-embates-na-eleicao/) | ✅ |
 | Amanda Roberson (porta-voz do Departamento de Estado) | setembro | CNN Brasil | *"atuar sobre eleições de outros países não faz parte da estratégia americana"* · é a forma como a CNN Brasil resume a fala | [d03](https://www.cnnbrasil.com.br/blogs/priscila-yazbek/internacional/a-cnn-eua-negam-interferencia-na-eleicao-brasileira-apos-acusacoes-de-lula/) | ✅ |
 
-### Quem fala pelo círculo do Trump
+### Quem fala pelo círculo do Trump ou perto dele (inclui aliados brasileiros do Flávio que moram nos EUA)
 
 | Quem | Quando | Canal | O que disse | Fonte | Conferida |
 |---|---|---|---|---|---|

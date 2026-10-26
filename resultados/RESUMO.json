@@ -12,7 +12,7 @@
       "venezuela-2013": "não fecha com duas fontes em uma das passadas"
     },
     "concordancia_media": 0.953,
-    "kappa_mediano": 0.925
+    "kappa_mediano": 0.919
   },
   "f6": {
     "brier_metodo": 0.1913,
@@ -20,7 +20,9 @@
     "previsoes": 145,
     "brasil-2022": 0.1169,
     "honduras-2025": 0.2221,
-    "hungria-2026": 0.1892
+    "hungria-2026": 0.1892,
+    "brier_so_com_casos_anteriores": 0.2144,
+    "brier_taxa_geral_sem_condicionar": 0.2242
   },
   "f3": {
     "ultimo_ano_comercio": 2025,
@@ -322,5 +324,20 @@
       "EUA": 1900000
     },
     "terras_raras_posicao_brasil": 2
+  },
+  "teto_das_duas_pontas": {
+    "diferenca_votos": 4430191,
+    "votos_acrescentados_necessarios_todos_para_o_lula": 4430191,
+    "votos_depois_das_17h_g1": 35521,
+    "vezes_que_o_g1_teria_de_estar_errado": 124.7,
+    "eleitores_impedidos_necessarios": {
+      "55% para o Flávio": 44301910,
+      "60% para o Flávio": 22150955,
+      "65% para o Flávio": 14767303,
+      "75% para o Flávio": 8860382,
+      "100% para o Flávio": 4430191
+    },
+    "abstencao_2o_turno_2022": 32200558,
+    "abstencao_1o_turno_2026": 33469244
   }
 }

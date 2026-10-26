@@ -1,7 +1,8 @@
 """Confere a linguagem dos textos públicos do projeto (pré-registro §11).
 
 Uso: python ferramentas/conferir_linguagem.py
-Acusa: travessão; afirmação de fraude ou de ausência de fraude fora de aspas; julgamento de intenção; recomendação de voto.
+Acusa: travessão; afirmação de fraude ou de ausência de fraude fora de aspas e fora de hipótese de lente;
+julgamento de intenção; recomendação de voto.
 """
 import re
 import sys
@@ -21,16 +22,38 @@ PROIBIDOS = [
     (r"\b(Trump|Lula|Flávio|Putin|Xi) quer\b", "julga intenção"),
     (r"\bvote (em|no|na)\b", "recomendação de voto"),
 ]
+# a palavra aparece como hipótese de lente ou como fala relatada, não como afirmação do projeto
+MARCAS_DE_HIPOTESE = [
+    r"(^|\W)se\s",
+    r"(^|\W)(dizem|disse|dizendo|alegam|alegou|afirmam|afirmou)( em público)? que\s",
+    r"(^|\W)lente(\W|$)",
+    r"(^|\W)hipótese(\W|$)",
+    r"(^|\W)fala em\s",
+]
 
 
 def hipotetico(antes: str) -> bool:
-    """A palavra aparece como hipótese de lente ou como fala relatada ("se houve", "dizem que houve", "lente F")."""
     janela = antes[-45:].lower()
-    return any(marca in janela for marca in ("se ", "que ", "lente", "hipótese", "como ", "o resultado é legítimo"))
+    return any(re.search(marca, janela) for marca in MARCAS_DE_HIPOTESE)
 
 
 def fora_de_aspas(linha: str) -> str:
     return re.sub(r"[\"“][^\"”]*[\"”]|\*\"[^\"]*\"\*|`[^`]*`", "", linha)
+
+
+def achados_na_linha(linha: str) -> list[str]:
+    limpa = fora_de_aspas(linha)
+    motivos = []
+    for padrao, motivo in PROIBIDOS:
+        if motivo == "travessão":
+            if re.search(padrao, linha):
+                motivos.append(motivo)
+            continue
+        for achado in re.finditer(padrao, limpa, re.IGNORECASE):
+            if not hipotetico(limpa[:achado.start()]):
+                motivos.append(motivo)
+                break
+    return motivos
 
 
 def main() -> int:
@@ -40,13 +63,8 @@ def main() -> int:
         if not caminho.exists():
             continue
         for numero, linha in enumerate(caminho.read_text(encoding="utf-8").splitlines(), 1):
-            limpa = fora_de_aspas(linha)
-            for padrao, motivo in PROIBIDOS:
-                achado = re.search(padrao, limpa if motivo != "travessão" else linha, re.IGNORECASE)
-                if achado and motivo != "travessão" and hipotetico(limpa[:achado.start()]):
-                    continue
-                if achado:
-                    achados.append(f"{nome}:{numero}: {motivo}: {linha.strip()[:120]}")
+            for motivo in achados_na_linha(linha):
+                achados.append(f"{nome}:{numero}: {motivo}: {linha.strip()[:120]}")
     for achado in achados:
         print(achado)
     print(f"{len(achados)} achados")

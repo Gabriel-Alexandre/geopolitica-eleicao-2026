@@ -24,6 +24,10 @@ def ler_csv(caminho: Path) -> list[dict]:
         return list(csv.DictReader(arquivo))
 
 
+def milhar(n: int) -> str:
+    return f"{n:,}".replace(",", ".")
+
+
 def num(valor: float, casas: int = 1) -> str:
     return f"{float(valor):.{casas}f}".replace(".", ",")
 
@@ -48,6 +52,9 @@ def veredito_de_lente(criterios: list[dict]) -> str:
         return "L sustentada"
     a_favor_l = [c for c, v in aponta.items() if v.startswith("L")]
     sem = [c for c, v in aponta.items() if v == "sem_dado"]
+    if not a_favor_l:
+        return (f"aberta: nenhum dos {len(aponta)} critérios tem dado suficiente para apontar um lado "
+                f"({', '.join(sem)} sem dado); nenhum aponta fraude e nenhum aponta legitimidade")
     return (f"aberta: {len(a_favor_l)} de 5 critérios apontam L ({', '.join(a_favor_l)}), nenhum aponta F, "
             f"e {len(sem)} estão sem dado ({', '.join(sem)})")
 
@@ -71,18 +78,21 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
     fat = f3["fatias_pct"]
     l = ["# O que esperar dos EUA, da China e da Rússia depois do 2º turno de 2026: relatório\n",
          f"Gerado por `ferramentas/gerar_relatorio.py`. Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre, "
-         f"pelas regras do [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) e das emendas 1 a 3. Repositório: {REPO}\n",
+         f"pelas regras do [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) e das emendas 1 a 5. Repositório: {REPO}\n",
          "## O que este projeto não consegue dizer\n",
          "- **A lente F2 (fraude que não deixou prova) não é testável por dado.** É o mundo em que boletins, logs, totalização e teste de integridade fecham entre si. O projeto mostra o que ela implicaria, mas nenhum dado a confirma ou derruba.",
-         "- **C1 e C2 (a prorrogação e a contagem, medidas nos logs) ainda não têm dado:** a coleta está rodando no projeto `investigacao-segundo-turno-2026`. Até lá o veredito de lente fica aberto.",
+         "- **Nenhum dos 5 critérios de lente tem dado suficiente em 26/out:** C1 e C2 esperam os logs do projeto `investigacao-segundo-turno-2026`, C3 o prazo da ação, C4 os inquéritos e a OEA, C5 o consolidado do TSE. Até lá o veredito de lente fica aberto.",
          f"- **{len(f2['casos_excluidos'])} dos 25 casos históricos saíram da conta** por não fecharem com duas fontes numa das passadas (emenda 2): {', '.join(f2['casos_excluidos']) or 'nenhum'}.",
+         "- **Três casos somem das tabelas por lente** (Malaui 2019, Venezuela 2018 e Nicarágua 2021) porque as duas passadas divergiram em `fraude_demonstrada` (emenda 2); eles continuam nas tabelas de *todos os casos*.",
+         "- **A base sistemática NELDA não foi usada** (emenda 5): a taxa-base sai só dos casos codificados à mão.",
+         "- **As duas passadas foram feitas por instâncias da mesma IA**, com a mesma instrução e sem ver uma a outra; erros comuns ao mesmo modelo não são pegos pela concordância.",
          "- **Interesse se mede pelo que é público** (comércio, votos na ONU, reservas, medidas oficiais). Intenção de pessoa não se mede e não é afirmada.",
          "- **As reações foram lidas até a manhã de 26/out.** As suposições têm prazo e critério de resolução para serem conferidas depois.\n",
          "## 1. A resposta, pelas duas lentes\n",
          f"**Veredito de lente hoje:** {veredito_de_lente(criterios)}. Os critérios estão na §3.\n"]
     l += tabela_suposicoes(sintese)
     l += ["", "## 2. O que o Trump e quem fala por ele disseram\n",
-          f"- A fala do *\"manual de Joe Biden\"* tem uma origem só, a agência EFE (noite de 25/out). Não foi post no Truth Social: "
+          f"- A fala do *\"manual de Joe Biden\"* tem uma origem só, a agência EFE (noite de 25/out). Não está entre os posts do Truth Social de 25/out no arquivo independente: "
           f"{f1['truth_social_posts_sobre_brasil']} de {f1['truth_social_posts_em_25_out']} posts de 25/out falam do Brasil.",
           "- O advogado da Trump Media, Martin De Luca, escreveu que ninguém vai reconhecer a eleição; Donald Trump Jr. e Elon Musk compartilharam; Jason Miller publicou o discurso do Flávio em inglês.",
           "- Até a manhã de 26/out: nenhuma nota da Casa Branca ou do Departamento de Estado, nenhuma medida nova da OFAC.",
@@ -90,6 +100,19 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
           "## 3. A contestação: os critérios C1 a C5\n",
           "| Critério | Estado em 26/out | Aponta |", "|---|---|---|"]
     l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_26out']} | {APONTA[c['aponta']]} |" for c in criterios]
+    t = r["teto_das_duas_pontas"]
+    imp = t["eleitores_impedidos_necessarios"]
+    l += ["", "### 3.1 O teto das duas pontas (emenda 4)\n",
+          "Enquanto o C1 não tem dado, a conta mostra o tamanho que cada queixa precisaria ter, no pior caso para cada lado:\n",
+          f"- **Votos acrescentados pela prorrogação** (a queixa do lado do Flávio): para virar a diferença de {milhar(t['diferenca_votos'])} votos, "
+          f"a prorrogação teria de ter acrescentado pelo menos esse número de votos, todos para o Lula. O g1 contou {milhar(t['votos_depois_das_17h_g1'])} "
+          f"votos depois das 17h; teria de estar errado {num(t['vezes_que_o_g1_teria_de_estar_errado'])} vezes. Esse número do g1 não entra em critério (emenda 3) e espera os logs.",
+          f"- **Eleitores impedidos de votar** (seções que fecharam antes do aviso das 17h49, a queixa do lado do Flávio; a falta de ônibus, "
+          f"queixa do lado do Lula, iria no sentido contrário): se os impedidos "
+          f"votassem 60% no Flávio, seriam precisos {milhar(imp['60% para o Flávio'])}; com 75%, {milhar(imp['75% para o Flávio'])}; com 100%, "
+          f"{milhar(imp['100% para o Flávio'])}. Para comparar, a abstenção inteira do 2º turno de 2022 foi de {milhar(t['abstencao_2o_turno_2022'])} "
+          f"eleitores, e a do 1º turno de 2026, de {milhar(t['abstencao_1o_turno_2026'])}.",
+          "- **O que a conta não diz:** ela não mede quantos foram impedidos de fato; essa é a parte b do C1, que espera os logs e as atas.\n"]
     l += ["", "Detalhe, com as alegações dos dois lados: [`docs/F4_CONTESTACAO.md`](docs/F4_CONTESTACAO.md).\n",
           "## 4. O histórico: as outras vezes\n",
           f"{f2['casos_na_conta']} casos na conta, codificados em duas passadas independentes. Concordância média entre as passadas: "
@@ -114,14 +137,24 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
               f"{num(f6['brier_metodo'], 3)} em {f6['previsoes']} previsões, contra {num(f6['brier_chute_50'], 2)} de quem chuta sempre 50% "
               "(quanto menor, melhor). "
               + " · ".join(f"{c}: {num(f6[c], 3)}" for c in ("brasil-2022", "honduras-2025", "hungria-2026") if c in f6)
-              + ". Tabela: `resultados/f6_teste_do_passado.csv`.\n"]
+              + f". Só com casos anteriores a cada um (emenda 4): {num(f6['brier_so_com_casos_anteriores'], 3)}; com a taxa geral, sem a relação "
+              f"do vencedor: {num(f6['brier_taxa_geral_sem_condicionar'], 3)}. O teste mede a taxa-base, não as faixas ajustadas na síntese. "
+              "Tabela: `resultados/f6_teste_do_passado.csv`.\n"]
+    variantes = ler_csv(RES / "variantes.csv")
+    if variantes:
+        l += ["### 4.1 As variantes pedidas pela revisão adversarial\n", "| Variante | Desfecho | Principal | Com a variante |", "|---|---|---|---|"]
+        l += [f"| {v['variante']} | {v['desfecho']} | {v['principal']} | {v['variante_valor']} |" for v in variantes]
+        l += ["", "**Leitura:** quando a fraude ficou demonstrada e o governo acusado controlava as instituições (Bielorrússia 2020, Venezuela 2024), "
+              "ele ficou no poder e os EUA não reconheceram; quando a fraude foi disputada e a Justiça ou o órgão eleitoral do país agiu "
+              "(Quênia, Bolívia, Romênia), a eleição foi anulada ou refeita. A lente F1 deste projeto (fraude demonstrada pela própria "
+              "Justiça brasileira) se parece mais com o segundo grupo.\n"]
     l += ["## 5. Os interesses, medidos\n",
           f"- **Comércio ({ano}):** a China comprou {num(fat[f'{ano}|exportacao|China'])}% das exportações brasileiras; os EUA, {num(fat[f'{ano}|exportacao|EUA'])}%; a Rússia, {num(fat[f'{ano}|exportacao|Rússia'])}%. "
           f"Nas importações: China {num(fat[f'{ano}|importacao|China'])}%, EUA {num(fat[f'{ano}|importacao|EUA'])}%, Rússia {num(fat[f'{ano}|importacao|Rússia'])}%.",
           f"- **Saldo de {ano}:** com os EUA, o Brasil {'vendeu mais do que comprou' if f3['saldo_brasil_com_eua_usd_ultimo_ano'] > 0 else 'comprou mais do que vendeu'}, uma diferença de US$ {num(abs(f3['saldo_brasil_com_eua_usd_ultimo_ano']) / 1e9)} bilhões; "
           f"com a China, {'vendeu mais do que comprou' if f3['saldo_brasil_com_china_usd_ultimo_ano'] > 0 else 'comprou mais do que vendeu'}, uma diferença de US$ {num(abs(f3['saldo_brasil_com_china_usd_ultimo_ano']) / 1e9)} bilhões.",
-          f"- **Votos na ONU (2024):** o Brasil votou igual à China em {pct(f3['onu_concordancia']['2024|China'])} das votações, à Rússia em {pct(f3['onu_concordancia']['2024|Rússia'])} e aos EUA em {pct(f3['onu_concordancia']['2024|EUA'])}.",
-          f"- **Adubos:** a Rússia vendeu {f3['adubos_fatia_russia_pct'][str(ano)] if str(ano) in f3['adubos_fatia_russia_pct'] else f3['adubos_fatia_russia_pct'][ano]:.0f}% do adubo que o Brasil importou em {ano}.",
+          f"- **Votos na ONU (2024):** pelo índice de concordância de Erik Voeten (abstenção conta como meia concordância), o Brasil votou no mesmo sentido que a China em {pct(f3['onu_concordancia']['2024|China'])} das votações, à Rússia em {pct(f3['onu_concordancia']['2024|Rússia'])} e aos EUA em {pct(f3['onu_concordancia']['2024|EUA'])}.",
+          f"- **Adubos:** em valor, a Rússia vendeu {f3['adubos_fatia_russia_pct'][str(ano)] if str(ano) in f3['adubos_fatia_russia_pct'] else f3['adubos_fatia_russia_pct'][ano]:.0f}% do adubo que o Brasil importou em {ano}.",
           f"- **Terras raras:** o Brasil tem a {f3['terras_raras_posicao_brasil']}ª maior reserva conhecida ({f3['terras_raras_reservas_t']['Brasil'] / 1e6:.0f} milhões de toneladas de óxido), atrás só da China ({f3['terras_raras_reservas_t']['China'] / 1e6:.0f} milhões); os EUA têm {num(f3['terras_raras_reservas_t']['EUA'] / 1e6)} milhão.",
           "", "Gráficos em `resultados/figuras/`.\n",
           "## 6. As hipóteses concorrentes, potência por potência\n",
@@ -142,12 +175,17 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
 def resumo_simples(r: dict, criterios: list[dict], sintese: list[dict]) -> str:
     l = ["# Resumo simples\n",
          "**A pergunta:** depois da reeleição do Lula (51,79% a 48,21%), com o Flávio pedindo a anulação por causa da votação prorrogada até as 19h, o que esperar dos EUA, da China e da Rússia?\n",
-         "**Como:** a IA juntou o que aconteceu em 20 a 25 eleições contestadas do mundo desde 1990, mediu os interesses de cada país no Brasil com dado oficial e leu o que cada um disse nas primeiras horas. Tudo foi feito pelas duas lentes: tratando o resultado como legítimo e tratando como fraude.\n",
+         "**Como:** a IA levantou 25 eleições contestadas do mundo desde 1990 (19 fecharam com duas fontes e entraram na conta), mediu os interesses de cada país no Brasil com dado oficial e leu o que cada um disse nas primeiras horas. Tudo foi feito pelas duas lentes: tratando o resultado como legítimo e tratando como fraude.\n",
          f"**Qual lente o dado de hoje sustenta:** {veredito_de_lente(criterios)}.\n",
+         ("**O tamanho das queixas:** para a prorrogação virar o resultado, ela teria de ter acrescentado "
+          f"{milhar(r['teto_das_duas_pontas']['diferenca_votos'])} votos, todos para o Lula; para eleitores impedidos de votar em seções "
+          f"que fecharam antes do aviso virarem o resultado, com 60% deles no Flávio, seriam precisos "
+          f"{milhar(r['teto_das_duas_pontas']['eleitores_impedidos_necessarios']['60% para o Flávio'])}. "
+          "Quantos houve de fato depende dos logs, que ainda estão sendo baixados.\n"),
          "**O que esperar, em uma linha cada:**\n"]
     for s in sintese:
         l.append(f"- **{s['suposicao']}:** {s['final_L']} se o resultado for legítimo; {s['final_F1']} se a fraude for demonstrada.")
-    l += ["", "**O que mais pesa:** governo de fora reage ao que dá para mostrar. Se uma fraude não deixar prova, o mundo reage como se o resultado fosse legítimo. Por isso o que decide a reação estrangeira é o que os boletins, os logs e a Justiça mostrarem nas próximas semanas.\n",
+    l += ["", "**O que mais pesa:** nos casos do histórico, os governos de fora reagiram ao que ficou demonstrado. Por essa regra, uma fraude que não deixasse prova teria a mesma reação de um resultado legítimo. Por isso o que decide a reação estrangeira é o que os boletins, os logs e a Justiça mostrarem nas próximas semanas.\n",
           f"Relatório completo: [`RELATORIO.md`](RELATORIO.md). Repositório: {REPO}\n"]
     return "\n".join(l) + "\n"
 

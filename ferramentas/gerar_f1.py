@@ -18,7 +18,7 @@ COMMIT_PRE_REGISTRO = "0f72f8e"
 GRUPOS = [
     ("trump", "O presidente dos EUA"),
     ("oficial_eua", "O governo dos EUA"),
-    ("circulo_trump", "Quem fala pelo círculo do Trump"),
+    ("circulo_trump", "Quem fala pelo círculo do Trump ou perto dele (inclui aliados brasileiros do Flávio que moram nos EUA)"),
     ("circulo_lula", "Quem fala pelo círculo do Lula"),
     ("brasil", "Os candidatos e as campanhas"),
     ("russia", "Rússia"),
@@ -75,8 +75,9 @@ def main() -> None:
     posts_25 = [p for p in posts if p[0].startswith("October 25, 2026")]
     sobre_brasil = [p for p in posts if termos.search(p[1])]
 
-    capturadas = [i for i, r in manifesto.items() if r.get("ok")]
-    falhas = {i: r for i, r in manifesto.items() if not r.get("ok")}
+    # só as fontes da F1 (o MANIFESTO também guarda as capturas da F3)
+    capturadas = [i for i, r in manifesto.items() if r.get("ok") and i in fontes]
+    falhas = {i: r for i, r in manifesto.items() if not r.get("ok") and i in fontes}
     conferidas = [c for c in citacoes if c["conferida"] == "sim"]
     resumo = {
         "fontes_na_lista": len(fontes),
@@ -124,7 +125,7 @@ def relatorio(citacoes: list[dict], r: dict, sobre_brasil: list) -> str:
     l.append(f"- **A fala existe, e a origem é uma só: a agência EFE**, de Washington, na noite de 25/out: "
              f"*\"{por_id['q01']['citacao']}\"* ({por_id['q01']['conferida'] == 'sim' and 'conferida no texto capturado' or 'NÃO conferida'}). "
              "Vários veículos republicaram o mesmo despacho (Infobae, Times Brasil, Primera Hora, Diario Libre); isso é uma fonte repetida, não várias.")
-    l.append(f"- **Não foi post no Truth Social.** O arquivo independente dos posts dele (Trump's Truth) tem "
+    l.append(f"- **Não está entre os posts do Truth Social de 25/out.** O arquivo independente dos posts dele (Trump's Truth) tem "
              f"{r['truth_social_posts_em_25_out']} posts em 25/out, do primeiro ({r['truth_social_primeiro_e_ultimo'][0] if r['truth_social_primeiro_e_ultimo'] else '?'}) "
              f"ao último lido ({r['truth_social_primeiro_e_ultimo'][1] if r['truth_social_primeiro_e_ultimo'] else '?'}, horário da costa leste dos EUA), e "
              f"{r['truth_social_posts_sobre_brasil']} falam de Brasil, Lula, Bolsonaro ou Biden. A EFE não diz o canal, e não foi achado vídeo nem transcrição da fala.")
