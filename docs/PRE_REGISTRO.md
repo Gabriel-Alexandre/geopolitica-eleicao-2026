@@ -196,3 +196,13 @@ Cada linha tem a faixa nas três lentes e o **critério de resolução**. A nota
 **Por quê:** na F1, a nota do Kremlin com os parabéns de Putin (S10) apareceu com hora de 12h40 de Moscou, 6h40 de Brasília, uma hora e meia antes do commit. A sondagem da manhã não a tinha achado, mas ela já existia. Contar como acerto seria contar um fato já ocorrido como previsão.
 
 **Direção:** conservadora, porque tira um acerto da conta. Nenhuma faixa, critério ou lente mudou.
+
+### Emenda 2 (26/out/2026, escrita **antes** de ver qualquer ficha da F2)
+
+**A regra de divergência entre as duas passadas**, que a §5 pedia e não escrevia: campo em que as passadas A e B discordam fica `divergente` e **sai da taxa-base daquele campo** (conservador: a conta usa só o que as duas leituras independentes confirmam). Para `dias_ate_parabens`, diferença de até 2 dias usa a média; acima disso, `divergente`. Caso com `fecha_com_duas_fontes` falso em qualquer passada sai da conta inteira. A concordância (porcentagem e kappa de Cohen) é publicada campo a campo.
+
+**O teste do passado (§10), feito de forma mecânica para não depender de memória:** cada caso é previsto pela taxa-base dos **outros** casos (deixa-um-de-fora), condicionada só ao que se sabe na noite do resultado (a relação do vencedor com cada potência); a nota de Brier dessa previsão é comparada com a de quem chuta sempre 50%. Brasil 2022, Honduras 2025 e Hungria 2026 aparecem um a um.
+
+### Emenda 3 (26/out/2026, antes de ver o dado de C1 e C2)
+
+**A fonte de C1 e C2 mudou de nome:** o projeto do vídeo 16 passou a se chamar `investigacao-segundo-turno-2026` (é ele que está coletando os boletins, o RDV e os logs do 2º turno). Os números de C1 e C2 vêm de lá, copiados com hash. Enquanto não existirem, C1 e C2 ficam *sem dado*. Número de imprensa sobre votos depois das 17h não substitui o C1: o g1 contou 35.521 votos depois das 17h no 2º turno, e o projeto do vídeo 8 mediu 3,72 milhões no 1º turno sem prorrogação nenhuma; a diferença de cem vezes pede a medida feita nos logs antes de qualquer uso.
