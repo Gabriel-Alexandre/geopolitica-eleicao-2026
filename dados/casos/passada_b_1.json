@@ -1,0 +1,407 @@
+[
+  {
+    "caso": "brasil-2014",
+    "margem_pontos": 3.28,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "TSE rejeitou por unanimidade o pedido do PSDB de comissão de auditoria (nov/2014); a auditoria contratada pelo próprio PSDB (2015) não achou prova de fraude, só disse que o sistema não permite auditoria completa",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "sem_missao_relevante",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "neutro", "china": "proximo", "russia": "proximo"},
+    "reacao": {
+      "eua":    {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "nota da Casa Branca; telefonema de Obama em 28/10", "data": "2014-10-27"},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Xi Jinping (mensagem); porta-voz Hua Chunying", "data": "2014-10-27"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Putin (parabéns antes do telefonema de 27/10)", "data": "2014-10-27"},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Van Rompuy e Barroso (mensagem conjunta)", "data": "2014-10-27"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://obamawhitehouse.archives.gov/the-press-office/2014/10/27/statement-press-secretary-presidential-election-brazil",
+      "https://obamawhitehouse.archives.gov/the-press-office/2014/10/28/readout-president-s-call-president-rousseff-brazil",
+      "https://exame.com/brasil/mandato-de-dilma-trata-grandes-avancos-ao-brasil-diz-china",
+      "https://www.mk.ru/politics/2014/10/27/putin-obsudil-voprosy-dvustoronnego-sotrudnichestva-s-pereizbrannym-prezidentom-brazilii.html",
+      "https://congressoemfoco.com.br/noticia/53573/lideres-da-uniao-europeia-cumprimentam-dilma-pela-vitoria",
+      "https://www.congressoemfoco.com.br/amp/noticia/49311/psdb-pede-ao-tse-auditoria-no-sistema-de-apuracao-de-votos",
+      "https://www.tribunapr.com.br/noticias/politica/psdb-divulga-auditoria-inconclusiva-sobre-fraude-em-eleicoes-e-quer-voto-impresso/"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 51,64 x 48,36. Sem missão da OEA em 2014 (a série de missões da OEA no Brasil começa em 2018, segundo matéria de 2022; não achei missão relevante em 2014). A data exata do telegrama de Putin não aparece: o MK diz que os parabéns vieram antes do telefonema de 27/10, então a data é aproximada."
+  },
+  {
+    "caso": "brasil-2018",
+    "margem_pontos": 10.26,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "não houve demonstração; a OEA cumprimentou o TSE pela organização e criticou os ataques sem fundamento ao sistema eleitoral; Haddad reconheceu a derrota em 29/10",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "proximo", "china": "neutro", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": "parabens", "dias_ate_parabens": 0, "quem": "Trump (telefonema); nota do Departamento de Estado em 29/10", "data": "2018-10-28"},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "porta-voz Lu Kang", "data": "2018-10-29"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Putin (telegrama)", "data": "2018-10-29"},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 3, "quem": "Tusk e Juncker (carta)", "data": "2018-10-31"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://www.conjur.com.br/wp-content/uploads/2023/09/relatorio-preliminar-oea-eleicoes-2018.pdf",
+      "https://www.channelstv.com/2018/10/29/world-reacts-to-bolsonaro-election-win/",
+      "https://www.moneytimes.com.br/putin-e-porta-voz-da-china-parabenizam-bolsonaro/",
+      "https://www.globalsecurity.org/wmd/library/news/brazil/brazil-181029-state01.htm",
+      "https://www.dn.pt/mundo/o-que-disseram-juncker-e-tusk-a-bolsonaro-10134930.html",
+      "https://m.naharnet.com/stories/en/252422-eu-expects-bolsonaro-to-consolidate-democracy-in-brazil",
+      "https://www.poder360.com.br/eleicoes/em-2018-haddad-nao-ligou-para-bolsonaro-e-evitou-falar-em-derrota/"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 55,13 x 44,87. 'perdedor_foi_a_justica' = true pelas ações do PT no TSE sobre disparos em massa no WhatsApp (rejeitadas em 2021); esse fato NÃO foi conferido em fonte nesta passada (orçamento de busca esgotado), e não é contestação da contagem. A carta da UE é datada de 31/10 mas foi divulgada depois. O telegrama de Putin foi noticiado em 29/10 (pode ter sido enviado em 28/10)."
+  },
+  {
+    "caso": "brasil-2022",
+    "margem_pontos": 1.8,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "TSE (Moraes) rejeitou o pedido do PL de invalidar votos de 5 modelos de urna em 23/11/2022 e multou a coligação em R$ 22,99 mi por litigância de má-fé; plenário confirmou",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "neutro", "china": "proximo", "russia": "proximo"},
+    "reacao": {
+      "eua":    {"tipo": "parabens", "dias_ate_parabens": 0, "quem": "Biden (nota: 'free, fair, and credible elections')", "data": "2022-10-30"},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Xi Jinping (mensagem)", "data": "2022-10-31"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Putin (telegrama)", "data": "2022-10-31"},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 0, "quem": "Charles Michel (rede social); declaração de Borrell em 31/10", "data": "2022-10-30"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/30/statement-by-president-joe-biden-congratulating-luiz-inacio-lula-da-silva-as-president-of-brazil",
+      "https://www.fmprc.gov.cn/eng/zxxx_662805/202211/t20221101_10795079.html",
+      "https://themoscowtimes.com/2022/10/31/a79238",
+      "https://www.eeas.europa.eu/eeas/brazil-statement-high-representative-josep-borrell-presidential-elections_en",
+      "https://www.elsol.com.ar/el-mundo/elecciones-en-brasil-vladimir-putin-china-y-la-ue-felicitaron-a-lula-por-su-triunfo/",
+      "https://www.poder360.com.br/eleicoes/moraes-rejeita-pedido-para-invalidar-votos-e-multa-pl-em-r-22-milhoes/",
+      "https://www.tse.jus.br/eleicoes/eleicoes-2022/arquivos/missoes-de-observacao-eleitoral-internacional/missao-de-observacao-eleitoral-da-oea"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 50,9 x 49,1. Os parabéns de EUA, China, Rússia e UE fecham com fonte primária. 'observadores' = validaram (missão da OEA e de outras; o relatório da OEA não foi lido nesta passada) e 'violencia' = true (bloqueios e 8 de janeiro) são fatos de registro amplo que não foram conferidos em fonte aqui, por falta de orçamento de busca."
+  },
+  {
+    "caso": "eua-2000",
+    "margem_pontos": 0.01,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "disputa de recontagem na Flórida, encerrada pela Suprema Corte (Bush v. Gore, 12/12/2000); Gore reconheceu em 13/12 sem alegar fraude",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "sem_missao_relevante",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "nao_se_aplica", "china": "neutro", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": "nao_se_aplica", "dias_ate_parabens": null, "quem": null, "data": null},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Jiang Zemin", "data": "2000-12-14"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Putin (de Havana)", "data": "2000-12-14"},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Romano Prodi (Comissão); Chirac pela presidência francesa do Conselho", "data": "2000-12-14"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://www.swissinfo.ch/eng/bush-wins-us-presidency-after-gore-concedes-defeat/1798964",
+      "https://www.csmonitor.com/2000/1215/p24s2.html",
+      "https://www.elysee.fr/jacques-chirac/2000/12/14/lettre-de-felicitations-de-m-jacques-chirac-president-de-la-republique-adressee-a-m-george-walter-bush-suite-a-son-election-a-la-presidence-des-etats-unis-paris-le-14-decembre-2000",
+      "https://www.europeansources.info/?p=372201",
+      "https://edition.cnn.com/2000/ALLPOLITICS/stories/12/13/gore.ends.campaign/index.html"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem: 537 votos na Flórida (~0,01 ponto), que decidiu o colégio eleitoral; no voto popular nacional Gore ficou cerca de 0,5 ponto à frente. 'Anúncio do resultado' contado a partir do reconhecimento de Gore (13/12). Líderes estrangeiros mandaram parabéns em novembro e retiraram quando a recontagem começou. 'relacao_do_vencedor.eua' = nao_se_aplica por analogia com o campo de reação. Não achei missão de observação relevante (não conferido em fonte)."
+  },
+  {
+    "caso": "eua-2020",
+    "margem_pontos": 4.45,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "CISA e o conselho de coordenação da infraestrutura eleitoral (12/11/2020): sem prova de votos apagados, alterados ou sistema comprometido; ações da campanha Trump rejeitadas nos tribunais",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "nao_se_aplica", "china": "adversario", "russia": "adversario"},
+    "reacao": {
+      "eua":    {"tipo": "nao_se_aplica", "dias_ate_parabens": null, "quem": null, "data": null},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 6, "quem": "porta-voz Wang Wenbin (com ressalva de que o resultado seria confirmado pela lei dos EUA); Xi em 25/11", "data": "2020-11-13"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 38, "quem": "Putin (telegrama, um dia depois do colégio eleitoral)", "data": "2020-12-15"},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 0, "quem": "von der Leyen e Charles Michel", "data": "2020-11-07"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://www.osce.org/odihr/elections/usa/456787",
+      "https://www.csce.gov/articles/osce-election-observers-release-2020-preliminary-findings-on-the-united-states-general-elections",
+      "https://securitymagazine.com/articles/93927-cisa-says-theres-no-evidence-of-election-fraud-2020-election-was-the-most-secure-in-american-history",
+      "https://www.mprnews.org/story/2020/11/13/npr-after-days-of-silence-china-congratulates-biden-and-harris",
+      "https://hongkongfp.com/2020/11/26/chinas-xi-jinping-congratulates-biden-on-us-election-win-state-media/",
+      "https://meduza.io/en/news/2020/12/15/putin-congratulates-biden-on-winning-u-s-presidential-election",
+      "https://www.vanguardngr.com/2020/11/eu-chiefs-congratulate-biden-urge-closer-us-ties/amp/"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 51,3 x 46,9 no voto popular. Dias contados da projeção de 07/11. A OSCE/ODIHR mandou missão limitada: 'competitive and well managed', sem observação sistemática da contagem. A Rússia passou mais de 30 dias sem parabéns e só cumprimentou depois do colégio eleitoral. 'violencia' = true pelo 6 de janeiro (fato de registro amplo, não conferido em fonte nesta passada)."
+  },
+  {
+    "caso": "mexico-2006",
+    "margem_pontos": 0.56,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "TEPJF (tribunal eleitoral) rejeitou as impugnações e declarou Calderón presidente eleito em 05/09/2006; a missão da UE considerou o processo competitivo, transparente e bem conduzido",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "proximo", "china": "neutro", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Bush telefonou a Fox; o embaixador Antonio Garza cumprimentou Calderón em nome do governo", "data": "2006-09-06"},
+      "china":  {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "russia": {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "declaração da Presidência finlandesa em nome da UE", "data": "2006-09-06"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://www.jurist.org/news/2006/09/mexico-electoral-court-declares/",
+      "https://press.un.org/en/2006/sgsm10618.doc.htm",
+      "https://cooperativa.cl/noticias/mundo/mexico/elecciones/bush-telefoneo-a-fox-para-felicitarlo-tras-confirmacion-del-triunfo-del/2006-09-06/104542.html",
+      "https://finlandabroad.fi/web/irn/foreign-ministry-s-press-releases/-/asset_publisher/kyaK4Ry9kbQ0/content/puheenjohtajavaltion-euroopan-unionin-puolesta-antama-julkilausuma-meksikon-presidentinvaalien-tuloksesta/35732",
+      "https://www.eods.eu/library/PS MEXICO 03.07.2006_en.pdf",
+      "https://aceproject.org/ero-en/regions/americas/MX/eo-reports/mexico-presidential-and-parliamentary-elections/view"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 233.831 votos de 41,6 milhões (~0,56 ponto). Dias contados da declaração do TEPJF (05/09), não do cômputo do IFE em julho. Não achei telefonema de Bush a Calderón em julho nem em setembro; o primeiro encontro foi em 09/11/2006. China e Rússia: nenhuma mensagem encontrada (buscas em inglês, chinês e russo), o que não prova silêncio; ficam null. López Obrador se proclamou 'presidente legítimo', sem reconhecimento de nenhuma potência."
+  },
+  {
+    "caso": "peru-2021",
+    "margem_pontos": 0.25,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "JNE rejeitou os recursos de nulidade da Fuerza Popular e proclamou Castillo em 19/07/2021",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "neutro", "china": "neutro", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Blinken (nota); telefonema em 26/07", "data": "2021-07-20"},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 9, "quem": "Xi Jinping (mensagem)", "data": "2021-07-28"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 5, "quem": "Putin (mensagem divulgada pela embaixada)", "data": "2021-07-24"},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Borrell e nota do porta-voz do SEAE", "data": "2021-07-20"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://andina.pe/ingles/noticia-us-state-department-congratulates-presidentelect-castillo-855123.aspx",
+      "https://aa.com.tr/en/americas/the-united-states-congratulates-peruvian-president-pedro-castillo/2310328",
+      "https://www.globalsecurity.org/military/library/news/2021/07/mil-210726-state01.htm",
+      "https://chinadailyhk.com/article/230729",
+      "https://rpp.pe/politica/actualidad/vladimir-putin-felicito-a-pedro-castillo-y-expreso-confianza-en-reforzar-el-dialogo-bilateral-noticia-1349186",
+      "https://larepublica.pe/mundo/2021/07/24/vladimir-putin-felicita-a-pedro-castillo-por-su-victoria-en-las-elecciones",
+      "https://andina.pe/agencia/noticia-eus-josep-borrell-congratulates-peruvian-presidentelect-pedro-castillo-854057.aspx"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 50,13 x 49,87 (cerca de 44 mil votos). A nota do SEAE elogiou as instituições eleitorais por trabalharem de forma 'eficaz e transparente'; a conclusão da missão da OEA não foi lida diretamente nesta passada. A data de Xi é a da publicação no China Daily (28/07); a mensagem pode ser de 27/07."
+  },
+  {
+    "caso": "quenia-2007",
+    "margem_pontos": 2.3,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "a missão da UE disse que a apuração presidencial não tinha credibilidade e que a eleição ficou aquém dos padrões; a Comissão Kriegler (2008) concluiu que era impossível estabelecer o resultado verdadeiro, sem declarar vencedor; o PNU sustentou a vitória de Kibaki",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "apontaram_problemas_graves",
+    "perdedor_foi_a_justica": false,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "aliado", "china": "neutro", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": "questionou", "dias_ate_parabens": 0, "quem": "Departamento de Estado cumprimentou Kibaki em 30/12 e recuou em 31/12 com nota da embaixada sobre problemas na contagem", "data": "2007-12-30"},
+      "china":  {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "russia": {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "ue":     {"tipo": "questionou", "dias_ate_parabens": null, "quem": "Solana (31/12) preocupado com as irregularidades; declaração da Presidência em jan/2008", "data": "2007-12-31"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": true,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://www.eods.eu/library/PS KENYA 01.01.2008_en.pdf",
+      "https://www.eods.eu/library/FR KENYA 03.04.2008_en.pdf",
+      "https://nation.africa/kenya/news/kriegler-s-verdict-on-elections--559866",
+      "https://accuracy.org/?p=1616",
+      "https://www.omct.org/files/2008/01/19050/weekly_newsletter01_070108.pdf",
+      "https://www.globalsecurity.org/military/library/news/2008/02/mil-080208-stateb01.htm",
+      "https://www.eleconomista.es/global/amp/361000/US-bans-10-over-violence-in-Kenya",
+      "https://www.csmonitor.com/2007/1231/p07s02-woaf.html"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem oficial Kibaki 46,4 x Odinga 44,1 (números do ECK, não conferidos em fonte primária nesta passada). Os EUA foram o único país a cumprimentar e retiraram os parabéns; por isso tipo 'questionou' com dias 0. Sanção: em fev/2008 o Departamento de Estado pôs em revisão vistos de 13 pessoas e a Reuters noticiou proibição de viagem a 10, ligadas à violência pós-eleitoral. 'perdedor_foi_a_justica' = false porque o ODM recusou os tribunais (não conferido em fonte). China e Rússia: nada encontrado, null."
+  },
+  {
+    "caso": "quenia-2017",
+    "margem_pontos": 9.53,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "a Suprema Corte anulou a eleição por 4 a 2 em 01/09/2017 por 'irregularidades e ilegalidades' da IEBC, sem culpar Kenyatta; os observadores internacionais tinham dito não ver interferência no voto",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": true,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "proximo", "china": "proximo", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": "parabens", "dias_ate_parabens": 3, "quem": "Casa Branca (secretário de imprensa)", "data": "2017-08-14"},
+      "china":  {"tipo": "parabens", "dias_ate_parabens": 4, "quem": "Xi Jinping (mensagem)", "data": "2017-08-15"},
+      "russia": {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "ue":     {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Mogherini", "data": "2017-08-12"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://www.aljazeera.com/news/2017/9/1/kenya-supreme-court-annuls-result-of-presidential-polls",
+      "https://www.npr.org/2017/09/01/547774537/kenyan-court-calls-for-new-election",
+      "https://trumpwhitehouse.archives.gov/briefings-statements/statement-press-secretary-kenya-elections",
+      "https://capitalfm.africa/news/2017/08/us-congratulates-uhuru-poll-win-slams-violent-protests/",
+      "https://capitalfm.africa/china-eu-applaud-president-kenyatta-re-election/",
+      "https://www.eeas.europa.eu/node/31046_en",
+      "https://ungreatlakes.unmissions.org/en/node/73710"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 54,27 x 44,74 (a ONU cita 54,2 x 44,91). IEBC declarou em 11/08. A data de Xi é a da reportagem da Capital FM (15/08), aproximada. Kenyatta venceu a repetição de 26/10/2017 (boicotada por Odinga) e tomou posse; Odinga se autoempossou 'presidente do povo' em jan/2018 sem reconhecimento. 'violencia' = true: a Casa Branca citou protestos violentos já em 14/08. Rússia: nada encontrado para 2017, null. Classifiquei 'disputado' porque a Corte achou ilegalidades na transmissão sem demonstrar fraude atribuída a alguém e os observadores tinham validado."
+  },
+  {
+    "caso": "malaui-2019",
+    "margem_pontos": 3.16,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "Tribunal Constitucional anulou por unanimidade em 03/02/2020 ('irregularidades generalizadas, sistemáticas e graves', inclusive corretivo nas atas); Suprema Corte confirmou em 08/05/2020",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "parcial",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": true,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "neutro", "china": "proximo", "russia": "neutro"},
+    "reacao": {
+      "eua":    {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "china":  {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "russia": {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "ue":     {"tipo": "nota_sem_parabens", "dias_ate_parabens": null, "quem": "porta-voz do SEAE (24/05, antes do anúncio do resultado)", "data": "2019-05-24"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://www.africanews.com/2020/02/03/malawi-court-nullifies-presidential-election-results-orders-fresh-poll/",
+      "https://www.businesslive.co.za/bd/world/africa/2020-02-03-malawi-top-court-annuls-mutharikas-2019-election-victory/",
+      "https://africacenter.org/spotlight/malawi-year-long-election/",
+      "https://www.eeas.europa.eu/eeas/malawi-statement-spokesperson-presidential-elections_en",
+      "https://aceproject.org/ero-en/regions/africa/MW/malawi-preliminary-statement-of-the-eu-eom-to-the/view",
+      "https://foreignpolicy.com/2019/11/01/malawis-election-was-not-stolen-with-white-out",
+      "https://www.africanews.com/amp/2019/05/28/polls-open-in-malawi-s-tripartite-elections/",
+      "https://www.africanews.com/2019/10/12/four-malawi-protesters-charged-over-stoning-policeman-to-death/"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem 38,57 x 35,41; MEC anunciou em 27/05 e Mutharika tomou posse em 28/05/2019; Chakwera venceu a repetição de 23/06/2020. Os dois lados: a Foreign Policy (2019) argumentou que a eleição não foi roubada com corretivo; os tribunais concluíram por irregularidades graves, não por fraude intencional provada. Missão da UE elogiou a votação e apontou campo desigual, e foi criticada depois por não ter tratado das atas. EUA, China e Rússia: nenhuma reação de 2019 encontrada (a mensagem de Xi achada é de 2025), null. Sanção: nenhuma encontrada. China 'proximo': Mutharika ajudou a estabelecer as relações em 2007, segundo o MFA chinês."
+  },
+  {
+    "caso": "romenia-2024",
+    "margem_pontos": 3.76,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "Tribunal Constitucional anulou todo o processo em 06/12/2024 (art. 146 f), depois de relatórios desclassificados do CSAT sobre interferência russa e campanha irregular no TikTok; Georgescu chamou de 'golpe'; Rússia negou interferência",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": null,
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": true,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "neutro", "china": "neutro", "russia": "proximo"},
+    "reacao": {
+      "eua":    {"tipo": "nota_sem_parabens", "dias_ate_parabens": null, "quem": "porta-voz Matthew Miller (preocupação com interferência russa em 04/12; nota sobre a decisão em 06/12)", "data": "2024-12-06"},
+      "china":  {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "russia": {"tipo": "nota_sem_parabens", "dias_ate_parabens": null, "quem": "porta-voz Maria Zakharova (negou interferência, 'histeria antirrussa')", "data": "2024-12-06"},
+      "ue":     {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": false,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://www.romania-insider.com/society/us-support-romania-presidential-election-annulment-2024",
+      "https://www.globalsecurity.org/military/library/news/2024/12/mil-241206-state01.htm",
+      "https://www.jurist.org/news/2024/12/romania-constitutional-court-annuls-presidential-elections-amid-russian-interference-claims/",
+      "https://themoscowtimes.com/2024/12/06/russia-denies-interfering-in-romanian-elections-a87245/pdf",
+      "https://www.osce.org/odihr/elections/romania/576660"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "1º turno, sem vencedor a cumprimentar: o 'vencedor' é o 1º colocado (Georgescu 22,94 x Lasconi 19,18; números não conferidos em fonte nesta passada). Observadores = null: achei só a missão de avaliação de necessidades da ODIHR (abr/2024), sem confirmar missão no 1º turno. 'perdedor_foi_a_justica' = null: houve pedidos de recontagem e impugnações, mas não conferi em fonte quem os fez. China e UE: reação não encontrada (orçamento de busca esgotado). Em mar/2025 Peskov criticou a exclusão de Georgescu da nova eleição."
+  },
+  {
+    "caso": "venezuela-2013",
+    "margem_pontos": 1.49,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "CNE auditou os 46% restantes das caixas e confirmou a vitória em 12/06/2013; TSJ rejeitou as impugnações de Capriles em 07/08/2013; a oposição rejeitou a auditoria por não incluir o caderno de votação",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "parcial",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {"eua": "adversario", "china": "proximo", "russia": "proximo"},
+    "reacao": {
+      "eua":    {"tipo": "questionou", "dias_ate_parabens": null, "quem": "governo dos EUA apoiou a recontagem ('prudente e necessária')", "data": "2013-04-15"},
+      "china":  {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "russia": {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null},
+      "ue":     {"tipo": null, "dias_ate_parabens": null, "quem": null, "data": null}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2013_Venezuelan_presidential_election",
+      "https://en.wikipedia.org/wiki/2013_Venezuelan_presidential_election_protests",
+      "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Venezuela_de_2013"
+    ],
+    "fecha_com_duas_fontes": false,
+    "notas": "Margem 50,61 x 49,12. O orçamento de busca acabou antes deste caso e os sites de imprensa e de governo citados pela Wikipédia (BBC, El País, Kremlin, arquivo) bloquearam a leitura direta; só li as Wikipédias em inglês e espanhol, que citam BBC, AP e El Universal. Por isso o caso fica sem duas fontes independentes e sai da conta até ser refeito. Observadores 'parcial': o Centro Carter registrou ambiente intimidante nos centros de votação; a conclusão da UNASUR não foi lida. Mortes: 7 a 11 nos protestos pós-eleitorais. China, Rússia e UE: não conferidos, null."
+  },
+  {
+    "caso": "venezuela-2018",
+    "margem_pontos": 46.92,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "UE, OEA, Grupo de Lima e EUA rejeitaram o processo por falta de condições (partidos e líderes da oposição impedidos, oposição em boicote); Falcón e Bertucci denunciaram irregularidades; o CNE proclamou Maduro",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "sem_missao_relevante",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": true,
+    "relacao_do_vencedor": {"eua": "adversario", "china": "proximo", "russia": "aliado"},
+    "reacao": {
+      "eua":    {"tipo": "nao_reconheceu", "dias_ate_parabens": null, "quem": "Trump (ordem executiva de 21/05 citando 'eleições antecipadas que não são livres nem justas')", "data": "2018-05-21"},
+      "china":  {"tipo": "nota_sem_parabens", "dias_ate_parabens": null, "quem": "chancelaria chinesa pediu que a decisão do povo venezuelano fosse respeitada", "data": "2018-05-21"},
+      "russia": {"tipo": "parabens", "dias_ate_parabens": 1, "quem": "Putin", "data": "2018-05-21"},
+      "ue":     {"tipo": "nao_reconheceu", "dias_ate_parabens": null, "quem": "Conselho da UE (conclusões); Parlamento Europeu já havia rejeitado em 08/02 e 03/05", "data": "2018-05-28"}
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": true,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-prohibiting-certain-additional-transactions-respect-venezuela/",
+      "https://en.wikipedia.org/wiki/2018_Venezuelan_presidential_election",
+      "https://www.nytimes.com/2018/05/21/world/americas/venezuela-nicolas-maduro-sanctions.html"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Margem Maduro 67,85 x Falcón 20,93; comparecimento 45,73%. A ONU não mandou missão e o Centro Carter recusou o convite; só observadores próximos ao governo. Fecha com a ordem executiva (primária) e a Wikipédia (que cita LAHT para Putin e China em 21/05); o texto da NYT não foi lido. 'governo paralelo' = true pelo reconhecimento de Guaidó pelos EUA em jan/2019, depois da posse de 10/01/2019 (fato não conferido em fonte nesta passada). 'perdedor_foi_a_justica' = null: não achei fonte sobre ação de Falcón. O tipo da China é 'nota_sem_parabens' porque a fonte só registra o pedido de respeito à decisão, sem parabéns."
+  }
+]

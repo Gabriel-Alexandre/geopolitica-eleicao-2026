@@ -1,0 +1,17 @@
+campo,casos_com_as_duas,iguais,concordancia,kappa
+fraude_demonstrada,24,22,0.917,0.868
+observadores,23,22,0.957,0.939
+autoridade_certificou_o_resultado_anunciado,25,24,0.96,0.0
+perdedor_foi_a_justica,15,15,1.0,1.0
+eleicao_anulada_ou_refeita,25,25,1.0,1.0
+governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia,24,24,1.0,1.0
+eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses,25,24,0.96,0.896
+vencedor_anunciado_tomou_posse,24,24,1.0,1.0
+violencia_relevante_depois_da_eleicao,25,25,1.0,1.0
+relacao_do_vencedor.eua,20,19,0.95,0.925
+relacao_do_vencedor.china,19,16,0.842,0.721
+relacao_do_vencedor.russia,20,19,0.95,0.912
+reacao.eua.tipo,22,20,0.909,0.877
+reacao.china.tipo,13,13,1.0,1.0
+reacao.russia.tipo,14,12,0.857,0.636
+reacao.ue.tipo,19,18,0.947,0.914

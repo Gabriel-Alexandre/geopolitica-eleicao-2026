@@ -1,0 +1,66 @@
+desfecho,grupo,condicao,sim,n,taxa,casos
+eua_parabens_30d,todos,todas,7,15,0.467,argentina-2025;bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;honduras-2025;hungria-2026;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;romenia-2024;venezuela-2018;venezuela-2024
+eua_parabens_30d,todos,vencedor adversario da potência,0,5,0.0,bielorrussia-2020;bolivia-2019;nicaragua-2021;venezuela-2018;venezuela-2024
+eua_parabens_30d,todos,vencedor neutro da potência,3,5,0.6,brasil-2014;brasil-2022;hungria-2026;peru-2021;romenia-2024
+eua_parabens_30d,todos,vencedor proximo da potência,4,5,0.8,argentina-2025;brasil-2018;honduras-2025;mexico-2006;quenia-2007
+eua_parabens_30d,fraude não demonstrada (lente L),todas,7,8,0.875,argentina-2025;brasil-2014;brasil-2018;brasil-2022;honduras-2025;hungria-2026;mexico-2006;peru-2021
+eua_parabens_30d,fraude não demonstrada (lente L),vencedor neutro da potência,3,4,0.75,brasil-2014;brasil-2022;hungria-2026;peru-2021
+eua_parabens_30d,fraude não demonstrada (lente L),vencedor proximo da potência,4,4,1.0,argentina-2025;brasil-2018;honduras-2025;mexico-2006
+eua_parabens_30d,fraude demonstrada ou disputada (lente F),todas,0,5,0.0,bielorrussia-2020;bolivia-2019;quenia-2007;romenia-2024;venezuela-2024
+eua_parabens_30d,fraude demonstrada ou disputada (lente F),vencedor adversario da potência,0,3,0.0,bielorrussia-2020;bolivia-2019;venezuela-2024
+eua_parabens_30d,fraude demonstrada ou disputada (lente F),vencedor neutro da potência,0,1,0.0,romenia-2024
+eua_parabens_30d,fraude demonstrada ou disputada (lente F),vencedor proximo da potência,0,1,0.0,quenia-2007
+china_parabens_7d,todos,todas,9,13,0.692,bielorrussia-2020;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;nicaragua-2021;peru-2021;quenia-2017;venezuela-2018;venezuela-2024
+china_parabens_7d,todos,vencedor adversario da potência,1,1,1.0,eua-2020
+china_parabens_7d,todos,vencedor neutro da potência,3,4,0.75,brasil-2018;eua-2000;hungria-2026;peru-2021
+china_parabens_7d,todos,vencedor proximo da potência,5,6,0.833,bielorrussia-2020;brasil-2014;brasil-2022;quenia-2017;venezuela-2018;venezuela-2024
+china_parabens_7d,fraude não demonstrada (lente L),todas,6,8,0.75,brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;peru-2021
+china_parabens_7d,fraude não demonstrada (lente L),vencedor adversario da potência,1,1,1.0,eua-2020
+china_parabens_7d,fraude não demonstrada (lente L),vencedor neutro da potência,3,4,0.75,brasil-2018;eua-2000;hungria-2026;peru-2021
+china_parabens_7d,fraude não demonstrada (lente L),vencedor proximo da potência,2,2,1.0,brasil-2014;brasil-2022
+china_parabens_7d,fraude demonstrada ou disputada (lente F),todas,3,3,1.0,bielorrussia-2020;quenia-2017;venezuela-2024
+china_parabens_7d,fraude demonstrada ou disputada (lente F),vencedor proximo da potência,3,3,1.0,bielorrussia-2020;quenia-2017;venezuela-2024
+russia_parabens_7d,todos,todas,8,11,0.727,bielorrussia-2020;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;peru-2021;venezuela-2018;venezuela-2024
+russia_parabens_7d,todos,vencedor adversario da potência,0,1,0.0,eua-2020
+russia_parabens_7d,todos,vencedor neutro da potência,3,4,0.75,brasil-2018;eua-2000;honduras-2025;peru-2021
+russia_parabens_7d,todos,vencedor proximo da potência,5,5,1.0,bielorrussia-2020;brasil-2014;brasil-2022;venezuela-2018;venezuela-2024
+russia_parabens_7d,fraude não demonstrada (lente L),todas,5,8,0.625,brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;peru-2021
+russia_parabens_7d,fraude não demonstrada (lente L),vencedor adversario da potência,0,1,0.0,eua-2020
+russia_parabens_7d,fraude não demonstrada (lente L),vencedor neutro da potência,3,4,0.75,brasil-2018;eua-2000;honduras-2025;peru-2021
+russia_parabens_7d,fraude não demonstrada (lente L),vencedor proximo da potência,2,2,1.0,brasil-2014;brasil-2022
+russia_parabens_7d,fraude demonstrada ou disputada (lente F),todas,2,2,1.0,bielorrussia-2020;venezuela-2024
+russia_parabens_7d,fraude demonstrada ou disputada (lente F),vencedor proximo da potência,2,2,1.0,bielorrussia-2020;venezuela-2024
+ue_parabens_30d,todos,todas,10,17,0.588,bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;malaui-2019;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;quenia-2017;venezuela-2018;venezuela-2024
+ue_parabens_30d,fraude não demonstrada (lente L),todas,9,9,1.0,brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;mexico-2006;peru-2021
+ue_parabens_30d,fraude demonstrada ou disputada (lente F),todas,1,5,0.2,bielorrussia-2020;bolivia-2019;quenia-2007;quenia-2017;venezuela-2024
+eua_nao_reconheceu,todos,todas,4,15,0.267,argentina-2025;bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;honduras-2025;hungria-2026;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;romenia-2024;venezuela-2018;venezuela-2024
+eua_nao_reconheceu,todos,vencedor adversario da potência,4,5,0.8,bielorrussia-2020;bolivia-2019;nicaragua-2021;venezuela-2018;venezuela-2024
+eua_nao_reconheceu,todos,vencedor neutro da potência,0,5,0.0,brasil-2014;brasil-2022;hungria-2026;peru-2021;romenia-2024
+eua_nao_reconheceu,todos,vencedor proximo da potência,0,5,0.0,argentina-2025;brasil-2018;honduras-2025;mexico-2006;quenia-2007
+eua_nao_reconheceu,fraude não demonstrada (lente L),todas,0,8,0.0,argentina-2025;brasil-2014;brasil-2018;brasil-2022;honduras-2025;hungria-2026;mexico-2006;peru-2021
+eua_nao_reconheceu,fraude não demonstrada (lente L),vencedor neutro da potência,0,4,0.0,brasil-2014;brasil-2022;hungria-2026;peru-2021
+eua_nao_reconheceu,fraude não demonstrada (lente L),vencedor proximo da potência,0,4,0.0,argentina-2025;brasil-2018;honduras-2025;mexico-2006
+eua_nao_reconheceu,fraude demonstrada ou disputada (lente F),todas,2,5,0.4,bielorrussia-2020;bolivia-2019;quenia-2007;romenia-2024;venezuela-2024
+eua_nao_reconheceu,fraude demonstrada ou disputada (lente F),vencedor adversario da potência,2,3,0.667,bielorrussia-2020;bolivia-2019;venezuela-2024
+eua_nao_reconheceu,fraude demonstrada ou disputada (lente F),vencedor neutro da potência,0,1,0.0,romenia-2024
+eua_nao_reconheceu,fraude demonstrada ou disputada (lente F),vencedor proximo da potência,0,1,0.0,quenia-2007
+anulada_ou_refeita,todos,todas,4,19,0.211,argentina-2025;bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;malaui-2019;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;quenia-2017;romenia-2024;venezuela-2018;venezuela-2024
+anulada_ou_refeita,fraude não demonstrada (lente L),todas,0,10,0.0,argentina-2025;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;mexico-2006;peru-2021
+anulada_ou_refeita,fraude demonstrada ou disputada (lente F),todas,3,6,0.5,bielorrussia-2020;bolivia-2019;quenia-2007;quenia-2017;romenia-2024;venezuela-2024
+vencedor_tomou_posse,todos,todas,16,18,0.889,bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;malaui-2019;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;quenia-2017;romenia-2024;venezuela-2018;venezuela-2024
+vencedor_tomou_posse,fraude não demonstrada (lente L),todas,9,9,1.0,brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;mexico-2006;peru-2021
+vencedor_tomou_posse,fraude demonstrada ou disputada (lente F),todas,4,6,0.667,bielorrussia-2020;bolivia-2019;quenia-2007;quenia-2017;romenia-2024;venezuela-2024
+eua_sancao_12m,todos,todas,5,18,0.278,argentina-2025;bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;hungria-2026;malaui-2019;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;quenia-2017;romenia-2024;venezuela-2018;venezuela-2024
+eua_sancao_12m,todos,vencedor adversario da potência,4,5,0.8,bielorrussia-2020;bolivia-2019;nicaragua-2021;venezuela-2018;venezuela-2024
+eua_sancao_12m,todos,vencedor neutro da potência,0,6,0.0,brasil-2014;brasil-2022;hungria-2026;malaui-2019;peru-2021;romenia-2024
+eua_sancao_12m,todos,vencedor proximo da potência,1,5,0.2,argentina-2025;brasil-2018;mexico-2006;quenia-2007;quenia-2017
+eua_sancao_12m,fraude não demonstrada (lente L),todas,0,9,0.0,argentina-2025;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;hungria-2026;mexico-2006;peru-2021
+eua_sancao_12m,fraude não demonstrada (lente L),vencedor neutro da potência,0,4,0.0,brasil-2014;brasil-2022;hungria-2026;peru-2021
+eua_sancao_12m,fraude não demonstrada (lente L),vencedor proximo da potência,0,3,0.0,argentina-2025;brasil-2018;mexico-2006
+eua_sancao_12m,fraude demonstrada ou disputada (lente F),todas,3,6,0.5,bielorrussia-2020;bolivia-2019;quenia-2007;quenia-2017;romenia-2024;venezuela-2024
+eua_sancao_12m,fraude demonstrada ou disputada (lente F),vencedor adversario da potência,2,3,0.667,bielorrussia-2020;bolivia-2019;venezuela-2024
+eua_sancao_12m,fraude demonstrada ou disputada (lente F),vencedor neutro da potência,0,1,0.0,romenia-2024
+eua_sancao_12m,fraude demonstrada ou disputada (lente F),vencedor proximo da potência,1,2,0.5,quenia-2007;quenia-2017
+violencia,todos,todas,8,19,0.421,argentina-2025;bielorrussia-2020;bolivia-2019;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;malaui-2019;mexico-2006;nicaragua-2021;peru-2021;quenia-2007;quenia-2017;romenia-2024;venezuela-2018;venezuela-2024
+violencia,fraude não demonstrada (lente L),todas,2,10,0.2,argentina-2025;brasil-2014;brasil-2018;brasil-2022;eua-2000;eua-2020;honduras-2025;hungria-2026;mexico-2006;peru-2021
+violencia,fraude demonstrada ou disputada (lente F),todas,5,6,0.833,bielorrussia-2020;bolivia-2019;quenia-2007;quenia-2017;romenia-2024;venezuela-2024

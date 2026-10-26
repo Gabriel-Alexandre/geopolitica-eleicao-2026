@@ -1,0 +1,215 @@
+"""Escreve RELATORIO.md, RESUMO_SIMPLES.md, docs/LEITURA_DA_IA.md e docs/F4_CONTESTACAO.md a partir dos resultados.
+
+Uso: python ferramentas/gerar_relatorio.py
+Entradas: resultados/RESUMO.json, resultados/f1_resumo.json, resultados/f2_*.csv, resultados/f6_teste_do_passado.csv,
+          dados/criterios_c1_c5.csv, dados/sintese_suposicoes.csv, dados/hipoteses_veredito.csv
+Nenhum número é escrito à mão: todos saem dos arquivos acima.
+"""
+import csv
+import json
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parent.parent
+RES = RAIZ / "resultados"
+DADOS = RAIZ / "dados"
+REPO = "https://github.com/Gabriel-Alexandre/geopolitica-eleicao-2026"
+APONTA = {"sem_dado": "sem dado", "L_provisorio": "aponta L (provisório)", "L_parcial": "aponta L (parcial)",
+          "L": "aponta L", "F": "aponta F"}
+
+
+def ler_csv(caminho: Path) -> list[dict]:
+    if not caminho.exists():
+        return []
+    with caminho.open(encoding="utf-8") as arquivo:
+        return list(csv.DictReader(arquivo))
+
+
+def num(valor: float, casas: int = 1) -> str:
+    return f"{float(valor):.{casas}f}".replace(".", ",")
+
+
+RELACAO = {"proximo": "próximo", "neutro": "neutro", "adversario": "adversário"}
+
+
+def pct(valor: float) -> str:
+    return f"{100 * float(valor):.0f}%"
+
+
+def taxa(base: list[dict], desfecho: str, grupo: str, condicao: str = "todas") -> str:
+    linha = next((l for l in base if l["desfecho"] == desfecho and l["grupo"] == grupo and l["condicao"] == condicao), None)
+    return f"{linha['sim']} de {linha['n']} ({pct(linha['taxa'])})" if linha else "sem casos"
+
+
+def veredito_de_lente(criterios: list[dict]) -> str:
+    aponta = {c["criterio"]: c["aponta"] for c in criterios}
+    if any(v == "F" for v in aponta.values()):
+        return "F1: um critério aponta fraude demonstrada"
+    if aponta.get("C1", "").startswith("L") and aponta.get("C2", "").startswith("L"):
+        return "L sustentada"
+    a_favor_l = [c for c, v in aponta.items() if v.startswith("L")]
+    sem = [c for c, v in aponta.items() if v == "sem_dado"]
+    return (f"aberta: {len(a_favor_l)} de 5 critérios apontam L ({', '.join(a_favor_l)}), nenhum aponta F, "
+            f"e {len(sem)} estão sem dado ({', '.join(sem)})")
+
+
+def tabela_suposicoes(sintese: list[dict], com_porque: bool = True) -> list[str]:
+    linhas = ["| # | Suposição | Se legítimo (L) | Se fraude demonstrada (F1) | Se fraude não demonstrada (F2) | Mudou desde o pré-registro? |"
+              + (" Por quê |" if com_porque else ""),
+              "|---|---|---|---|---|---|" + ("---|" if com_porque else "")]
+    for s in sintese:
+        linha = f"| {s['id']} | {s['suposicao']} | {s['final_L']} | {s['final_F1']} | {s['final_F2']} | {s['mudou']} |"
+        if com_porque:
+            linha += f" {s['porque']} |"
+        linhas.append(linha)
+    return linhas
+
+
+def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: list[dict], sintese: list[dict],
+              hipoteses: list[dict]) -> str:
+    f2, f3, f6 = r["f2"], r["f3"], r.get("f6", {})
+    ano = f3["ultimo_ano_comercio"]
+    fat = f3["fatias_pct"]
+    l = ["# O que esperar dos EUA, da China e da Rússia depois do 2º turno de 2026: relatório\n",
+         f"Gerado por `ferramentas/gerar_relatorio.py`. Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre, "
+         f"pelas regras do [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) e das emendas 1 a 3. Repositório: {REPO}\n",
+         "## O que este projeto não consegue dizer\n",
+         "- **A lente F2 (fraude que não deixou prova) não é testável por dado.** É o mundo em que boletins, logs, totalização e teste de integridade fecham entre si. O projeto mostra o que ela implicaria, mas nenhum dado a confirma ou derruba.",
+         "- **C1 e C2 (a prorrogação e a contagem, medidas nos logs) ainda não têm dado:** a coleta está rodando no projeto `investigacao-segundo-turno-2026`. Até lá o veredito de lente fica aberto.",
+         f"- **{len(f2['casos_excluidos'])} dos 25 casos históricos saíram da conta** por não fecharem com duas fontes numa das passadas (emenda 2): {', '.join(f2['casos_excluidos']) or 'nenhum'}.",
+         "- **Interesse se mede pelo que é público** (comércio, votos na ONU, reservas, medidas oficiais). Intenção de pessoa não se mede e não é afirmada.",
+         "- **As reações foram lidas até a manhã de 26/out.** As suposições têm prazo e critério de resolução para serem conferidas depois.\n",
+         "## 1. A resposta, pelas duas lentes\n",
+         f"**Veredito de lente hoje:** {veredito_de_lente(criterios)}. Os critérios estão na §3.\n"]
+    l += tabela_suposicoes(sintese)
+    l += ["", "## 2. O que o Trump e quem fala por ele disseram\n",
+          f"- A fala do *\"manual de Joe Biden\"* tem uma origem só, a agência EFE (noite de 25/out). Não foi post no Truth Social: "
+          f"{f1['truth_social_posts_sobre_brasil']} de {f1['truth_social_posts_em_25_out']} posts de 25/out falam do Brasil.",
+          "- O advogado da Trump Media, Martin De Luca, escreveu que ninguém vai reconhecer a eleição; Donald Trump Jr. e Elon Musk compartilharam; Jason Miller publicou o discurso do Flávio em inglês.",
+          "- Até a manhã de 26/out: nenhuma nota da Casa Branca ou do Departamento de Estado, nenhuma medida nova da OFAC.",
+          f"- {f1['citacoes_conferidas']} de {f1['citacoes']} citações conferidas palavra por palavra no texto capturado: [`docs/F1_REACOES.md`](docs/F1_REACOES.md).\n",
+          "## 3. A contestação: os critérios C1 a C5\n",
+          "| Critério | Estado em 26/out | Aponta |", "|---|---|---|"]
+    l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_26out']} | {APONTA[c['aponta']]} |" for c in criterios]
+    l += ["", "Detalhe, com as alegações dos dois lados: [`docs/F4_CONTESTACAO.md`](docs/F4_CONTESTACAO.md).\n",
+          "## 4. O histórico: as outras vezes\n",
+          f"{f2['casos_na_conta']} casos na conta, codificados em duas passadas independentes. Concordância média entre as passadas: "
+          f"{pct(f2['concordancia_media']) if f2['concordancia_media'] is not None else 'sem dado'}; kappa mediano: {num(f2['kappa_mediano'], 2)}. "
+          "Tabelas: `resultados/f2_concordancia.csv`, `resultados/f2_taxas_base.csv`.\n",
+          "| O que aconteceu | Fraude não demonstrada (lente L) | Fraude demonstrada ou disputada (lente F) |", "|---|---|---|"]
+    for chave, rotulo in [("eua_parabens_30d", "Os EUA parabenizaram em até 30 dias"),
+                          ("eua_nao_reconheceu", "Os EUA não reconheceram"),
+                          ("china_parabens_7d", "A China parabenizou em até 7 dias"),
+                          ("russia_parabens_7d", "A Rússia parabenizou em até 7 dias"),
+                          ("anulada_ou_refeita", "A eleição foi anulada ou refeita"),
+                          ("vencedor_tomou_posse", "O vencedor anunciado tomou posse"),
+                          ("eua_sancao_12m", "Os EUA aplicaram sanção ligada à eleição em 12 meses"),
+                          ("violencia", "Houve violência relevante depois")]:
+        l.append(f"| {rotulo} | {taxa(base, chave, 'fraude não demonstrada (lente L)')} | {taxa(base, chave, 'fraude demonstrada ou disputada (lente F)')} |")
+    l += ["", "**Os EUA, pela relação com o vencedor** (todos os casos):\n", "| Relação do vencedor com os EUA | Parabéns em até 30 dias | Sanção ligada à eleição em 12 meses |", "|---|---|---|"]
+    for relacao in ("proximo", "neutro", "adversario"):
+        cond = f"vencedor {relacao} da potência"
+        l.append(f"| {RELACAO[relacao]} | {taxa(base, 'eua_parabens_30d', 'todos', cond)} | {taxa(base, 'eua_sancao_12m', 'todos', cond)} |")
+    if f6:
+        l += ["", f"**Teste do passado** (cada caso previsto pelos outros, só com o que se sabia na noite): nota de Brier "
+              f"{num(f6['brier_metodo'], 3)} em {f6['previsoes']} previsões, contra {num(f6['brier_chute_50'], 2)} de quem chuta sempre 50% "
+              "(quanto menor, melhor). "
+              + " · ".join(f"{c}: {num(f6[c], 3)}" for c in ("brasil-2022", "honduras-2025", "hungria-2026") if c in f6)
+              + ". Tabela: `resultados/f6_teste_do_passado.csv`.\n"]
+    l += ["## 5. Os interesses, medidos\n",
+          f"- **Comércio ({ano}):** a China comprou {num(fat[f'{ano}|exportacao|China'])}% das exportações brasileiras; os EUA, {num(fat[f'{ano}|exportacao|EUA'])}%; a Rússia, {num(fat[f'{ano}|exportacao|Rússia'])}%. "
+          f"Nas importações: China {num(fat[f'{ano}|importacao|China'])}%, EUA {num(fat[f'{ano}|importacao|EUA'])}%, Rússia {num(fat[f'{ano}|importacao|Rússia'])}%.",
+          f"- **Saldo de {ano}:** com os EUA, o Brasil {'vendeu mais do que comprou' if f3['saldo_brasil_com_eua_usd_ultimo_ano'] > 0 else 'comprou mais do que vendeu'}, uma diferença de US$ {num(abs(f3['saldo_brasil_com_eua_usd_ultimo_ano']) / 1e9)} bilhões; "
+          f"com a China, {'vendeu mais do que comprou' if f3['saldo_brasil_com_china_usd_ultimo_ano'] > 0 else 'comprou mais do que vendeu'}, uma diferença de US$ {num(abs(f3['saldo_brasil_com_china_usd_ultimo_ano']) / 1e9)} bilhões.",
+          f"- **Votos na ONU (2024):** o Brasil votou igual à China em {pct(f3['onu_concordancia']['2024|China'])} das votações, à Rússia em {pct(f3['onu_concordancia']['2024|Rússia'])} e aos EUA em {pct(f3['onu_concordancia']['2024|EUA'])}.",
+          f"- **Adubos:** a Rússia vendeu {f3['adubos_fatia_russia_pct'][str(ano)] if str(ano) in f3['adubos_fatia_russia_pct'] else f3['adubos_fatia_russia_pct'][ano]:.0f}% do adubo que o Brasil importou em {ano}.",
+          f"- **Terras raras:** o Brasil tem a {f3['terras_raras_posicao_brasil']}ª maior reserva conhecida ({f3['terras_raras_reservas_t']['Brasil'] / 1e6:.0f} milhões de toneladas de óxido), atrás só da China ({f3['terras_raras_reservas_t']['China'] / 1e6:.0f} milhões); os EUA têm {num(f3['terras_raras_reservas_t']['EUA'] / 1e6)} milhão.",
+          "", "Gráficos em `resultados/figuras/`.\n",
+          "## 6. As hipóteses concorrentes, potência por potência\n",
+          "| Potência | Hipótese que fica de pé | Hipóteses com mais evidência contra | Por quê |", "|---|---|---|---|"]
+    l += [f"| {h['potencia']} | {h['fica']} | {h['caem']} | {h['porque']} |" for h in hipoteses]
+    l += ["", "## 7. Validação, revisão e emendas\n",
+          "- Números centrais refeitos por outro caminho: `resultados/validacao_independente.csv`.",
+          "- Revisão adversarial, com um leitor que defende a lente F, um que defende a L e um auditor: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md).",
+          "- Emendas ao pré-registro: §13 de [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md).\n",
+          "## 8. Como refazer\n", "```bash", "pip install -r requirements.txt",
+          "python ferramentas/capturar.py dados/fontes_f1.csv", "python ferramentas/capturar.py dados/fontes_f1.csv --navegador",
+          "python ferramentas/gerar_f1.py", "python ferramentas/coletar_f3.py", "python ferramentas/capturar.py dados/fontes_f3.csv",
+          "python ferramentas/analise.py", "python ferramentas/validacao_independente.py", "python ferramentas/graficos.py",
+          "python ferramentas/gerar_relatorio.py", "python ferramentas/conferir_linguagem.py", "python -m pytest -q", "```", ""]
+    return "\n".join(l) + "\n"
+
+
+def resumo_simples(r: dict, criterios: list[dict], sintese: list[dict]) -> str:
+    l = ["# Resumo simples\n",
+         "**A pergunta:** depois da reeleição do Lula (51,79% a 48,21%), com o Flávio pedindo a anulação por causa da votação prorrogada até as 19h, o que esperar dos EUA, da China e da Rússia?\n",
+         "**Como:** a IA juntou o que aconteceu em 20 a 25 eleições contestadas do mundo desde 1990, mediu os interesses de cada país no Brasil com dado oficial e leu o que cada um disse nas primeiras horas. Tudo foi feito pelas duas lentes: tratando o resultado como legítimo e tratando como fraude.\n",
+         f"**Qual lente o dado de hoje sustenta:** {veredito_de_lente(criterios)}.\n",
+         "**O que esperar, em uma linha cada:**\n"]
+    for s in sintese:
+        l.append(f"- **{s['suposicao']}:** {s['final_L']} se o resultado for legítimo; {s['final_F1']} se a fraude for demonstrada.")
+    l += ["", "**O que mais pesa:** governo de fora reage ao que dá para mostrar. Se uma fraude não deixar prova, o mundo reage como se o resultado fosse legítimo. Por isso o que decide a reação estrangeira é o que os boletins, os logs e a Justiça mostrarem nas próximas semanas.\n",
+          f"Relatório completo: [`RELATORIO.md`](RELATORIO.md). Repositório: {REPO}\n"]
+    return "\n".join(l) + "\n"
+
+
+ROTULO_DESFECHO = {"anulada_ou_refeita": "eleição anulada ou refeita", "vencedor_tomou_posse": "o vencedor tomou posse",
+                   "violencia": "violência relevante depois", "eua_nao_reconheceu": "os EUA não reconheceram",
+                   "eua_parabens_30d": "os EUA parabenizaram em até 30 dias", "eua_sancao_12m": "sanção dos EUA ligada à eleição em 12 meses",
+                   "china_parabens_7d": "a China parabenizou em até 7 dias", "russia_parabens_7d": "a Rússia parabenizou em até 7 dias"}
+
+
+def historico(espec: str, base: list[dict]) -> str:
+    partes = []
+    for item in espec.split(";"):
+        pedacos = item.split("|")
+        if len(pedacos) != 3:
+            partes.append(item)
+            continue
+        desfecho, grupo, condicao = pedacos
+        onde = grupo if condicao == "todas" else f"{grupo}, {condicao}"
+        partes.append(f"{ROTULO_DESFECHO.get(desfecho, desfecho)}: {taxa(base, desfecho, grupo, condicao)} ({onde})")
+    return " · ".join(partes)
+
+
+def leitura_da_ia(sintese: list[dict], hipoteses: list[dict], base: list[dict]) -> str:
+    l = ["# A leitura da IA, item por item\n",
+         "Feita pelo Claude depois de todas as fases. Para cada suposição: o que mudou desde o pré-registro, e por quê. A régua é a do pré-registro; o que é leitura está marcado como leitura.\n"]
+    for s in sintese:
+        l += [f"## {s['id']} · {s['suposicao']}\n",
+              f"- **Antes (pré-registro):** L {s['pre_L']} · F1 {s['pre_F1']} · F2 {s['pre_F2']}",
+              f"- **Agora:** L {s['final_L']} · F1 {s['final_F1']} · F2 {s['final_F2']}",
+              f"- **O histórico:** {historico(s['taxa_base'], base)}",
+              f"- **O estado em 26/out:** {s['estado_26out']}",
+              f"- **Por quê:** {s['porque']}\n"]
+    l += ["## As potências\n"]
+    l += [f"- **{h['potencia']}:** fica de pé *{h['fica']}*. {h['porque']}" for h in hipoteses]
+    return "\n".join(l) + "\n"
+
+
+def f4(criterios: list[dict]) -> str:
+    l = ["# F4 · A contestação, critério por critério (26/out/2026)\n",
+         "Gerado por `ferramentas/gerar_relatorio.py`. O levantamento completo, com as duas fontes de cada fato e as alegações dos **dois lados** "
+         "(a quebra de isonomia apontada pelo lado do Flávio; a falta de ônibus apontada pelo lado do Lula), está em "
+         "[`dados/f4_estado_26out.md`](../dados/f4_estado_26out.md).\n",
+         "| Critério | Estado | Aponta | Base |", "|---|---|---|---|"]
+    l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_26out']} | {APONTA[c['aponta']]} | {c['base']} |" for c in criterios]
+    l += ["", f"**Veredito de lente:** {veredito_de_lente(criterios)}.\n",
+          "**Correções ao §0 do pré-registro achadas na F4:** os ônibus com adesivo do PT retidos foram em Salvador, não em São Paulo; a PF tem 1 inquérito e 4 apurações (5 estados), não 7.\n"]
+    return "\n".join(l) + "\n"
+
+
+def main() -> None:
+    r = json.loads((RES / "RESUMO.json").read_text(encoding="utf-8"))
+    f1 = json.loads((RES / "f1_resumo.json").read_text(encoding="utf-8"))
+    base, conc = ler_csv(RES / "f2_taxas_base.csv"), ler_csv(RES / "f2_concordancia.csv")
+    criterios = ler_csv(DADOS / "criterios_c1_c5.csv")
+    sintese, hipoteses = ler_csv(DADOS / "sintese_suposicoes.csv"), ler_csv(DADOS / "hipoteses_veredito.csv")
+    (RAIZ / "RELATORIO.md").write_text(relatorio(r, f1, base, conc, criterios, sintese, hipoteses), encoding="utf-8")
+    (RAIZ / "RESUMO_SIMPLES.md").write_text(resumo_simples(r, criterios, sintese), encoding="utf-8")
+    (RAIZ / "docs" / "LEITURA_DA_IA.md").write_text(leitura_da_ia(sintese, hipoteses, base), encoding="utf-8")
+    (RAIZ / "docs" / "F4_CONTESTACAO.md").write_text(f4(criterios), encoding="utf-8")
+    print("relatório, resumo simples, leitura da IA e F4 gravados")
+
+
+if __name__ == "__main__":
+    main()

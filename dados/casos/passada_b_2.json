@@ -1,0 +1,703 @@
+[
+  {
+    "caso": "venezuela-2024",
+    "margem_pontos": 7.0,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "Centro Carter (missão convidada): em 31/07/2024 disse que a eleição não pode ser considerada democrática e que não pôde verificar o resultado; com as atas de mesa (QR) apresentadas à OEA em out/2024 e no relatório final de 17/02/2025, González ~67% contra ~31% de Maduro. O CNE e o governo rejeitam.",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "apontaram_problemas_graves",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": true,
+    "relacao_do_vencedor": {
+      "eua": "adversario",
+      "china": "aliado",
+      "russia": "aliado"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Blinken (González 'won the most votes'); 'president-elect' em nov/2024",
+        "data": "2024-08-01"
+      },
+      "china": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "porta-voz Lin Jian; mensagem de Xi noticiada em 30/07",
+        "data": "2024-07-29"
+      },
+      "russia": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "Putin (telegrama)",
+        "data": "2024-07-29"
+      },
+      "ue": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Alta Representante em nome da UE",
+        "data": "2025-01-10"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": true,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://www.voanews.com/a/carter-center-says-venezuela-election-cannot-be-considered-democratic-/7723954.html",
+      "https://www.ntn24.com/noticias-politica/centro-carter-concluye-que-las-elecciones-en-venezuela-no-fueron-democraticas-y-certifica-actas-de-la-oposicion-539890",
+      "https://english.alarabiya.net/News/world/2024/07/30/china-s-xi-congratulates-venezuela-s-maduro-on-reelection-despite-global-doubts",
+      "https://www.elheraldo.hn/mundo/rusia-china-reconocen-triunfo-nicolas-maduro-elecciones-venezuela-FF20613420",
+      "https://globalnation.inquirer.net/244382/overwhelming-evidence-opposition-candidate-won-venezuela-poll-blinken/amp",
+      "https://www.scmp.com/news/world/americas/article/3287347/us-calls-venezuela-oppositions-gonzalez-president-elect",
+      "https://www.globalsecurity.org/military/library/news/2024/09/mil-240912-treasury01.htm",
+      "https://www.jurist.org/news/2024/09/us-sanctions-16-maduro-affiliates-for-obstructing-venezuela-election-process/",
+      "https://www.eeas.europa.eu/delegations/chile/venezuela-statement-high-representative-behalf-european-union-events-10-january-2025_en"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "CNE: Maduro 51,2% x González 44,2%, sem publicar atas por mesa. EUA reconheceram González como o mais votado (01/08/2024), o que codifico como candidato paralelo reconhecido. OFAC sancionou 16 autoridades em 12/09/2024 por obstruir a eleição (inclui dirigentes do CNE e do TSJ). UE: a declaração de 10/01/2025 diz que os resultados 'cannot be recognised' e que Maduro não tem legitimidade; a declaração de agosto/2024 com o mesmo teor não foi recuperada nesta passada. perdedor_foi_a_justica = null: não achei fonte nesta passada sobre recurso de González ao TSJ (a certificação do TSJ não foi conferida). Violência: o Tesouro liga os sancionados a repressão, detenções e intimidação depois da eleição; contagem de mortos não conferida."
+  },
+  {
+    "caso": "nicaragua-2021",
+    "margem_pontos": 61.8,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "Assembleia Geral da OEA, 12/11/2021 (25 a favor, 7 abstenções, 1 contra): eleição 'not free, fair or transparent' e sem legitimidade democrática; a base é a prisão de 7 pré-candidatos e o fechamento do processo, não uma auditoria da contagem",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "sem_missao_relevante",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "adversario",
+      "china": "neutro",
+      "russia": "aliado"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Biden ('pantomime election')",
+        "data": "2021-11-07"
+      },
+      "china": {
+        "tipo": "silencio",
+        "dias_ate_parabens": null,
+        "quem": "sem relação diplomática na data (Nicarágua reconhecia Taiwan); relações restabelecidas em 10/12/2021",
+        "data": null
+      },
+      "russia": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 2,
+        "quem": "Putin (carta entregue pelo embaixador); Lavrov e Zakharova defenderam o resultado em 08 e 10/11",
+        "data": "2021-11-10"
+      },
+      "ue": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Borrell, declaração em nome dos 27",
+        "data": "2021-11-08"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": true,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://www.aljazeera.com/news/2021/11/16/nicaragua-denounces-oas-as-president-ortega-wife-banned-from-us",
+      "https://stabroeknews.com/?p=646116",
+      "https://lahora.gt/internacionales/agencia-ap/2021/11/08/nicaragua-gobiernos-rechazan-virtual-reeleccion-de-ortega/",
+      "https://tass.com/politics/1359773/amp",
+      "https://tass.com/politics/1358733/amp",
+      "https://havanatimes.org/?p=188646",
+      "https://lapatilla.com/2021/11/11/putin-felicito-a-ortega-por-su-victoria-abrumadora-y-prometio-intensificar-la-cooperacion-con-el-dictador/",
+      "https://havanatimes.org/?p=194806"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "CSE, 97,74% das juntas: Ortega 75,92% x PLC 14,15% (margem ~61,8; o final do CSE não foi recuperado). Participação oficial 65,34%, abstenção estimada acima de 80% por observatório independente. EUA: sanções financeiras em 15/11/2021 e proclamação de veto de entrada em 16/11/2021. China codificada como silêncio porque não havia relação diplomática e não achei manifestação; a troca de reconhecimento de Taiwan para Pequim em 10/12/2021 caiu fora da janela de 30 dias. perdedor_foi_a_justica = null: o 2º colocado (PLC) não contestou segundo o que achei, mas não há fonte direta. Sem violência relevante localizada depois da eleição; a repressão foi anterior (prisões de candidatos)."
+  },
+  {
+    "caso": "bielorrussia-2020",
+    "margem_pontos": 70.0,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "Relator do Mecanismo de Moscou da OSCE (Wolfgang Benedek), relatório ao Conselho Permanente em 05/11/2020: alegações de eleição não transparente, não livre e não justa confirmadas; recomendou anular e não reconhecer",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "sem_missao_relevante",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "adversario",
+      "china": "aliado",
+      "russia": "aliado"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Departamento de Estado ('cannot consider Aleksandr Lukashenko the legitimately elected leader'); Pompeo já dissera 'not free and fair' em 15/08",
+        "data": "2020-09-23"
+      },
+      "china": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "Xi Jinping",
+        "data": "2020-08-10"
+      },
+      "russia": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "Putin",
+        "data": "2020-08-10"
+      },
+      "ue": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Charles Michel, Conselho Europeu",
+        "data": "2020-08-19"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": true,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://www.globalsecurity.org/wmd/library/news/belarus/belarus-200810-pdo01.htm",
+      "https://chinadailyhk.com/article/139663",
+      "https://www.rt.com/news/497561-putin-congratulates-lukashenko-election/",
+      "https://panorama.am/en/news/2020/08/10/Путин-Лукашенко-Беларусь/2341585",
+      "https://www.jurist.org/news/2020/08/eu-rejects-belarus-election-results-will-impose-sanctions-on-officials/",
+      "https://epthinktank.eu/2020/08/25/outcome-of-the-european-council-video-conference-of-19-august-2020/",
+      "https://www.axios.com/2020/09/23/us-lukashenko-president-belarus",
+      "https://www.aa.com.tr/en/world/us-says-lukashenko-not-legitimate-leader-of-belarus/1983716",
+      "https://www.globalsecurity.org/wmd/library/news/belarus/belarus-201002-treasury01.htm",
+      "https://www.bloomberg.com/news/articles/2020-08-15/u-s-says-belarus-vote-not-free-takes-no-stance-on-sanctions",
+      "https://belsat.eu/en/news/moscow-mechanism-osce-rapporteur-confirms-election-fraud-massive-human-rights-violations-in-belarus",
+      "https://www.nhc.nl/osce-moscow-mechanism-report-on-belarus/"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "CEC: Lukashenko 80,1% (preliminar 80,23%) x Tsikhanouskaya ~10,1%; margem arredondada. Sem missão da OSCE/ODIHR (o relatório do Mecanismo de Moscou foi feito sem visto, à distância). OFAC sancionou 8 pessoas em 02/10/2020 pela eleição fraudulenta e pela repressão (incluindo a presidente da CEC). Posse secreta em 23/09/2020. Violência: o Mecanismo de Moscou registra violações massivas de direitos humanos na repressão aos protestos. Candidato paralelo: o Parlamento Europeu prestigiou o Conselho de Coordenação, mas nenhuma das 4 potências reconheceu Tsikhanouskaya como presidente; codificado false. perdedor_foi_a_justica = null: não achei fonte de recurso judicial (só reclamações à CEC)."
+  },
+  {
+    "caso": "bolivia-2019",
+    "margem_pontos": 10.57,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "Auditoria da OEA (preliminar 10/11/2019, final 04-05/12/2019): 'manipulação intencional' e irregularidades graves que impedem validar o resultado; Missão técnica da UE (relatório 21/12/2019) também apontou irregularidades. Contestação: Idrobo, Kronick e Rodríguez (2020, Journal of Politics) e o CEPR acham que a virada tardia se explica sem fraude; Escobari e Hoover (2024) voltam a sustentar fraude",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "apontaram_problemas_graves",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": true,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "adversario",
+      "china": "proximo",
+      "russia": "proximo"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "questionou",
+        "dias_ate_parabens": null,
+        "quem": "comunicado conjunto EUA, Brasil, Argentina e Colômbia pedindo 2º turno; Pompeo reforçou em 27-28/10",
+        "data": "2019-10-24"
+      },
+      "china": {
+        "tipo": "parabens",
+        "dias_ate_parabens": null,
+        "quem": "segundo Zakharova (Rússia), a China cumprimentou Morales; data não localizada",
+        "data": null
+      },
+      "russia": {
+        "tipo": "parabens",
+        "dias_ate_parabens": null,
+        "quem": "Ministério das Relações Exteriores, segundo Zakharova; data exata não localizada",
+        "data": null
+      },
+      "ue": {
+        "tipo": "questionou",
+        "dias_ate_parabens": null,
+        "quem": "porta-voz do SEAE: 2º turno seria a melhor opção",
+        "data": "2019-10-24"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": false,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2019_Bolivian_general_election",
+      "https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-109/19",
+      "https://www.globalsecurity.org/military/library/news/2019/12/mil-191204-oas01.htm",
+      "https://cepr.net/?p=133693",
+      "https://papers.ssrn.com/abstract=3621475",
+      "https://dorothykronick.com/Bolivia_WDResponse.pdf",
+      "https://www.lostiempos.com/actualidad/mundo/20191024/eeuu-brasil-argentina-colombia-plantean-segunda-vuelta-electoral",
+      "https://www.lostiempos.com/actualidad/pais/20191028/pompeo-pide-segunda-vuelta-evo-mesa",
+      "https://www.eeas.europa.eu/eeas/declaraci%C3%B3n-de-la-portavoz-sobre-el-proceso-electoral-en-bolivia_es",
+      "https://lapatilla.com/2019/11/01/rusia-interferir-comicios-bolivianos/",
+      "https://tass.com/politics/1087970/amp",
+      "https://themoscowtimes.com/2019/11/14/russia-recognizes-bolivias-interim-leader-as-violence-continues-a68178"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "TSE, oficial em 25/10/2019: Morales 47,08% x Mesa 36,51% (10,57 pontos, acima do limiar de 10 que evita 2º turno). Morales renunciou em 10/11/2019 e o resultado foi anulado; nova eleição em 2020. Os parabéns de Rússia e China têm UMA fonte só (relato de declaração de Zakharova em 31/10-01/11/2019), sem data; não fecham com duas. Áñez (sucessora) foi reconhecida como interina pelos EUA e, provisoriamente, pela Rússia, mas não era governo paralelo durante a disputa; codificado false. Violência: Sacaba e Senkata (nov/2019), citadas como massacres; contagem não conferida nesta passada. perdedor_foi_a_justica = null: não achei recurso judicial de Mesa."
+  },
+  {
+    "caso": "ucrania-2004",
+    "margem_pontos": 2.73,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "Suprema Corte da Ucrânia, 03/12/2004: invalidou o 2º turno de 21/11 (interferência ilegal de órgãos do Estado que distorceu o resultado) e mandou refazer; OSCE: 2º turno não cumpriu os padrões internacionais",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "apontaram_problemas_graves",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": true,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "neutro",
+      "china": "neutro",
+      "russia": "aliado"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Colin Powell ('We cannot accept this result as legitimate')",
+        "data": "2004-11-24"
+      },
+      "china": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "russia": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "Putin, a partir das pesquisas de boca de urna e da contagem preliminar, antes do resultado oficial da CEC",
+        "data": "2004-11-22"
+      },
+      "ue": {
+        "tipo": "nao_reconheceu",
+        "dias_ate_parabens": null,
+        "quem": "Bernard Bot (presidência holandesa): UE 'does not accept these results'; Balkenende na cúpula UE-Rússia em 25/11",
+        "data": "2004-11-23"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": false,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election",
+      "https://www.congress.gov/108/bills/sres485/BILLS-108sres485is.pdf",
+      "https://www.cvk.gov.ua/pls/vp2004/wp300ee26d.html",
+      "https://www.aljazeera.com/news/2004/12/3/ukrainian-court-annuls-election-result",
+      "https://www.globalsecurity.org/wmd/library/news/ukraine/ukraine-041203-rferl02.htm",
+      "https://usinfo.org/wf-archive/2004/041124/epf303.htm",
+      "https://rferl.org/a/1056053.html",
+      "https://cacianalyst.org/publications/news-digest/item/9523-news-digest-caci-analyst-2004-11-24-art-9523.html",
+      "https://www.rferl.org/a/1056013.html",
+      "https://www.globalsecurity.org/wmd/library/news/ukraine/ukraine-041126-rferl04.htm",
+      "https://www.osce.org/files/f/documents/6/2/24319.pdf"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "CEC (23-24/11/2004): Yanukovych 49,42% x Yushchenko 46,69% dos votos totais (outra versão: 49,46 x 46,61); margem 2,73. Refeito em 26/12: Yushchenko 52,77% x 44,85%. Os parabéns de Putin vieram antes do resultado oficial (ele mesmo admitiu que foi cedo); dias = 0 contados da contagem preliminar de 22/11. China = null: não achei manifestação chinesa. Sem violência relevante: a Revolução Laranja foi pacífica. Não houve sanção dos EUA; houve ameaça de rever a relação."
+  },
+  {
+    "caso": "servia-2000",
+    "margem_pontos": 10.34,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "A própria Comissão Eleitoral Federal revisou o resultado em 10/10/2000, depois da queda de Milošević: Koštunica 50,24%, vitória no 1º turno (o primeiro anúncio, de 28/09, dava 48,96% e mandava a 2º turno); a contagem da oposição e do CeSID já dava maioria absoluta",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "sem_missao_relevante",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": null,
+    "relacao_do_vencedor": {
+      "eua": "neutro",
+      "china": "neutro",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "china": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "russia": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "ue": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+      "http://www.arhiva.srbija.gov.rs/vesti/2000-09/28/21673.html",
+      "https://www.electionguide.org/elections/id/1822/",
+      "https://en.wikipedia.org/wiki/2000_Yugoslavian_general_election"
+    ],
+    "fecha_com_duas_fontes": false,
+    "notas": "Resultado anunciado (28/09/2000): Koštunica 48,96% x Milošević 38,62%, sem vencedor, 2º turno marcado para 08/10. Em 05/10 manifestantes tomaram o parlamento e a RTS (2 mortos, um atropelado e um infarto, 65 feridos); Milošević saiu em 06-07/10 e Koštunica assumiu. Não fecha: o limite de buscas da sessão acabou antes de achar as reações datadas de EUA, Rússia (visita de Igor Ivanov a Belgrado), China e UE, a decisão do Tribunal Constitucional e se algum governo reconheceu Koštunica antes do anúncio oficial; ficaram null. 'Relação do vencedor' (Koštunica) codificada neutra sem fonte específica. Sanções ocidentais foram retiradas depois, não impostas."
+  },
+  {
+    "caso": "georgia-2003",
+    "margem_pontos": 2.56,
+    "fraude_demonstrada": "sim",
+    "quem_demonstrou_ou_rejeitou": "Suprema Corte da Geórgia anulou o resultado proporcional (25/11/2003, depois da renúncia de Shevardnadze); OSCE/ODIHR: eleição abaixo dos compromissos da OSCE, com listas de eleitores manipuladas e enchimento de urnas",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "apontaram_problemas_graves",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": true,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "proximo",
+      "china": "neutro",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "china": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "russia": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": "Igor Ivanov mediou o encontro de 23/11 que levou à renúncia; tipo de reação ao resultado não localizado",
+        "data": null
+      },
+      "ue": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": false,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2003_Georgian_parliamentary_election",
+      "https://cesko.ge/res/old/other/9/9078.pdf",
+      "https://www.osce.org/odihr/elections/georgia/17822",
+      "https://www.theguardian.com/world/2003/nov/25/georgia",
+      "https://en.wikipedia.org/wiki/Rose_Revolution"
+    ],
+    "fecha_com_duas_fontes": false,
+    "notas": "Eleição parlamentar de 02/11/2003. Resultado da CEC: Pela Nova Geórgia (Shevardnadze) 22,10% x Renascimento 19,54% x Movimento Nacional 18,74% (outras versões dão 21,3/18,8/18,1). Em 22/11 a oposição invadiu a sessão inaugural do novo parlamento; Shevardnadze renunciou em 23/11; nova eleição em 28/03/2004. Data da anulação: 25/11 pelo Guardian, 23/11 pela Wikipedia. Não fecha: o limite de buscas acabou antes das reações datadas de EUA, China, Rússia e UE (ficaram null) e do autor do recurso à Suprema Corte. Eleição parlamentar costuma não ter parabéns de potência. Revolução sem violência relevante."
+  },
+  {
+    "caso": "costa-do-marfim-2010",
+    "margem_pontos": 8.2,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "O Conselho Constitucional (03/12/2010) anulou votos de 7 regiões do norte por fraude e proclamou Gbagbo (51,45%); a ONU certificou Ouattara e a maioria dos observadores considerou que o resultado não foi comprometido; o Centro Carter pediu cautela antes de julgar",
+    "autoridade_certificou_o_resultado_anunciado": false,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": true,
+    "relacao_do_vencedor": {
+      "eua": "proximo",
+      "china": "neutro",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 1,
+        "quem": "governo Obama reconheceu Ouattara como vencedor (palavra 'parabéns' não conferida no texto primário)",
+        "data": "2010-12-03"
+      },
+      "china": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "russia": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "ue": {
+        "tipo": "parabens",
+        "dias_ate_parabens": null,
+        "quem": "UE apoiou Ouattara como vencedor; data e texto não conferidos",
+        "data": null
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": true,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2010%E2%80%932011_Ivorian_crisis",
+      "https://en.wikipedia.org/wiki/2010_Ivorian_presidential_election",
+      "https://www.bbc.co.uk/news/world-africa-11913832",
+      "https://www.bbc.co.uk/news/world-africa-11917359",
+      "https://www.reuters.com/article/idUSTRE6B04V920101204",
+      "https://www.bloomberg.com/news/2010-12-22/u-s-says-ivory-coast-election-outcome-irrefutable-update1-.html",
+      "https://www.voanews.com/a/un-spokesman-gbagbo-not-ivory-coast-president-112131814/132460.html"
+    ],
+    "fecha_com_duas_fontes": false,
+    "notas": "Codifiquei como 'resultado anunciado' o da Comissão Eleitoral Independente (02/12/2010): Ouattara 54,1% x Gbagbo 45,9%. O Conselho Constitucional inverteu (Gbagbo 51,45%), Gbagbo tomou posse em 04/12 e Ouattara prestou juramento separado; Ouattara governou de fato a partir de 11/04/2011. EUA: restrição de viagem a Gbagbo e 30 aliados em 21/12/2010 e 'irrefutável' em 22/12. Mortos: 1.000 a 1.500+ civis. Não fecha: as reações de EUA e UE vêm só do resumo da Wikipedia (BBC de 03/12, que não pude abrir), e as de China e Rússia (posição no Conselho de Segurança) não foram achadas antes do limite de buscas."
+  },
+  {
+    "caso": "honduras-2017",
+    "margem_pontos": 1.53,
+    "fraude_demonstrada": "disputado",
+    "quem_demonstrou_ou_rejeitou": "Missão da OEA e o secretário-geral Almagro (17/12/2017): impossível determinar o vencedor, pediu nova eleição; o TSE rejeitou as impugnações e declarou Hernández; a missão da UE apontou irregularidades sem pedir nova eleição (posição da UE não conferida no texto primário)",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "apontaram_problemas_graves",
+    "perdedor_foi_a_justica": null,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "aliado",
+      "china": "neutro",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 5,
+        "quem": "Departamento de Estado reconheceu Hernández e pediu diálogo nacional (palavra 'parabéns' não conferida no texto primário)",
+        "data": "2017-12-22"
+      },
+      "china": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "russia": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "ue": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": true,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2017_Honduran_general_election",
+      "https://www.tse.hn/WEB/elecciones_2017_EG/Declaratoria_EG_2017.pdf",
+      "https://www.nytimes.com/2017/12/17/world/americas/honduran-presidential-election.html",
+      "https://www.theguardian.com/world/2017/dec/22/us-recognizes-re-election-of-honduras-president-despite-calls-for-a-new-vote",
+      "https://www.nytimes.com/2017/12/22/world/americas/us-honduras-president-hernandez.html",
+      "http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22799&LangID=E"
+    ],
+    "fecha_com_duas_fontes": false,
+    "notas": "TSE, 17/12/2017: Hernández 42,95% x Nasralla 41,42%. A contagem parou com Nasralla à frente (45,17% x 40,21% com 57%) e virou depois. ONU (12/03/2018): ao menos 22 civis e 1 policial mortos nos protestos. Posse em 27/01/2018 (data não conferida em fonte nesta passada). Honduras reconhecia Taiwan, por isso relação com a China codificada neutra. Não fecha: China, Rússia e UE ficaram null por falta de busca, o texto primário do Departamento de Estado não foi aberto, e o recurso formal de Nasralla (impugnações ao TSE) não foi conferido."
+  },
+  {
+    "caso": "honduras-2025",
+    "margem_pontos": 0.74,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "Missão da UE (chefe Francisco Assis, relatório final 03/03/2026): 'No ha habido fraude electoral'; Missão da OEA: atrasos e falta de perícia, sem indícios que façam duvidar do resultado; validou o resultado do CNE. Nasralla e o LIBRE alegaram fraude sem tornar pública a prova",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "validaram",
+    "perdedor_foi_a_justica": true,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "aliado",
+      "china": "adversario",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "Marco Rubio, Departamento de Estado ('clear electoral victory'); ligação em 26/12",
+        "data": "2025-12-24"
+      },
+      "china": {
+        "tipo": "nota_sem_parabens",
+        "dias_ate_parabens": null,
+        "quem": "Embaixada da China em Honduras: reconheceu o processo e o apoio ao governo Asfura; data não localizada",
+        "data": null
+      },
+      "russia": {
+        "tipo": "nota_sem_parabens",
+        "dias_ate_parabens": null,
+        "quem": "Ministério das Relações Exteriores: 'respeito incondicional à vontade' dos hondurenhos, sem parabéns",
+        "data": "2025-12-29"
+      },
+      "ue": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 1,
+        "quem": "porta-voz do SEAE",
+        "data": "2025-12-25"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://www.pbs.org/newshour/amp/world/nasry-asfura-candidate-backed-by-trump-declared-winner-of-honduras-presidential-vote",
+      "https://www.idea.int/democracytracker/report/honduras/november-2025",
+      "https://aljazeera.com/news/2025/12/24/trump-backed-conservative-nasry-asfura-wins-honduras-election-authorities",
+      "https://www.aljazeera.com/news/2025/12/26/marco-rubio-congratulates-honduran-president-elect-nasry-asfura",
+      "https://aa.com.tr/en/americas/us-congratulates-honduras-president-elect-nasry-asfura/3780299",
+      "https://eeas.europa.eu/eeas/honduras-statement-spokesperson-general-elections-0_en",
+      "https://diario.elmundo.sv/el-mundo/union-europea-descarta-fraude-en-elecciones-en-honduras",
+      "https://www.elpais.com.co/mundo/mision-electoral-de-oea-presenta-informe-sobre-presidenciales-en-honduras-retraso-en-resultados-no-es-justificable-1539.html",
+      "https://elnuevodiario.com.do/mision-de-oea-dice-que-resultados-electorales-en-honduras-reflejan-la-voluntad-ciudadana/",
+      "https://www.hawaiitribune-herald.com/?p=354633",
+      "https://tass.com/politics/2066531",
+      "https://www.divergentes.com/stalled-fta-frozen-relations-honduras-china/",
+      "https://www.cbsnews.com/amp/news/honduras-election-results-trump-intervention-pardon-ex-president-hernandez",
+      "https://www.batimes.com.ar/news/latin-america/trump-says-honduras-is-trying-to-change-election-as-rivals-compete-in-tight-race.phtml",
+      "https://www.laprensa.hn/fotogalerias/honduras/tegucigalpa-mision-union-europea-presenta-informe-final-elecciones-generales-2025-FK29549369"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "CNE, 24/12/2025 (2 dos 3 conselheiros; Marlon Ochoa ausente): Asfura 40,27% x Nasralla 39,53% (AP dá 39,39%); ~15% das atas contadas à mão. Nasralla recorreu ao Tribunal de Justiça Eleitoral; o LIBRE pediu anulação. Posse em 27/01/2026. Trump e o entorno ANTES do governo: Trump declarou apoio a Asfura, ameaçou ('hell to pay') se a vantagem fosse revertida, disse sem prova que Honduras tentava 'mudar o resultado' e perdoou Juan Orlando Hernández (do partido de Asfura) às vésperas da votação. Em até 60 dias a posição oficial foi o reconhecimento e os parabéns de Rubio a Asfura (24/12, 24 dias depois da votação): a preferência virou posição oficial, a alegação de manipulação não (a declaração oficial foi de 'clara vitória'). China e Rússia têm uma fonte cada. Protestos do LIBRE interromperam a apuração; não achei mortes."
+  },
+  {
+    "caso": "hungria-2026",
+    "margem_pontos": 14.57,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "Não alegada pelo perdedor: Orbán reconheceu a derrota na mesma noite; o presidente Sulyok disse que a eleição foi conduzida corretamente. A missão conjunta ODIHR, AP-OSCE e APCE (13/04) apontou campo desigual a favor do partido do governo, sem apontar fraude na contagem",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": "parcial",
+    "perdedor_foi_a_justica": false,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "neutro",
+      "china": "neutro",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "nota_sem_parabens",
+        "dias_ate_parabens": null,
+        "quem": "Vance ('triste', vai trabalhar com Magyar) em 13/04; Trump a ABC em 14/04 ('he's a good man', 'going to do a good job'), sem cumprimento formal localizado",
+        "data": "2026-04-13"
+      },
+      "china": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 1,
+        "quem": "porta-voz Guo Jiakun",
+        "data": "2026-04-13"
+      },
+      "russia": {
+        "tipo": "nota_sem_parabens",
+        "dias_ate_parabens": null,
+        "quem": "Peskov: não manda parabéns a país 'inamistoso', mas respeita o resultado",
+        "data": "2026-04-13"
+      },
+      "ue": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 0,
+        "quem": "Ursula von der Leyen (telefonema e post)",
+        "data": "2026-04-12"
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": true,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election",
+      "https://www.bluewin.ch/en/news/international/two-thirds-majority-secured-for-tisza-accusation-of-fraud-by-magyar-li.3195433",
+      "https://www.hppr.org/npr-news/2026-04-12/hungarys-viktor-orban-concedes-defeat-ending-16-years-in-power",
+      "https://www.intellinews.com/viktor-orban-concedes-loss-in-hungary-election-congratulates-peter-magyar-436848/",
+      "https://pace.coe.int/en/files/36073/html",
+      "https://odihr.osce.org/node/663235",
+      "https://www.freemalaysiatoday.com/category/world/2026/04/15/trump-says-hungarys-magyar-going-to-do-a-good-job",
+      "https://www.kyivpost.com/amp/post/73970",
+      "https://www.globaltimes.cn/page/202604/1358795.shtml",
+      "https://caliber.az/en/post/china-congratulates-opposition-leader-after-hungary-election-win",
+      "https://aa.com.tr/en/world/kremlin-says-it-will-not-congratulate-hungarys-premier-elect/3904023",
+      "https://www.pravda.com.ua/eng/news/2026/04/13/8029973",
+      "https://www.cei.int/ansa/173551",
+      "https://telex.hu/english/2026/04/13/hungary-has-chosen-europe-european-leaders-and-heads-of-state-offer-their-congratulations-to-peter-magyar",
+      "https://www.bloomberg.com/news/videos/2026-02-16/rubio-to-hungary-s-orban-your-success-is-our-success-video",
+      "https://hungarianconservative.com/articles/current/hungary-national-day-st-stephen-greeting-diplomacy-magyar-orban/"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Eleição parlamentar de 12/04/2026. Lista: Tisza 53,18% x Fidesz 38,61%; Tisza 141 de 199 cadeiras (dois terços). Curiosidade: quem anunciou contestar um distrito em Vas por fraude foi o vencedor, Magyar. Trump e o entorno ANTES do governo: Rubio (fev/2026, em Budapeste) e Vance (dias antes) apoiaram Orbán; não achei alegação de fraude do entorno de Trump depois da derrota. Em até 60 dias a posição oficial foi trabalhar com Magyar, sem parabéns formal localizado (Trump disse que 'não se envolveu muito'). Relação do vencedor com a Rússia codificada neutra: Peskov chama a Hungria de 'inamistosa' por apoiar sanções, e Magyar agradeceu a Rússia e a China por aceitarem o resultado. Data exata da posse de Magyar não localizada; a mudança de governo é confirmada."
+  },
+  {
+    "caso": "argentina-2025",
+    "margem_pontos": 8.96,
+    "fraude_demonstrada": "nao",
+    "quem_demonstrou_ou_rejeitou": "Não alegada: Kicillof (Fuerza Patria) reconheceu a derrota apertada em Buenos Aires na noite de 26/10/2025; estreia nacional da Boleta Única descrita como transparente",
+    "autoridade_certificou_o_resultado_anunciado": true,
+    "observadores": null,
+    "perdedor_foi_a_justica": false,
+    "eleicao_anulada_ou_refeita": false,
+    "governo_ou_candidato_paralelo_reconhecido_por_alguma_potencia": false,
+    "relacao_do_vencedor": {
+      "eua": "aliado",
+      "china": "neutro",
+      "russia": "neutro"
+    },
+    "reacao": {
+      "eua": {
+        "tipo": "parabens",
+        "dias_ate_parabens": 1,
+        "quem": "Trump (Truth Social: 'Landslide Victory'); Bessent também",
+        "data": "2025-10-27"
+      },
+      "china": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "russia": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      },
+      "ue": {
+        "tipo": null,
+        "dias_ate_parabens": null,
+        "quem": null,
+        "data": null
+      }
+    },
+    "eua_sancao_ou_corte_ligado_a_eleicao_em_12_meses": false,
+    "vencedor_anunciado_tomou_posse": null,
+    "violencia_relevante_depois_da_eleicao": false,
+    "fontes": [
+      "https://en.wikipedia.org/wiki/2025_Argentine_legislative_election",
+      "https://alertas-v3.directoriolegislativo.org/bf1a2a40-3367-44b8-945c-1c0b787500b8@Informe%20Poselectoral%20ARG%20-%20Octubre%202025.pdf",
+      "https://www.lanacion.com.ar/estados-unidos/mileis-party-wins-argentinas-midterm-election-after-trumps-support-nid26102025/",
+      "https://www.lanacion.com.ar/politica/que-dijo-axel-kicillof-de-los-resultados-de-las-elecciones-de-argentina-2025-nid27102025/",
+      "https://www.diariodecuyo.com.ar/politica/kicillof-reconocio-la-derrota-en-buenos-aires-pero-disparo-contra-milei-se-equivoca-si-festeja-1791557.html",
+      "https://buenosairesherald.com/world/international-relations/trump-congratulates-milei-on-landslide-victory-in-argentinas-midterms",
+      "https://batimes.com.ar/news/economy/trump-showers-milei-with-praise-after-clear-midterms-victory.phtml",
+      "https://dc.fortune.com/2025/10/27/trump-made-lot-of-money-milei-argentina-midterm-election"
+    ],
+    "fecha_com_duas_fontes": true,
+    "notas": "Legislativa de meio de mandato, 26/10/2025. Deputados (nacional): LLA 40,66% x Fuerza Patria 31,70% (La Nación, 90%: 40,84 x 31,67); a Wikipedia dá 33,70% para a Fuerza Patria, provavelmente somando frentes aliadas, o que daria margem de 6,96. Buenos Aires: 41,45 x 40,92 na contagem provisória. Participação 67,4%, a menor da democracia recente. Entra na classe pela reação dos EUA: Trump apoiou Milei explicitamente em meados de outubro e o pacote de US$ 20 bi (swap) foi ligado ao resultado; codifico isso como condicionamento antes da eleição, não como sanção. China, Rússia e UE = null: não achei manifestação (é eleição legislativa). observadores = null: não achei missão. vencedor_anunciado_tomou_posse = null: posse dos eleitos (dez/2025) não conferida."
+  }
+]

@@ -1,0 +1,100 @@
+item,principal,independente,passou
+fatia importacao China 2015,17.73,17.73,True
+fatia importacao EUA 2015,15.53,15.53,True
+fatia importacao Rússia 2015,1.31,1.31,True
+fatia exportacao China 2015,18.82,18.82,True
+fatia exportacao EUA 2015,12.94,12.94,True
+fatia exportacao Rússia 2015,1.32,1.32,True
+fatia importacao China 2016,16.81,16.81,True
+fatia importacao EUA 2016,17.37,17.37,True
+fatia importacao Rússia 2016,1.48,1.48,True
+fatia exportacao China 2016,19.57,19.57,True
+fatia exportacao EUA 2016,12.98,12.98,True
+fatia exportacao Rússia 2016,1.28,1.28,True
+fatia importacao China 2017,17.54,17.54,True
+fatia importacao EUA 2017,17.66,17.66,True
+fatia importacao Rússia 2017,1.72,1.72,True
+fatia exportacao China 2017,22.09,22.09,True
+fatia exportacao EUA 2017,12.63,12.63,True
+fatia exportacao Rússia 2017,1.27,1.27,True
+fatia importacao China 2018,19.04,19.04,True
+fatia importacao EUA 2018,17.96,17.96,True
+fatia importacao Rússia 2018,1.89,1.89,True
+fatia exportacao China 2018,27.57,27.57,True
+fatia exportacao EUA 2018,12.55,12.55,True
+fatia exportacao Rússia 2018,0.71,0.71,True
+fatia importacao China 2019,19.4,19.4,True
+fatia importacao EUA 2019,18.97,18.97,True
+fatia importacao Rússia 2019,2.06,2.06,True
+fatia exportacao China 2019,28.65,28.65,True
+fatia exportacao EUA 2019,13.5,13.5,True
+fatia exportacao Rússia 2019,0.73,0.73,True
+fatia importacao China 2020,22.09,22.09,True
+fatia importacao EUA 2020,17.87,17.87,True
+fatia importacao Rússia 2020,1.79,1.79,True
+fatia exportacao China 2020,32.41,32.41,True
+fatia exportacao EUA 2020,10.33,10.33,True
+fatia exportacao Rússia 2020,0.73,0.73,True
+fatia importacao China 2021,22.78,22.78,True
+fatia importacao EUA 2021,17.68,17.68,True
+fatia importacao Rússia 2021,2.65,2.65,True
+fatia exportacao China 2021,31.3,31.3,True
+fatia exportacao EUA 2021,11.16,11.16,True
+fatia exportacao Rússia 2021,0.57,0.57,True
+fatia importacao China 2022,23.18,23.18,True
+fatia importacao EUA 2022,18.58,18.58,True
+fatia importacao Rússia 2022,2.95,2.95,True
+fatia exportacao China 2022,26.82,26.82,True
+fatia exportacao EUA 2022,11.41,11.41,True
+fatia exportacao Rússia 2022,0.59,0.59,True
+fatia importacao China 2023,22.15,22.15,True
+fatia importacao EUA 2023,15.9,15.9,True
+fatia importacao Rússia 2023,4.41,4.41,True
+fatia exportacao China 2023,30.71,30.71,True
+fatia exportacao EUA 2023,11.03,11.03,True
+fatia exportacao Rússia 2023,0.4,0.4,True
+fatia importacao China 2024,24.93,24.93,True
+fatia importacao EUA 2024,15.55,15.55,True
+fatia importacao Rússia 2024,4.4,4.4,True
+fatia exportacao China 2024,28.01,28.01,True
+fatia exportacao EUA 2024,12.14,12.14,True
+fatia exportacao Rússia 2024,0.43,0.43,True
+fatia importacao China 2025,25.82,25.82,True
+fatia importacao EUA 2025,16.26,16.26,True
+fatia importacao Rússia 2025,3.5,3.5,True
+fatia exportacao China 2025,28.69,28.69,True
+fatia exportacao EUA 2025,10.93,10.93,True
+fatia exportacao Rússia 2025,0.44,0.44,True
+concordância ONU 2015|EUA,0.368,0.368,True
+concordância ONU 2015|Rússia,0.711,0.711,True
+concordância ONU 2015|China,0.84,0.84,True
+concordância ONU 2016|EUA,0.504,0.504,True
+concordância ONU 2016|Rússia,0.622,0.622,True
+concordância ONU 2016|China,0.794,0.794,True
+concordância ONU 2017|EUA,0.329,0.329,True
+concordância ONU 2017|Rússia,0.667,0.667,True
+concordância ONU 2017|China,0.748,0.748,True
+concordância ONU 2018|EUA,0.336,0.336,True
+concordância ONU 2018|Rússia,0.63,0.63,True
+concordância ONU 2018|China,0.725,0.725,True
+concordância ONU 2019|EUA,0.373,0.373,True
+concordância ONU 2019|Rússia,0.555,0.555,True
+concordância ONU 2019|China,0.669,0.669,True
+concordância ONU 2020|EUA,0.426,0.426,True
+concordância ONU 2020|Rússia,0.569,0.569,True
+concordância ONU 2020|China,0.65,0.65,True
+concordância ONU 2021|EUA,0.52,0.52,True
+concordância ONU 2021|Rússia,0.503,0.503,True
+concordância ONU 2021|China,0.62,0.62,True
+concordância ONU 2022|EUA,0.575,0.575,True
+concordância ONU 2022|Rússia,0.549,0.549,True
+concordância ONU 2022|China,0.662,0.662,True
+concordância ONU 2023|EUA,0.526,0.526,True
+concordância ONU 2023|Rússia,0.5,0.5,True
+concordância ONU 2023|China,0.634,0.634,True
+concordância ONU 2024|EUA,0.366,0.366,True
+concordância ONU 2024|Rússia,0.633,0.633,True
+concordância ONU 2024|China,0.795,0.795,True
+taxa-base china_parabens_7d (todos),9 de 13,9 de 13,True
+taxa-base russia_parabens_7d (todos),8 de 11,8 de 11,True
+taxa-base eua_parabens_30d (fraude não demonstrada (lente L)),7 de 8,7 de 8,True
