@@ -13,7 +13,7 @@
 - **A Justiça brasileira anula ou manda refazer o 2º turno:** muito improvável se o resultado for legítimo; provável se a fraude for demonstrada.
 - **Lula toma posse em 05/jan/2027:** quase certo se o resultado for legítimo; improvável se a fraude for demonstrada.
 - **Há protestos de rua contra o resultado em pelo menos 5 estados:** provável se o resultado for legítimo; quase certo se a fraude for demonstrada.
-- **Os EUA continuam tratando o governo Lula como o governo do Brasil:** quase certo se o resultado for legítimo; provável se a fraude for demonstrada.
+- **Os EUA continuam tratando o governo Lula como o governo do Brasil:** quase certo se o resultado for legítimo; improvável se a fraude for demonstrada.
 - **Trump parabeniza Lula em público em até 30 dias:** muito improvável se o resultado for legítimo; quase nenhuma chance se a fraude for demonstrada.
 - **O Departamento de Estado trata o resultado como válido em público em até 30 dias:** chance parecida se o resultado for legítimo; quase nenhuma chance se a fraude for demonstrada.
 - **Trump ou o governo dos EUA dizem em público que houve fraude ou apoiam a anulação:** chance parecida se o resultado for legítimo; muito provável se a fraude for demonstrada.

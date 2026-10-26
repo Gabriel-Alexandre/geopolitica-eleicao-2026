@@ -18,7 +18,7 @@ Três leitores independentes, cada um uma instância da IA em contexto separado,
 | "Nenhuma eleição sem fraude demonstrada foi anulada" depende de como o Quênia 2017 e o Malaui 2019 foram codificados | lente F | aceita: variante V1; a S1 na lente L subiu de quase nenhuma chance para muito improvável |
 | A lente F do histórico juntava fraude demonstrada e disputada sem dizer | auditor | aceita: emenda 4 e variante V3, que mostra que os dois grupos se comportam de forma oposta |
 | A relação do Lula com os EUA em 2026 não estava declarada | lente L | aceita: declarada neutra, como em 2014 e 2022 (emenda 4), com a variante adversário publicada (V2) |
-| A coluna F1 não usava as taxas do grupo F (S4, S8) | lente F | aceita: S4 em F1 subiu para provável, S8 em F1 desceu para provável |
+| A coluna F1 não usava as taxas do grupo F (S4, S8) | lente F | aceita em parte: S8 em F1 desceu para provável. A S4 em F1 chegou a subir para provável e voltou para improvável na releitura do roteiro (26/out): a suposição vai até 2027, e na Bolívia de 2019, com a eleição anulada, os EUA reconheceram a presidente interina |
 | Sinais de distensão nas próprias capturas (sanção a Moraes retirada, tarifa sobre alimentos derrubada) não entravam na S8 | lente L | aceita: entraram no porquê da S8 |
 | A Hungria 2026 entrava para baixar a S5 e não era citada na S7 | lente L | aceita: a S7 agora cita a Hungria como evidência contra |
 | A H1 caía por "nenhuma nota em 24 h" quando só tinham passado umas 13 horas | lente L | aceita: texto corrigido |

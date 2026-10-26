@@ -29,10 +29,10 @@ Feita pelo Claude depois de todas as fases. Para cada suposição: o que mudou d
 ## S4 · Os EUA continuam tratando o governo Lula como o governo do Brasil
 
 - **Antes (pré-registro):** L quase certo · F1 improvável · F2 quase certo
-- **Agora:** L quase certo · F1 provável · F2 quase certo
+- **Agora:** L quase certo · F1 improvável · F2 quase certo
 - **O histórico:** os EUA não reconheceram: 0 de 8 (0%) (fraude não demonstrada (lente L)) · os EUA não reconheceram: 4 de 5 (80%) (todos, vencedor adversario da potência)
 - **O estado em 26/out:** nenhuma nota, nenhuma ruptura
-- **Por quê:** Em nenhum caso sem fraude demonstrada que fechou com duas fontes os EUA deixaram de reconhecer. Os não reconhecimentos da conta têm o vencedor como adversário dos EUA e, em geral, um nome alternativo reconhecido; no Brasil não há nome alternativo. Exceção fora da conta: a Ucrânia 2004 saiu por falta de duas fontes, e lá os EUA não reconheceram um vencedor que não era adversário. Em F1 subiu de improvável para provável pela revisão: o Lula é o presidente em exercício até 05/jan em qualquer lente, e nos casos de fraude disputada em que a Justiça do país agiu os EUA esperaram a nova eleição em vez de reconhecer outra pessoa
+- **Por quê:** Em nenhum caso sem fraude demonstrada que fechou com duas fontes os EUA deixaram de reconhecer. Os não reconhecimentos da conta têm o vencedor como adversário dos EUA e, em geral, um nome alternativo reconhecido; no Brasil não há nome alternativo. Exceção fora da conta: a Ucrânia 2004 saiu por falta de duas fontes, e lá os EUA não reconheceram um vencedor que não era adversário. Em F1 fica improvável: o defensor da lente F pediu provável (o Lula é o presidente até 05/jan em qualquer lente), mas a suposição vai até 2027, e na Bolívia de 2019, com a eleição anulada, os EUA reconheceram a presidente interina; com uma anulação aqui, quem assumisse até a nova eleição seria outra pessoa
 
 ## S5 · Trump parabeniza Lula em público em até 30 dias
 

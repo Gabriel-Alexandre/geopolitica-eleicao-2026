@@ -187,9 +187,60 @@ def g08_suposicoes() -> None:
     salvar(figura, "g08_suposicoes_duas_lentes", "dados/sintese_suposicoes.csv; escala de probabilidade da ICD 203")
 
 
+def g09_teto(teto: dict) -> None:
+    """O tamanho que a queixa dos impedidos de votar precisaria ter, contra a abstenção inteira de 2022."""
+    figura, eixo = nova("Quantos impedidos de votar virariam o resultado",
+                        "Eleitores impedidos necessários para virar 4,43 milhões de votos, pela fatia que votaria no Flávio")
+    figura.subplots_adjust(left=0.30)
+    imp = teto["eleitores_impedidos_necessarios"]
+    nomes = ["se 60% votassem no Flávio", "se 75% votassem no Flávio", "se 100% votassem no Flávio",
+             "abstenção do 2º turno de 2022"]
+    valores = [imp["60% para o Flávio"], imp["75% para o Flávio"], imp["100% para o Flávio"], teto["abstencao_2o_turno_2022"]]
+    cores = ["#B03A2E", "#B03A2E", "#B03A2E", "#6B6B6B"]
+    barras = eixo.barh(range(len(nomes)), [v / 1e6 for v in valores], color=cores)
+    eixo.set_yticks(range(len(nomes)))
+    for barra, valor in zip(barras, valores):
+        eixo.text(barra.get_width() + 0.4, barra.get_y() + barra.get_height() / 2,
+                  f"{valor / 1e6:.1f} milhões".replace(".", ","), va="center", fontsize=22)
+    eixo.invert_yaxis()
+    eixo.set_yticklabels(nomes, fontsize=19)
+    eixo.set_xlim(0, 40)
+    eixo.set_xticks([])
+    eixo.spines["bottom"].set_visible(False)
+    salvar(figura, "g09_teto_das_duas_pontas", "resultados/RESUMO.json (teto_das_duas_pontas); TSE, via o projeto previsao-segundo-turno-2026")
+
+
+def g10_dois_caminhos() -> None:
+    """Variante V3: fraude apontada de fora contra a Justiça do país agindo."""
+    with (RESULTADOS / "variantes.csv").open(encoding="utf-8") as arquivo:
+        v3 = {(l["variante"], l["desfecho"]): l["variante_valor"] for l in csv.DictReader(arquivo) if l["variante"].startswith("V3")}
+    pegar = lambda grupo, desfecho: v3[(f"V3: só fraude {grupo}", desfecho)].split(" (")[0]  # noqa: E731
+    figura, eixo = nova("Os 2 caminhos quando a fraude entra em jogo", "O que aconteceu depois, nas eleições do histórico")
+    figura.subplots_adjust(right=0.95)
+    eixo.axis("off")
+    colunas = [
+        (0.01, "#7F1D1D", "FRAUDE APONTADA DE FORA", "Venezuela 2024 · Bielorrússia 2020",
+         [f"o acusado ficou no poder: {pegar('demonstrada', 'vencedor_tomou_posse')}",
+          f"os EUA não reconheceram: {pegar('demonstrada', 'eua_nao_reconheceu')}"]),
+        (0.51, "#1E3A8A", "A JUSTIÇA DO PAÍS AGIU", "Quênia 2017 · Bolívia 2019 · Romênia 2024",
+         [f"eleição anulada ou refeita: {pegar('disputada', 'anulada_ou_refeita')}",
+          "(o 4º caso, Quênia 2007, não foi anulado)"]),
+    ]
+    for x, cor, titulo, casos, linhas in colunas:
+        eixo.add_patch(matplotlib.patches.FancyBboxPatch((x, 0.05), 0.47, 0.9, boxstyle="round,pad=0.01",
+                                                         color=cor, alpha=0.12, transform=eixo.transAxes))
+        eixo.text(x + 0.02, 0.85, titulo, fontsize=23, fontweight="bold", color=cor, transform=eixo.transAxes)
+        eixo.text(x + 0.02, 0.74, casos, fontsize=17, color="#333333", transform=eixo.transAxes)
+        for i, linha in enumerate(linhas):
+            eixo.text(x + 0.02, 0.55 - i * 0.16, textwrap.fill(linha, 34), fontsize=20, transform=eixo.transAxes, va="top")
+    salvar(figura, "g10_os_dois_caminhos", "resultados/variantes.csv (V3), fichas em duas passadas")
+
+
 def main() -> None:
     resumo = json.loads((RESULTADOS / "RESUMO.json").read_text(encoding="utf-8"))
     f3 = resumo["f3"]
+    g09_teto(resumo["teto_das_duas_pontas"])
+    g10_dois_caminhos()
     g01_exportacoes(f3)
     g02_importacoes(f3)
     g03_onu(f3)
