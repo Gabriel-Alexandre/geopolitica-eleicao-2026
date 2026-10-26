@@ -89,8 +89,12 @@ def main() -> None:
             (BRUTOS / f"{ident}.html").write_bytes(bruto)
             if status == 200:
                 texto = extrair_texto(bruto)
-                destino.write_text(texto, encoding="utf-8")
-                registro["sha256_texto"] = sha256(texto.encode("utf-8"))
+                # gravado em bytes: no Windows, write_text trocaria 
+ por 
+ e o arquivo deixaria de bater com o hash
+                bytes_texto = texto.encode("utf-8")
+                destino.write_bytes(bytes_texto)
+                registro["sha256_texto"] = sha256(bytes_texto)
                 registro["caracteres_texto"] = len(texto)
                 registro["ok"] = len(texto) > 500
             else:

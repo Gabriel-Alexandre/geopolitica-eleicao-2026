@@ -17,3 +17,12 @@ def test_toda_citacao_aponta_para_captura_com_hash():
         for linha in csv.DictReader(arquivo):
             assert manifesto[linha["fonte"]].get("ok"), linha["id"]
             assert len(manifesto[linha["fonte"]]["sha256_texto"]) == 64, linha["id"]
+
+
+def test_o_arquivo_capturado_bate_com_o_hash_do_manifesto():
+    import hashlib
+    manifesto = json.loads((RAIZ / "dados" / "MANIFESTO.json").read_text(encoding="utf-8"))
+    for ident, registro in manifesto.items():
+        if registro.get("ok"):
+            dados = (RAIZ / "dados" / "capturas" / f"{ident}.txt").read_bytes()
+            assert hashlib.sha256(dados).hexdigest() == registro["sha256_texto"], ident
