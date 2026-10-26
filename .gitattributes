@@ -1,0 +1,2 @@
+# os textos capturados ficam byte a byte como foram gravados, para o sha256 do MANIFESTO bater em qualquer sistema
+dados/capturas/*.txt -text
