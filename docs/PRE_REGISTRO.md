@@ -228,3 +228,12 @@ O que o projeto fez diferente do escrito, dito por extenso:
 5. **A S12 resolve quando os dados existirem**, não em 31/dez/2027: a base de votos da ONU vai até 2024 e o comércio de 2027 só sai em 2028.
 6. **As fontes da F4 foram capturadas com sha256** depois do levantamento (`dados/fontes_f4.csv`), como a §9 pede para toda fonte.
 7. **Ordem da emenda 2:** quando ela foi gravada (commit `e0b1bc2`, 10h11), a pasta `dados/casos/` estava vazia, conferido na sessão; as fichas entraram no commit seguinte. Isso não é verificável por terceiro além da ordem dos commits.
+
+### Emenda 6 (27/out/2026, rodada 2, escrita **depois** de ver o dado de C1, C2, C3 e C5)
+
+Por decisão do autor, a mesma que ele tomou em 27/out no projeto `investigacao-segundo-turno-2026` (emenda 4 de lá, `280d288`): **os arquivos das urnas baterem entre si é o esperado nas duas lentes**, porque, se uma fraude acontecesse dentro do próprio TSE, os arquivos publicados viriam iguais. Duas mudanças, com a direção dita:
+
+1. **O peso dos critérios fica em ordem.** O que mais pesa é C3 (a Justiça), porque no histórico deste projeto (variante V3) o mundo seguiu o que a Justiça ou o órgão eleitoral do país decidiu. Depois C1 (o tamanho da prorrogação), C5 (o teste de integridade) e C4 (inquéritos e observadores). O que menos pesa é C2 (os arquivos das urnas).
+2. **O veredito *L sustentada* passa a exigir também C3 e C5 apontando L sem ressalva** (não provisório, não parcial). Com C1 e C2 em L e C3 ou C5 ainda com ressalva, o veredito é ***L na frente, sem prova para nenhum lado***. A regra de F1 não muda.
+
+**Direção:** contra L. Pela regra original da §3, C1 e C2 apontando L já davam *L sustentada*.

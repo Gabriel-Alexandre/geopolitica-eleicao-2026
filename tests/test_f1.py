@@ -32,3 +32,19 @@ def test_todos_os_scripts_compilam():
     import py_compile
     for script in (RAIZ / "ferramentas").glob("*.py"):
         py_compile.compile(str(script), doraise=True)
+
+
+def _normal(texto: str) -> str:
+    import re
+    texto = texto.replace("\u200b", "").replace("\u2019", "'").replace("\u201c", '"').replace("\u201d", '"')
+    return re.sub(r"\s+", " ", texto).lower()
+
+
+def test_rodada_2_toda_citacao_esta_no_texto_capturado_com_hash():
+    """Rodada 2 (27/out): cada citação de dados/citacoes_r2.csv aparece, palavra por palavra, na captura com sha256."""
+    manifesto = json.loads((RAIZ / "dados" / "MANIFESTO.json").read_text(encoding="utf-8"))
+    with (RAIZ / "dados" / "citacoes_r2.csv").open(encoding="utf-8") as arquivo:
+        for linha in csv.DictReader(arquivo):
+            assert manifesto[linha["fonte"]].get("ok"), linha["id"]
+            texto = (RAIZ / "dados" / "capturas" / f"{linha['fonte']}.txt").read_text(encoding="utf-8")
+            assert _normal(linha["citacao"]) in _normal(texto), linha["id"]

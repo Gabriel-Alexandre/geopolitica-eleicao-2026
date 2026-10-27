@@ -5,7 +5,7 @@ Uso: python ferramentas/capturar.py dados/fontes_f1.csv [--refazer] [--navegador
 - texto extraído em dados/capturas/<id>.txt (no git)
 - endereço, hora, status, tamanho e sha256 em dados/MANIFESTO.json
 Página com texto já capturado não é baixada de novo, a menos que se passe --refazer.
-Com --navegador, as que faltam são abertas no Edge (para páginas que recusam o pedido direto).
+Com --navegador, as que faltam são abertas no Edge (para páginas que recusam o pedido direto); com --chrome, no Chrome.
 """
 import csv
 import re
@@ -56,11 +56,12 @@ def tarjar(texto: str) -> str:
     return re.sub(r"(CPF:?)\s*\d{3}\.?\d{3}\.?\d{3}-?\d{2}", r"\1 [tarjado]", texto)
 
 
-def baixar_com_navegador(url: str) -> tuple[int, bytes]:
-    """Para páginas que recusam o pedido direto (403, 406, tempo esgotado): abre no Edge e salva o HTML renderizado."""
+def baixar_com_navegador(url: str, canal: str = "msedge") -> tuple[int, bytes]:
+    """Para páginas que recusam o pedido direto (403, 406, tempo esgotado): abre no Edge (ou no Chrome, com --chrome)
+    e salva o HTML renderizado."""
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
-        navegador = p.chromium.launch(channel="msedge")
+        navegador = p.chromium.launch(channel=canal)
         pagina = navegador.new_page(locale="pt-BR")
         resposta = pagina.goto(url, timeout=60000, wait_until="domcontentloaded")
         pagina.wait_for_timeout(4000)
@@ -73,7 +74,8 @@ def baixar_com_navegador(url: str) -> tuple[int, bytes]:
 def main() -> None:
     lista = Path(sys.argv[1])
     refazer = "--refazer" in sys.argv
-    navegador = "--navegador" in sys.argv
+    chrome = "--chrome" in sys.argv
+    navegador = "--navegador" in sys.argv or chrome
     BRUTOS.mkdir(parents=True, exist_ok=True)
     CAPTURAS.mkdir(parents=True, exist_ok=True)
     manifesto = json.loads(MANIFESTO.read_text(encoding="utf-8")) if MANIFESTO.exists() else {}
@@ -85,8 +87,8 @@ def main() -> None:
         registro = {"url": url, "capturado_em_utc": datetime.now(timezone.utc).isoformat(timespec="seconds")}
         try:
             if navegador:
-                registro["metodo"] = "navegador (Edge via Playwright, HTML renderizado)"
-                status, bruto = baixar_com_navegador(url)
+                registro["metodo"] = f"navegador ({'Chrome' if chrome else 'Edge'} via Playwright, HTML renderizado)"
+                status, bruto = baixar_com_navegador(url, "chrome" if chrome else "msedge")
             else:
                 registro["metodo"] = "pedido direto (requests)"
                 resposta = requests.get(url, headers=CABECALHO, timeout=40)

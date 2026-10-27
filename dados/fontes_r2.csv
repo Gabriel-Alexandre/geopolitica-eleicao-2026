@@ -1,0 +1,36 @@
+id,grupo,quem,vinculo_como_a_fonte_descreve,url
+r2_01,trump,Donald Trump,presidente dos EUA (fala a repórteres em Joint Base Andrews; Euronews),https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence
+r2_02,trump,Donald Trump,presidente dos EUA (Reuters via Yahoo),https://www.yahoo.com/news/politics/articles/brazil-heads-back-future-flavio-070702211.html
+r2_03,trump,Donald Trump,presidente dos EUA (CNN Brasil),https://www.cnnbrasil.com.br/internacional/trump-diz-que-eleicao-do-brasil-pareceu-fraudada-mas-que-gosta-de-lula/
+r2_04,trump,Donald Trump,presidente dos EUA (Al Jazeera),https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was
+r2_05,eua,Departamento de Estado,nota adiada (Folha via Tribuna do Norte),https://tribunadonorte.com.br/tn-nas-eleicoes-2026/governo-trump-adia-comunicado-sobre-vitoria-de-lula-apos-contestacao-de-flavio-bolsonaro/
+r2_06,eua,Departamento de Estado,nota adiada (Estado de Minas),https://www.em.com.br/colunistas/luiz-carlos-azedo/2026/10/7528419-a-ressaca-da-virada-eleitoral-de-lula-derruba-a-bolsa-e-frustra-trump.html
+r2_07,brasil,Geraldo Alckmin,vice-presidente (SBT News),https://sbtnews.sbt.com.br/noticia/eleicoes/planalto-nao-vai-reagir-a-fala-de-trump-2
+r2_08,china,Xi Jinping,presidente da China (Reuters via Investing),https://br.investing.com/news/world-news/presidente-chines-xi-jinping-parabeniza-lula-por-reeleicao-2103782
+r2_09,china,Xi Jinping,presidente da China (Metrópoles),https://www.metropoles.com/mundo/xi-jinping-parabeniza-lula-e-quer-parceria-com-brasil-em-novos-patamares
+r2_10,china,Xi Jinping,presidente da China (Carta Capital),https://www.cartacapital.com.br/politica/xi-jinping-parabeniza-lula-pela-reeleicao/
+r2_11,argentina,Manuel Adorni ou porta-voz,governo Milei (CNN Brasil),https://www.cnnbrasil.com.br/blogs/luciana-taddeo/internacional/governo-milei-nao-vai-se-pronunciar-sobre-vitoria-do-lula-diz-porta-voz/
+r2_12,argentina,porta-voz,governo Milei (MDZ),https://www.mdzol.com/politica/2026/10/27/el-gobierno-reconocio-informalmente-la-victoria-de-lula-da-silva-en-brasil-tomamos-nota-de-la-elecci-1991096.html
+r2_13,mundo,líderes,reações do mundo (France 24),https://www.france24.com/en/americas/20261026-congratulations-world-leaders-hail-lula-s-election-victory-in-brazil
+r2_14,mundo,líderes,reações do mundo (Al Jazeera),https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race
+r2_15,justica,Flávio Bolsonaro,desistência da anulação (CNN Brasil),https://www.cnnbrasil.com.br/eleicoes/flavio-desiste-de-questionar-vitoria-de-lula-nas-urnas/
+r2_16,justica,Flávio Bolsonaro,desistência da anulação (Metrópoles),https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico
+r2_17,justica,Flávio Bolsonaro,AIJE (Poder360),https://www.poder360.com.br/brasil/flavio-prepara-aije-contra-chapa-de-lula-apos-derrota-no-2-turno/
+r2_18,partidos,Valdemar Costa Neto,PL reconhece (Terra),https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html
+r2_19,partidos,partidos,aliados reconhecem (Correio Braziliense),https://www.correiobraziliense.com.br/mundo/2026/10/7528082-partidos-aliados-de-flavio-reconhecem-a-vitoria-de-lula-zema-fala-em-golpe.html
+r2_20,partidos,Tarcísio de Freitas,governador de SP (Metrópoles),https://www.metropoles.com/sao-paulo/tarcisio-apos-vitoria-de-lula-eleicao-passou-mas-pais-segue-dividido
+r2_21,circulo,Eduardo Bolsonaro,vídeo em inglês (Estado de Minas),https://www.em.com.br/politica/2026/10/7528002-eduardo-bolsonaro-publica-video-em-ingles-e-contesta-vitoria-de-lula-nao-reconhecam.html
+r2_22,circulo,Eduardo Bolsonaro,vídeo em inglês (Observador),https://observador.pt/2026/10/26/eduardo-bolsonaro-pede-pressao-internacional-para-anular-eleicoes-que-deram-vitoria-a-lula-da-silva/
+r2_23,justica,Alexandre de Moraes,passaporte de Flávio (CNN Brasil),https://www.cnnbrasil.com.br/politica/moraes-manda-flavio-entregar-passaporte-e-nao-se-comunicar-com-willer/
+r2_24,justica,Polícia Federal,passaportes cancelados (CNN Brasil),https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-cancela-passaportes-de-flavio-bolsonaro-apos-decisao-de-moraes/
+r2_25,justica,Polícia Federal,possível saída para os EUA (Euronews PT),https://pt.euronews.com/2026/10/27/policia-brasileira-investiga-possivel-fuga-de-flavio-bolsonaro-para-os-eua-via-argentina
+r2_26,justica,aliado à Reuters,saída para os EUA (Times of Israel),https://www.timesofisrael.com/liveblog_entry/flavio-bolsonaro-leaves-brazil-for-us-after-election-defeat-source-and-media-say/
+r2_27,argentina,governo argentino,nega a entrada de Flávio (Buenos Aires Times),https://batimes.com.ar/news/latin-america/argentinas-government-denies-reports-flavio-bolsonaro-has-entered-the-country.phtml
+r2_28,justica,Flávio Bolsonaro,saída do país e passaportes (Jovem Pan),https://jovempan.com.br/politica/flavio-bolsonaro-fugiu-do-brasil-e-esta-em-aviao-a-caminho-dos-eua/
+r2_29,justica,aliados,"asilo (Metrópoles, coluna de Igor Gadelha)",https://www.metropoles.com/colunas/igor-gadelha/flavio-fugiu-com-a-familia-para-os-eua-e-pedira-asilo-politico-a-trump
+r2_30,prorrogacao,TSE,"votos depois das 17h (CNN Brasil, Teo Cury)",https://cnnbrasil.com.br/blogs/teo-cury/eleicoes/dados-do-tse-frustram-campanha-de-flavio-e-esvaziam-contestacao-da-eleicao
+r2_31,prorrogacao,Nunes Marques,TSE (Tribuna de Jundiaí),https://tribunadejundiai.com.br/politica/eleicoes-2026/nunes-marques-decisao-zanin-eleicao-2026/
+r2_32,c5,TSE,teste de integridade do 2º turno,https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-do-2o-turno-no-tse-confirma-correspondencia-entre-cedulas-e-votos-nas-urnas
+r2_33,c5,TRE-SP,teste de integridade em SP,https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-das-urnas-no-2o-turno-e-concluido-sem-divergencias-em-sao-paulo
+r2_34,c4,OEA,relatório preliminar prometido (Exame),https://exame.com/brasil/oea-sinaliza-continuidade-da-parceria-com-brasil-apos-reeleicao-de-lula/
+r2_35,justica,ministro sob reserva,reação no governo (Metrópoles),https://www.metropoles.com/colunas/milena-teixeira/ministros-de-lula-culpam-moraes-por-possivel-fuga-de-flavio-bolsonaro
