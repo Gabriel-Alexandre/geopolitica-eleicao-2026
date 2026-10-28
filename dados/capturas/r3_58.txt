@@ -1,0 +1,2284 @@
+TITULO: PDF https://www.oas.org/fpdb/press/2026_MOE_Brasil_Segundo_Turno_Relatorio_Preliminar_POR.pdf
+
+   
+   
+ 
+ 
+ 
+
+ 
+ 
+ 1 
+Relatório Preliminar da Missão de Observação Eleitoral da OEA no Brasil  
+para o Segundo Turno 
+ 
+27 de outubro de 2026 
+ 
+A Missão de Observação Eleitoral da Organização dos Estados Americanos (MOE/OEA), liderada pelo ex -
+Secretário-Geral da OEA e ex-Ministro das Relações Exteriores do Chile, José Miguel Insulza, parabeniza o 
+povo brasileiro por uma jornada  cívica marcada por uma participação histórica nas urnas no último 
+domingo, 25 de outubro . A MOE/OEA reconhece, mais uma vez, o trabalho profissional das equipes 
+técnicas da Justiça Eleitoral, dos mesários, das forças de segurança e das demais instituições do Estado, 
+que permitiu que mais de 15 8 milhões de brasileiras e brasileiros habilitados elegessem as autoridades 
+do Poder Executivo em nível federal e em várias unidades federativas.  
+ 
+A MOE/OEA parabeniza, igualmente, o Presidente Luiz Inácio Lula da Silva e o Vice-Presidente Geraldo 
+Alckmin por sua reeleição para o mandato de 2027 a 2030 . Os resultados apresentados pelo Tribunal 
+Superior Eleitoral (TSE) na noite da eleição coincidem com as informações coletadas em campo pelos 
+integrantes da Missão da OEA. É importante destacar que a MOE/OEA não tem dúvidas quanto à 
+integridade dos dados oficiais.  
+ 
+Para este segundo turno, a Missão chegou ao país de forma escalonada a partir de 19 de outubro de 2026 
+e foi composta por 88 observadoras e observadores1 de 22 nacionalidades. Antes do dia da votação, ela 
+foi alocada em 21 unidades federativas do país2 e no Distrito Federal (Brasília), bem como em  5 cidades 
+no exterior3 . No total, para as Eleições Gerais de 2026, a OEA mobilizou 179 observadoras e observadores, 
+tornando-se, assim, a maior missão de observação eleitoral internacional já realizada no Brasil, o que 
+reflete seu compromisso com o fortalecimento do sistema eleitoral brasileiro e de sua democracia. 
+ 
+A Chefia da Missão reuniu-se com o Ministro das Relações Exteriores, Embaixador Mauro Vieira, a quem 
+agradeceu pela cordialidade com que seus membros foram recebidos no país , e com o Ministro-
+Presidente do TSE, Kassio Nunes Marques. Seus integrantes também se reuniram com representantes de 
+partidos políticos, organizações da sociedade civil e organismos internacionais, entre outros atores, com 
+o objetivo de coletar diversas perspectivas sobre o processo eleitoral e informações relevantes sobre 
+organização eleitoral e voto no exterior; tecnologia eleitoral; justiça eleitoral ; e campanhas, mídia e 
+comunicação digital. Além disso, seus membros mantiveram reuniões com autoridades eleitorais em 
+todas as unidades federativas do Brasil onde a Missão esteve presente. No Rio de Janeiro e em São Paulo, 
+a observação foi liderada pelos assessores do Chefe de Missão, os embaixadores Agustín Espinosa e Eladio 
+Loizaga, respectivamente.  
+ 
+Com base nas reuniões realizadas, no exame exaustivo da legislação e de outros documentos pertinentes, 
+bem como na observação direta, foi realizada uma análise integral do processo eleitoral, em 
+conformidade com os princípios de objetividade e neutralidade, de não substituição dos atores nacionais 
+ 
+1 45 homens e 43 mulheres. 
+2 Alagoas, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio 
+de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Roraima, Santa Catarina, São Paulo, Tocantins e Distrito Federal. 
+3 Miami e Washington, D.C., nos Estados Unidos da América; Lisboa, em Portugal; Londres, no Reino Unido; e Buenos Aires, na Argentina. 
+ 
+ 
+ 2 
+envolvidos no processo, de respeito ao ordenamento jurídico interno e de garantia da independência e 
+da transparência, entre outros princípios que regem o trabalho das Missões de Observação Eleitoral da 
+OEA4 . Além disso, seus membros acompanharam o cumprimento das recomendações emitidas em seu 
+relatório referente ao primeiro turno, bem como das formuladas por  missões anteriores realizadas no 
+Brasil.   
+ 
+FASE PRÉ-ELEITORAL 
+ 
+Assim como no primeiro turno, a Missão observou uma sólida capacidade técnica, logística e 
+organizacional por parte do TSE e dos Tribunais Regionais Eleitorais (TRE). As atividades preparatórias 
+para o segundo turno transcorreram de acordo com o calendário eleitoral previsto e com normalidade, 
+tanto no território nacional quanto no exterior. De modo geral, a Missão constatou um clima de 
+tranquilidade nos estados e nos processos observados. Além disso, a maioria dos atores locais com quem 
+seus membros se reuniram demonstrou ampla disposição para o diálogo e forneceu todas as informações 
+solicitadas. 
+ 
+Na quarta-feira, 21 de outubro, os especialistas da MOE/OEA observaram o carregamento e a lacração das 
+urnas eletrônicas e, no sábado, 24 de outubro, o sorteio das urnas que seriam submetidas ao Teste de 
+Integridade em vários estados do país , além da verificação da autenticidade do software das urnas em 
+Brasília. Nesse mesmo dia, testemunhou, na sede do TSE, a verificação da autenticidade e da integridade 
+dos sistemas do Tribunal, na qual foi realizada publicamente a comparação dos hashes5 dos sistemas 
+instalados para produção com os registrados na assinatura digital e no lacre.  
+ 
+Antes das eleições, a MOE/OEA observou certa incerteza e especulação quanto ao número de seções 
+eleitorais que precisaram ser realocadas, principalmente por motivos climáticos, o que foi posteriormente 
+esclarecido pelo TSE e pelos TREs6. Além disso, a mídia noticiou que o TRE do Amazonas havia rejeitado o 
+pedido de transporte para o dia da votação das comunidades indígenas do Vale do Javari, no estado do 
+Amazonas, o que gerou preocupação entre as comunidades afetadas e levou ao pedido de medidas para 
+garantir esse transporte7. Posteriormente, as instituições locais envolvidas informaram que coordenariam 
+as ações pertinentes8.  
+ 
+4 Organização dos Estados Americanos. (2024). Manual para as Missões de Observação Eleitoral da OEA, p. 15 e 16. 
+https://www.oas.org/ext/DesktopModules/MVC/OASDnnModules/Views/Item/Download.aspx?type=1&id=958&lang=2 
+5 São utilizados para verificar se os programas de computador, arquivos ou componentes dos sistemas de votação e apuração não foram 
+alterados. 
+6 Tribunal Superior Eleitoral. Entenda por que a Justiça Eleitoral alterou o endereço de algumas seções para o segundo turno. 16 de outubro de 
+2026, https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/entenda-por-que-a-justica-eleitoral-trocou-o-endereco-de-algumas-secoes-
+para-o-2o-turno 
+Tribunal Superior Eleitoral. Os TREs reforçam o compromisso de divulgar nos próximos dias os locais de votação do segundo turno. 19 de 
+outubro de 2026, https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tres-reforcam-compromisso-de-divulgar-nos-proximos-dias-os-
+locais-de-votacao-do-2o-turno 
+7 G1 AM. (2026, 20 de outubro). TRE-AM nega transporte para eleitores de mais de 40 aldeias indígenas no Vale do Javari durante o segundo 
+turno das eleições. Globo. https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/20/tre-am-nega-pedido-de-transporte-para-
+eleitores-de-44-aldeias-indigenas-no-vale-do-javari-durante-2o-turno.ghtml 
+8 Lima, J. (2026, 21 de outubro). Prefeitura mobiliza apoio para levar indígenas às urnas no Vale do Javari após o TRE-AM negar transporte. 
+Globo. 
+https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/21/prefeitura-mobiliza-apoio-para-levar-indigenas-as-urnas-no-vale-do-
+javari-apos-tre-am-negar-transporte.ghtml 
+ 
+ 
+ 
+ 3 
+ 
+A MOE/OEA também observou, durante a fase pré -eleitoral, que o clima de tensão, a acentuada 
+polarização política e a judicialização observados durante a campanha do primeiro turno persistiram 
+nessas eleições. A cinco dias da eleição, o Ministro-Presidente do TSE informou publicamente que a Justiça 
+Eleitoral estava “passando pelo período eleitoral mais judicializado da história”9. Ele também relatou que, 
+entre 20 de julho e 16 de outubro, foram apresentadas 1.071 ações judiciais de representação e pedidos 
+de direito de resposta pelas campanhas dos dois candidatos à Presidência da República, o que 
+representou um aumento de quase 75% no número de processos em comparação com o ciclo eleitoral de 
+202210 . Uma ministra do TSE afirmou, poucos dias antes da realização do segundo turno, que seu gabinete 
+resolvia entre 40 e 50 processos por dia11. 
+ 
+Entre as controvérsias relacionadas à propaganda digital que mais suscitaram reações políticas, 
+destacaram-se a denúncia da campanha de Flávio Bolsonaro contra um canal do WhatsApp de apoio à 
+candidatura de Luiz Inácio Lula da Silva 12 e as reclamações da campanha deste último contra a empresa 
+Meta13. Ambos os temas são abordados mais adiante no relatório. 
+ 
+Nesse contexto, a Missão avalia positivamente a realização de dois debates presidenciais televisionados 
+em 18 e 23 de outubro , conforme havia recomendado após o primeiro turno. Embora os formatos dos 
+debates sejam passíveis de melhorias , é fundamental que a cidadania tenha acesso a espaços de 
+intercâmbio direto entre os candidatos, em um contexto em que as campanhas eleitorais se desenvolvem 
+cada vez mais em ambientes digitais fragmentados e segmentados. 
+ 
+Além disso, a MOE/OEA recebeu, durante ambos os turnos eleitorais, manifestações de preocupação de 
+diversas candidaturas a diferentes cargos e de equipes de campanha em relação às ameaças das quais 
+haviam sido alvo. Da mesma forma, na véspera do segundo turno, uma vereadora de Montes Claros, em 
+Minas Gerais, foi ferida durante uma caravana de apoio a um candidato à presidência  e transferida para 
+um hospital para receber atendimento médico14.  
+ 
+Da mesma forma, a Missão tomou conhecimento de que, dois dias após o primeiro turno, circulou nas 
+redes sociais uma campanha orquestrada de ataques contra funcionários do TSE e seus familiares, que 
+incluiu ameaças, discursos de ódio e divulgação indevida de dados pessoais 15. A Missão condena 
+ 
+ 
+9 Tribunal Superior Eleitoral [@TSEjusbr]. (2026, 20 de outubro). [Publicação no X]. X. https://x.com/TSEjusbr/status/2112619869569007793.   
+10 Ibid.  
+11 Poder360. (2026, 22 de outubro). “Sobrecarga”, diz Estela Aranha sobre o aumento da judicialização eleitoral. Poder360. 
+https://www.poder360.com.br/poder-eleicoes-2026/sobrecarga-diz-estela-aranha-sobre-maior-judicializacao-eleitoral/ 
+12 Trata-se do canal “Exército do Lula”, administrado por um deputado federal. Ver Leite, P . (2026, 14 de outubro). ‘Exército do Lula’ sai do ar 
+após registro e PL informa ao TSE sobre o canal ‘Tropa do Flávio’. O Tempo. 
+https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/14/exercito-do-lula-sai-do-ar-apos-registro-e-pl-informa-ao-tse-sobre-canal-
+tropa-do-flavio 
+13 Equipe Digital da Campanha Lula Presidente. (2026). Relatório técnico sobre a interferência da Meta no processo eleitoral brasileiro. 
+https://pt.org.br/wp-content/uploads/2026/10/relatorio-tecnico-interferencia-meta-pt.pdf 
+14 Brasil 247 [@brasil247]. (2026, 25 de outubro). [Publicação no X] X. https://x.com/brasil247/status/2114340834422464542 
+15 Foram registradas cerca de 30.000 publicações com desinformação. Santos, P . (2026, 8 de outubro). TSE aciona a PF para investigar ataques a 
+servidores da Justiça Eleitoral. CNN Brasil. https://www.cnnbrasil.com.br/eleicoes/tse-aciona-pf-para-investigar-ataques-a-servidores-da-justica-
+eleitoral/; Falcão, M. (2026, 8 de outubro). TSE aciona a PF para investigar ataques e ameaças a servidores da Justiça Eleitoral. Globo. 
+https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/tse-aciona-pf-para-invetsigar-ataques-e-ameacas-a-servidores-da-justica-
+eleitoral.ghtml 
+ 
+ 
+ 4 
+veementemente esses atos de intimidação contra candidatos a cargos eletivos e funcionários eleitorais, 
+e insta as autoridades competentes a investigá-los. 
+ 
+Por fim, tal como apontado no relatório preliminar do primeiro turno, a Missão registrou preocupações 
+de atores políticos e da sociedade civil em relação às declarações e ações de atores internacionais sobre 
+o processo eleitoral. No contexto do segundo turno, a MOE/OEA observou manifestações de apoio de 
+líderes internacionais a ambas as candidaturas em disputa. Da mesma forma, observou que, em uma das 
+manifestações, também foram proferidas ofensas contra uma das candidaturas e que a integridade do 
+sistema eleitoral brasileiro foi colocada em dúvida, o que motivou a emissão de uma nota de resposta por 
+parte do Ministério das Relações Exteriores do Brasil16. 
+ 
+DIA DAS ELEIÇÕES – SEGUNDO TURNO 
+ 
+No dia da eleição, a Missão visitou um total de 977 seções eleitorais em 388 locais de votação no Distrito 
+Federal e em 21 estados: Alagoas, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, 
+Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande 
+do Sul, Roraima, Santa Catarina, São Paulo e Tocantins. Além disso, foi observada a jornada eleitoral em 
+cinco cidades no exterior: Miami e Washington, D.C., nos Estados Unidos da América; Lisboa, em Portugal; 
+Londres, no Reino Unido; e Buenos Aires, na Argentina. Seus membros acompanharam a votação desde a 
+impressão da “zerézima” 17 até o fechamento das urnas, bem como a transmissão e divulgação dos 
+resultados. 
+ 
+A MOE/OEA observou a verificação da autenticidade do software da urna eletrônica em Brasília , bem 
+como a realização do Teste de Integridade, com e sem biometria,  em diversas localidades. Além disso, 
+seus observadores acompanharam as atividades da Zona Eleitoral do Exterior no TRE -DF, do Centro 
+Integrado de Comando e Controle Nacional, da Sala Nacional de Situação Climática, da Assessoria Especial 
+de Enfrentamento à Desinformação,  da Assessoria de Gestão Eleitoral, do Centro de Divulgação das 
+Eleições e da Sala de Totalização do TSE.  
+ 
+A Missão destaca que todas as seções eleitorais foram abertas, tanto no território nacional quanto no 
+exterior. Seus integrantes constataram que as seções observadas abriram às 8h, em conformidade com a 
+legislação eleitoral, e que a maioria dispunha de todo o material eleitoral necessário para a realização da 
+votação. Além disso, a maioria das mesas observadas era composta por membros titulares, com alta 
+participação de mulheres nessas funções.  
+ 
+Ao longo do dia, a MOE/OEA registrou um fluxo constante de eleitores e constatou a aplicação adequada 
+das normas de atendimento prioritário a idosos e pessoas com deficiência, bem como a disposição das 
+urnas, que garantiu  o sigilo do voto. Observou -se, ainda, uma presença limitada de fiscais dos partidos 
+políticos. 
+ 
+ 
+16 Ministério das Relações Exteriores. Novas ofensas do presidente da Argentina. Comunicado à imprensa nº 320, 20 de outubro de 2026. 
+https://www.gov.br/mre/es/canales_servicio/prensa/notas-a-la-prensa/nuevas-ofensas-del-presidente-de-la-argentina?utm_source 
+17 Comprovante emitido pela urna eletrônica antes do início da votação, indicando que todas as candidaturas têm zero votos registrados. 
+ 
+ 
+ 5 
+Embora a votação tenha ocorrido , em termos gerais , normalmente, a Missão observou e recebeu 
+denúncias sobre dificuldades na prestação do serviço de transporte gratuito de eleitores, como garante a 
+normativa18, em diversos estados, entre elas atrasos e restrições na circulação de ônibus e no transporte 
+de eleitores.  
+ 
+O fato acima motivou a apresentação de uma petição cível pela Federação Brasil da Esperança ao 
+Presidente do TRE da Bahia, solicitando a reintegração imediata de toda a frota de transporte público 
+coletivo no município de Salvador 19. Posteriormente, a própria Presidência do TRE ordenou a prisão 
+imediata do Secretário Municipal de Mobilidade de Salvador20. 
+ 
+Por sua vez, a Coligação Brasil Pronto Pra Mais, que apoiava a candidatura de Luiz Inácio Lula da Silva, 
+apresentou ao TSE uma petição cível para que ordenasse aos prefeitos e secretários dos municípios de 
+Feira de Santana e Salvador, bem como à Agência Estadual de Regulação de Serviços Públicos de Energia, 
+Transportes e Comunicações da Bahia (AGERBA), que liberassem os ônibus para o transporte gratuito de 
+pessoas21.  
+ 
+À tarde, a Missão divulgou um comunicado informando que estava acompanhando as notícias divulgadas 
+pela imprensa e as denúncias sobre problemas no transporte público em diferentes localidades do país, e 
+que continuava atenta às decisões do TSE sobre o assunto22. 
+ 
+Além disso, a Federação Brasil da Esperança apresentou ao TSE outro pedido voltado aos municípios do 
+estado da Bahia (Salvador, Feira de Santana e Lauro de Freitas) devido a denúncias de redução da frota 
+de ônibus23. Entre outras solicitações, pediu-se a prorrogação do horário de fechamento das urnas até as 
+19h em todos os locais de votação nas zonas eleitorais dos três municípios.  Adicionalmente, a Coalizão 
+Brasil Pronto Pra Mais solicitou a ampliação de seu pedido para os estados do Piauí, da Paraíba, do Paraná, 
+do Pará e do Rio de Janeiro, bem como para todas as unidades federativas que registrassem os mesmos 
+incidentes24. 
+ 
+Também à tarde, o Corregedor -Geral da Justiça Eleitoral do TSE decidiu que a gravidade dos fatos 
+denunciados justificava a intervenção imediata da Corregedoria -Geral, solicitando informações 
+atualizadas sobre a situação nos municípios de Salvador, Feira de Santana e Lauro de Freitas , bem como 
+ 
+18 Resolução nº 23.751, de 26 de fevereiro de 2026, artigo 23. 
+19 Tribunal Regional Eleitoral da Bahia. Ação Cível nº 0600025-67.2026.6.05.0013. (25 de outubro de 2026). 
+https://consultaunificadapje.tse.jus.br/consulta-publica-
+unificada/documento?extensaoArquivo=text/html&path=regional/ba/2026/10/25/13/15/51/6e03d1081cd8a7375153b760275ba2d8d9c1cbb2
+dcf829294a26ee5e2ab1cb9b 
+20 Tribunal Regional Eleitoral da Bahia. Ação Cível nº 0604629-13.2026.6.05.0000. (25 de outubro de 2026).  
+https://consultaunificadapje.tse.jus.br/consulta-publica-
+unificada/documento?extensaoArquivo=text/html&path=regional/ba/2026/10/25/13/15/51/6e03d1081cd8a7375153b760275ba2d8d9c1cbb2
+dcf829294a26ee5e2ab1cb9b 
+21 Tribunal Superior Eleitoral. Ação Cível nº 0603388-42.2026.6.00.0000. (25 de outubro de 2026). 
+https://static.poder360.com.br/uploads/2026/10/Kassio-pede-parecer-sobre-extensao-de-horario-na-Bahia-25-out-2026.pdf 
+22 Conta da OEA no X em português. (@OEA_BR). 25 de outubro de 2026. https://x.com/OEA_BR/status/2114443883136639290  
+23 Tribunal Superior Eleitoral. Número: 0603389-27.2026.6.00.0000. (25 de outubro de 2026). 
+https://consultaunificadapje.tse.jus.br/#/public/resultado/0603389-27.2026.6.00.0000 
+24 Ação Cível nº 0603389-27.2026.6.00.0000. (25 de outubro de 2026). 
+https://static.congressoemfoco.com.br/2026/10/25/attachment/2026/10/25/2e7f89_0603389_27_2026_6_00_0000_1.pdf 
+ 
+ 
+ 6 
+as medidas que a Justiça Eleitoral adotaria para evitar resoluções duplicadas e garantir uma coordenação 
+institucional adequada25. 
+ 
+Por sua vez, o candidato Flávio Bolsonaro apresentou uma petição cível ao TSE solicitando que o horário 
+de votação fosse prorrogado até as 19h devido a questões climáticas, bloqueios de vias, falta de energia 
+e alterações nos locais de votação nos estados de Santa Catarina, Paraná e São Paulo, que 
+impossibilitaram o deslocamento oportuno dos eleitores26. 
+ 
+Diante das petições apresentadas pela Coalizão Brasil Pronto Pra Mais e pela Federação Brasil da 
+Esperança, o presidente do TSE solicitou à Presidência do TRE da Bahia informações, no prazo de meia 
+hora, para que prestasse esclarecimentos sobre as medidas adotadas em relação à situação nos 
+municípios de Salvador, Lauro de Freitas e Feira de Santana. Por sua vez, determinou que o Núcleo 
+Institucional de Apoio Eleitoral do TSE realizasse, em coordenação com a Presidência do TRE da Bahia, o 
+acompanhamento da situação do transporte coletivo no estado27. 
+ 
+Além disso, a Coalizão Brasil Pronto Pra Mais apresentou ao Supremo Tribunal Federal (STF)  uma 
+reclamação constitucional contra as ações dos municípios de Salvador, Feira de Santana e Lauro de Freitas 
+devido à falta de uma frota suficiente de transporte público que permitisse o deslocamento dos eleitores 
+até os locais de votação.  A reclamação foi distribuída ao Ministro Cristiano Zanin, que proferiu uma 
+decisão monocrática, estabelecendo que, “considerando a gravidade dos fatos narrados, que chegaram 
+ao conhecimento do Supremo Tribunal Federal em 16h32min49s”, ordenou prorrogar por duas horas, até 
+as 19h, o encerramento da recepção de votos em todas as mesas receptoras de votos do Brasil, cabendo 
+ao TSE dar cumprimento a essa decisão28. Além disso, emitiu uma decisão que esclareceu alguns aspectos 
+de sua medida29.  
+ 
+A Missão observou que, ao final do dia eleitoral, o presidente do TSE ainda não havia se pronunciado 
+sobre se prorrogaria ou não o horário da votação. Posteriormente, o TSE comunicou aos presidentes dos 
+TREs o cumprimento da decisão do ministro Zanin quanto à prorrogação da votação30.  
+ 
+A MOE/OEA observou que o processo de apuração e divulgação dos resultados teve início às 17h31 , e que, 
+às 17h06, 1.225 seções já haviam sido apuradas. Às 18h36, o TSE informou nas redes sociais que a votação 
+ 
+25 Corregedoria-Geral da Justiça Eleitoral. Petição Cível nº 0603390-12.2026.6.00.0000. (25 de outubro de 2026). 
+https://static.poder360.com.br/uploads/2026/10/decisao-cueva-onibus-bahia-25out26.pdf.   
+26 Tribunal Superior Eleitoral. N.º 0603393-64.2026.6.00.0000. (25 de outubro de 2026). 
+https://consultaunificadapje.tse.jus.br/#/public/resultado/0603393-64.2026.6.00.0000.   
+27 Tribunal Superior Eleitoral. Petição Cível nº 0603388-42.2026.6.00.0000. (25 de outubro de 2026).  
+https://consultaunificadapje.tse.jus.br/consulta-publica-
+unificada/documento?extensaoArquivo=text/html&path=tse/2026/10/25/16/0/57/22786ee9bcbd8e1cacb4d9d27ea16bb07374b0fab657aff7b4
+5dcb1b1c314b81; Tribunal Superior Eleitoral. Ação Cível nº 0603389-27.2026.6.00.0000. https://consultaunificadapje.tse.jus.br/consulta-
+publica-
+unificada/documento?extensaoArquivo=application/pdf&path=tse/2026/10/25/16/50/52/bfc9b56477a4c46e1d121ccc673595c390a10f7d86c0
+c13b1480ae317d6da502 .   
+28 Zanin, C. Reclamação 101.673. (25 de outubro de 2026). https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-
+content/uploads/wpallimport/uploads/2026/10/25183103/liminar-urgente.pdf. 
+29 Zanin, C. Reclamação 101.673. (25 de outubro de 2026). https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391720780&ext=.pdf.   
+30 Tribunal Superior Eleitoral. Circular GAB-PRES nº 354/2026. (25 de outubro de 2026). https://static.poder360.com.br/uploads/2026/10/TSE-
+mantem-sessoes-abertas-ate-as-19h-25-out-2026.pdf.   
+31 No link: https://resultados.tse.jus.br 
+ 
+ 
+ 7 
+continuava apenas nos locais onde ainda não havia sido encerrada32 e que retomaria a apuração dos votos 
+e a divulgação dos resultados após as 19h33. Antes desse horário, a equipe de sistemas do TSE confirmou 
+à Missão que os TREs puderam continuar com a transmissão dos resultados das seções eleitorais que já 
+haviam encerrado a votação.  
+ 
+A MOE/OEA constatou que a apuração e a divulgação dos resultados foram retomadas às 19h05 de forma 
+estável e contínua, sem interrupções. Nessa hora, registrou -se um avanço de 1,51%, atingindo 100% às 
+23h26.  
+ 
+Com quase a totalidade dos dados processados, o presidente do TSE divulgou publicamente os resultados 
+finais da eleição. Ao mesmo tempo, declarou, em relação aos fatos ocorridos anteriormente, que “a 
+decisão liminar proferida após o horário de encerramento da votação gerou dificuldades para o processo 
+eleitoral”34 . Além disso, explicou que, diante do pedido de prorrogação da votação, solicitou informações 
+técnicas às autoridades competentes e constatou que não havia disposição normativa que autorizasse a 
+extensão do horário eleitoral e que “nunca, na história do TSE, houve qualquer prorrogação”. Mencionou, 
+ainda, que, devido à decisão de prorrogação, foi necessário reestruturar os sistemas e os procedimentos 
+de apuração da Justiça Eleitoral. Isso, por sua vez, poderia “ter havido comprometimento de toda a eleição 
+brasileira”35. Ele destacou, ainda, que, apesar da instabilidade registrada na etapa final da votação, graças 
+às medidas adotadas e à competência dos técnicos, o TSE conseguiu dar continuidade à apuração. 
+ 
+O TSE informou que 1.551 urnas eletrônicas foram substituídas por diversos motivos, todas no território 
+nacional, o que representou 0,28% do total de urnas instaladas. Nenhuma seção eleitoral precisou 
+recorrer à votação manual no país.  
+ 
+Por sua vez, o Centro Integrado de Comando e Controle Nacional informou que ocorreram 413 incidentes 
+no total, dos quais 35,7% (149) corresponderam a violações ou tentativas de violação do sigilo do voto, 
+13,9% (58) à divulgação de resultados antes da apur ação e 9,6% (40) a outros crimes eleitorais, entre 
+outros incidentes. Informou, além disso, que, para garantir a segurança no dia da  votação, foram 
+mobilizados 320.367 agentes de segurança. 
+ 
+Por fim, registrou-se uma participação eleitoral de 80,78%, superior aos 78,92% registrados no primeiro 
+turno. Com 100% das seções eleitorais apuradas, constatou -se que Luiz Inácio Lula da Silva obteve 
+64.256.232 votos, o que equivale a 51,79%, e Flávio Bolsonaro, 59.826.041 votos, ou 48,21%36 .  
+ 
+ 
+ 
+ 
+ 
+32 Tribunal Superior Eleitoral [@TSEjusbr]. (25 de outubro de 2026). [Publicação de X]. X. 
+https://x.com/TSEjusbr/status/2114471192564572257?s=20. 
+33 Ibid. 
+34 Tribunal Superior Eleitoral. Discurso do presidente Kassio Nunes Marques. Encerramento do segundo turno. Brasília, 25 de outubro de 2026. 
+Veja também: https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-
+turno-das-eleicoes-2026. 
+35 Ibid.  
+36 Tribunal Superior Eleitoral. (2026). Resultados eleitorais. 
+https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados 
+ 
+ 
+ 8 
+CONSTATAÇÕES E RECOMENDAÇÕES 
+ 
+Levando em consideração as observações diretas, as reuniões realizadas com os diversos atores do 
+processo e a análise da legislação vigente, a MOE/OEA apresenta , a seguir, suas conclusões e 
+recomendações para a melhoria do sistema eleitoral brasileiro, com vistas a futuros processos eleitorais. 
+Este relatório abrange todos os temas observados nas eleições gerais , tanto no primeiro quanto  no 
+segundo turno. 
+ 
+I. ESTRUTURA INSTITUCIONAL ELEITORAL 
+ 
+O elevado número de litígios durante as campanhas de ambos os turnos eleitorais evidenciou a tensão 
+entre a necessidade de adotar medidas liminares imediatas e as garantias do devido processo legal e da 
+revisão colegiada. No contexto brasileiro, as decisões monocráticas, especialmente aquelas relativas à 
+remoção de conteúdos ilícitos de plataformas digitais ou à suspensão de canais de comunicação política, 
+atendem à necessidade de garantir uma tutela oportuna, evitando que infrações de  efeitos imediatos 
+causem danos irreparáveis à equidade da disputa antes do dia da votação.  No entanto, embora as 
+decisões cautelares monocráticas estejam sujeitas à revisão posterior pelo plenário do TSE, a ausência de 
+um prazo legal perentório para sua ratificação permite que essas medidas prolonguem seus efeitos sem 
+pronunciamento do órgão colegiado. A demora nessa ratificação pode desvirtuar seu caráter provisório e 
+manter aspectos da regulamentação da disputa sujeitos a decisões individuais sem confirmação colegiada. 
+ 
+Por outro lado, em alguns casos, por meio da apresentação reiterada ou seletiva de recursos, as equipes 
+jurídicas das campanhas podem tentar direcionar a atribuição de  determinados processos a ministros 
+relatores. Essa prática pode distorcer o princípio da distribuição aleatória dos processos e afetar a 
+percepção de imparcialidade da Justiça Eleitoral.  
+ 
+Da mesma forma, isso pode levar a que diferentes ministros, tanto do Supremo Tribunal Federal (STF) 
+quanto do TSE, se pronunciem sobre questões semelhantes e até mesmo adotem decisões contraditórias. 
+Vários atores entrevistados pela Missão concordaram que essas situações geram incerteza jurídica e 
+alimentam a percepção de discrepâncias internas na Justiça Eleitoral.  
+ 
+A MOE/OEA observou que, ao contrário do primeiro turno, durante a campanha do segundo turno não 
+foram registrados conflitos de sobreposição de competências entre o STF e o TSE . No entanto, essa 
+situação voltou a se manifestar no encerramento do dia eleitoral , quando o ministro do STF, Cristiano 
+Zanin, determinou a prorrogação do horário de votação por duas horas , enquanto o TSE analisava 
+solicitações de ambas as campanhas sobre o mesmo tema. Tanto essa decisão quanto a demora do TSE 
+em se pronunciar geraram confusão entre os funcionários eleitorais, as forças políticas e a população.  
+ 
+Ao mesmo tempo, isso evidenciou as repercussões que as decisões monocráticas dos ministros do STF 
+podem ter no exercício das competências próprias da jurisdição eleitoral especializada sobre aspectos 
+técnicos das eleições. A Missão observou que essa foi uma situação inédita na história eleitoral brasileira 
+e exorta os atores políticos e institucionais a tomarem as medidas necessárias para que isso não se repita. 
+ 
+ 
+ 
+ 9 
+Assim como no primeiro turno, a Missão observou que persistiram decisões monocráticas contraditórias 
+entre os ministros do TSE, que evidenciaram diferenças de critério quanto às competências para resolver 
+controvérsias relativas à propaganda digital e à pr ocedência da suspensão de canais de comunicação 
+política. Da mesma forma, foram observadas tensões entre as jurisdições do TSE e da Corregedoria-Geral 
+da Justiça Eleitoral no tratamento de assuntos semelhantes.  
+ 
+Em resposta aos questionamentos levantados por alguns ministros do Supremo Tribunal Federal (STF) 
+sobre a concentração de competências em matéria de propaganda eleitoral e a demora na submissão de 
+decisões monocráticas do TSE à apreciação colegiada durante  o primeiro turno 37, a Presidência do TSE 
+determinou, em 7 de outubro, que o mérito dos pedidos de direito de resposta relativos à eleição 
+presidencial fosse julgado diretamente pelo Plenário, sem decisões monocráticas e observado o prazo 
+legal de 72 horas 38. Determinou, ainda, que as medidas de caráter provisório adotadas pela relatoria 
+fossem submetidas imediatamente à apreciação do colegiado para sua aprovação39.  
+  
+Nesse mesmo dia, ampliou para três o número de juízes auxiliares responsáveis pelos casos de 
+propaganda eleitoral, ordenou a redistribuição , entre eles, dos processos pendentes e estabeleceu que 
+todas as suas decisões cautelares, tanto as que concedessem quanto as que negassem medidas, fossem 
+encaminhadas imediatamente ao plenário, com a possibilidade de serem examinadas em sessão virtual40.  
+ 
+Segundo o TSE, durante os nove dias após o primeiro turno, foram apresentados 162 processos de 
+representação e direito de resposta, contra 51 no período equivalente de 2022 41. Nesse cenário de alta 
+litigiosidade, a Presidência do TSE convocou, em 13 de outubro, uma reunião com os ministros 
+responsáveis pelos casos de propaganda eleitoral e os representantes jurídicos das duas campanhas 
+presidenciais. Durante o encontro, foram di scutidas medidas para reduzir a judicialização, entre elas: 
+tratar da divulgação paga irregular de conteúdo eleitoral , organizar o plenário virtual, corrigir falhas 
+formais nas ações judiciais e ouvir a parte contrária antes de decidir. A Missão saúda os esforços de diálogo 
+promovidos pela Justiça Eleitoral com representantes das chapas em disputa e a participação destas, com 
+o objetivo de fortalecer a segurança jurídica na campanha.  
+ 
+A MOE/OEA observou que a atuação da Justiça Eleitoral levou algumas forças políticas a propor a 
+exploração da possibilidade de revisar, no futuro, o modelo vigente de administração da Justiça eleitoral. 
+O Brasil passou por um processo eleitoral altamente polarizado e judicializado. Nesse contexto, uma vez 
+concluída a disputa , é conveniente que as reflexões sobre o ocorrido priorizem o fortalecimento dos 
+ 
+37 Martins, L. (1º de outubro de 2026). “Kassio rebate críticas sobre acúmulo de decisões e diz que o TSE foi ágil nos julgamentos”. Folha de 
+S.Paulo. https://www1.folha.uol.com.br/poder/2026/10/kassio-rebate-criticas-sobre-acumulo-de-decisoes-e-diz-que-tse-foi-agil-em-
+julgamentos.shtml?utm  
+38 De acordo com a Lei nº 9.504/1997, artigo 58. 
+39 Tribunal Superior Eleitoral. O Plenário do TSE julgará diretamente os pedidos de direito de resposta no segundo turno presidencial.  7 de 
+outubro de 2026. https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/plenario-do-tse-julgara-diretamente-pedidos-de-direito-de-
+resposta-no-2o-turno-presidencial 
+40 Tribunal Superior Eleitoral. Marco Aurélio Bellizze é designado para atuar como juiz auxiliar responsável pela propaganda no segundo turno. 7 
+de outubro de 2026. https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/marco-aurelio-bellizze-e-designado-para-atuar-como-juiz-
+auxiliar-da-propaganda-no-2o-turno; Portarias nº 674 e nº 675 do TSE, de 7 de outubro de 2026, publicadas no Diário da Justiça Eletrônico em 8 
+de outubro de 2026. 
+41 Tribunal Superior Eleitoral. Ministros da propaganda dialogam com campanhas presidenciais sobre desinformação e judicialização eleitoral. 
+13 de outubro de 2026. https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/ministros-da-propaganda-dialogam-com-campanhas-
+presidenciais-sobre-desinformacao-e-judicializacao-eleitoral 
+ 
+ 
+ 10 
+espaços de diálogo e a otimização dos processos institucionais, com vistas a reforçar a segurança jurídica 
+e a confiança no sistema eleitoral . É importante que tais exercícios de reflexão incluam, em particular, 
+análises detalhadas da figura das decisões monocráticas e de  suas repercussões em todas as etapas de 
+um processo eleitoral . Da mesma forma, quanto aos limites de competência do STF, para que sua 
+jurisdição, nesse contexto, seja realmente extraordinária e complementar. 
+ 
+Com base nas constatações anteriores, para futuros processos eleitorais, a MOE/OEA recomenda: 
+ 
+• Promover o diálogo entre o Poder Judiciário Eleitoral e os grupos políticos  para fortalecer a 
+segurança jurídica quanto à interpretação e à  aplicação das normas relativas à desinformação e 
+às restrições à propaganda eleitoral. 
+ 
+• Institucionalizar, com antecedência suficiente em relação aos períodos eleitorais, mecanismos 
+para o andamento ágil e a revisão colegiada dos casos relativos à propaganda eleitoral, por meio 
+da distribuição equilibrada dos autos, da revisão imediata, pelo plenário, das decisões liminares e 
+da realização de sessões virtuais ou extraordinárias.  
+ 
+• Estabelecer prazos curtos e precisos para a resolução do mérito das questões no TSE , 
+especialmente aquelas relativas ao direito de resposta. 
+ 
+• Especificar os casos excepcionais de intervenção do STF em controvérsias eleitorais, 
+especialmente quando houver processos pendentes perante o TSE. 
+ 
+• Institucionalizar mecanismos de diálogo entre o STF e o TSE para promover o desenvolvimento 
+de critérios jurisprudenciais que delimitem suas respectivas competências em matéria eleitoral e 
+de proteção dos direitos fundamentais, garantindo a tutela efetiva desses direitos e a 
+continuidade dos processos eleitorais. 
+ 
+II. CAMPANHA, MÍDIA E COMUNICAÇÃO DIGITAL 
+ 
+Debates e voto informado 
+ 
+Em seu relatório preliminar sobre o primeiro turno, a MOE/OEA destacou que o eleitorado se beneficiaria, 
+no segundo turno, da realização de debates televisionados 42. A esse respeito, foram realizados dois 
+debates presidenciais televisionados nos dias 18 e 23 de outubro. Organizações de verificação de dados 
+contrastaram, ao vivo, as afirmações de ambas as candidaturas, obtendo resultados diferentes de acordo 
+com suas metodologias43. Observou-se, por sua vez, que, nessa ocasião, o TSE não emitiu decisões sobre 
+as regras acordadas para a realização dos debates e, em vez disso , prevaleceram as diretrizes acordadas 
+entre as campanhas e os meios de comunicação que organizaram os encontros. 
+ 
+42 Organização dos Estados Americanos. (6 de outubro de 2026). Relatório preliminar da Missão de Observação Eleitoral da OEA no Brasil. 
+https://www.oas.org/fpdb/press/2026_MOE_Brasil_Elecciones_Generales_Primer_Informe_ESP .pdf 
+43 Equipe da Lupa. (2026, 18 de outubro). Na Band, Lula volta a errar sobre o PIB, e Flávio repete notícia falsa sobre gastos com viagens da 
+Presidência. Agência Lupa. https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-
+band/; Aos Fatos. (2026, 18 de outubro). Verificamos as afirmações de Lula e Flávio Bolsonaro no debate da Band. Aos Fatos. 
+https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/ 
+ 
+ 
+ 11 
+ 
+A Missão saúda a realização de ambos os debates presidenciais e recomenda, para futuros processos 
+eleitorais: 
+ 
+• Emitir regras claras e precisas sobre a participação nos debates, que contemplem a ausência ou a 
+desistência de candidatos convidados de última hora , bem como  outras circunstâncias que 
+possam afetar a equidade entre os candidatos. 
+ 
+• Incentivar as campanhas políticas a priorizarem a participação em debates televisionados para 
+intercambiar ideias e propostas programáticas, contribuindo para o exercício de um voto 
+informado. 
+ 
+Equidade na propaganda eleitoral e liberdade de expressão 
+ 
+A Missão observou que, durante ambos os turnos eleitorais, a elevada judicialização da campanha gerou 
+incerteza jurídica e afetou seu desenrolar natural. Diante desse cenário, o TSE e a Corregedoria Eleitoral, 
+bem como o STF durante o primeiro turno, inter vieram repetidamente em controvérsias relacionadas à 
+propaganda eleitoral e à comunicação política, por vezes com critérios contraditórios. Conforme 
+observado na seção sobre institucionalidade eleitoral, essa situação resultou tanto da litigiosidade seletiva 
+das equipes jurídicas das candidaturas quanto da adoção de decisões monocráticas, sem revisão colegiada 
+imediata pelo plenário do TSE.  
+ 
+Vários atores entrevistados pela MOE/OEA concordaram que a judicialização das campanhas eleitorais no 
+Brasil não é um fenômeno novo e que, a cada processo, surgem desafios específicos para a percepção de 
+imparcialidade da Justiça Eleitoral, a equidade da disputa, o combate à desinformação nas redes sociais e 
+a liberdade de expressão. Essas preocupações também foram abordadas em relatórios da OEA sobre 
+processos eleitorais anteriores44.  
+ 
+A Missão reconhece que não há um modelo único para regulamentar essas questões e que cabe a cada 
+país definir seu próprio  marco normativo. No entanto, a MOE/OEA destaca que uma preocupação 
+recorrente ao longo das últimas duas décadas tem sido a ausência de um marco legal atualizado — fruto 
+de um amplo debate na sociedade brasileira — que aborde de forma integral a desinforma ção e a 
+liberdade de expressão no ambiente digital, incluindo os desafios decorrentes de novas tecnologias, como 
+a inteligência artificial.  
+ 
+A esse respeito, a Missão constatou que não houve avanços legislativos significativos desde a aprovação 
+do Marco Civil da Internet (Lei nº 12.965/2014), que condiciona a responsabilidade das plataformas 
+digitais por conteúdos de terceiros à existência de ordem judicial prévia. O principal projeto de lei sobre 
+desinformação, denominado “Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet” 
+ 
+44 Organização dos Estados Americanos. (2018). Relatório Final, MOE/OEA, Eleições Gerais do Brasil. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=410&MissionId=489; Organização dos Estados Americanos (2020). Relatório 
+Final, Eleições Municipais do Brasil. https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=429&MissionId=510; Organização dos 
+Estados Americanos. (2022). Relatório Final, MOE/OEA, Eleições Gerais do Brasil. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=447&MissionId=533; e Organização dos Estados Americanos (2024). 
+Relatório Final, Eleições Municipais do Brasil. https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=467&MissionId=556 
+ 
+ 
+ 12 
+e popularmente conhecido como “PL das Fake News”, aguarda votação na Câmara dos Deputados desde 
+202045. Nesse sentido, cabe às forças políticas do país assumir a responsabilidade de impulsionar esse 
+debate e avançar na construção de um marco normativo atualizado. 
+ 
+Diante desse vazio legislativo, a Justiça brasileira – tanto o TSE quanto o STF – vem regulamentando, por 
+meio de regulamentos e jurisprudência, diversos aspectos que, na prática, poderiam afetar a equidade da 
+disputa eleitoral ou o voto livre e informado do eleitorado. Assim, por exemplo, a Resolução nº 23.610 do 
+TSE sobre propaganda eleitoral de 2019 foi posteriormente atualizada em 2022 e 202446. 
+ 
+Mais recentemente, em junho de 2025, o STF declarou o regime do Marco Civil da Internet parcialmente 
+inconstitucional, estabelecendo que as plataformas digitais podem ser responsabilizadas após uma 
+notificação — ou sem ela, em casos de conteúdos gravemente  ilícitos ou promovidos — e devem dispor 
+de sistemas de notificação, devido processo legal e relatórios de transparência 47. Em maio de 2026, o 
+Poder Executivo regulamentou essas obrigações por decreto e atribuiu a fiscalização dessas obrigações à 
+Autoridade Nacional de Proteção de Dados (ANPD)48 .  
+ 
+A Resolução nº 23.610 do TSE sobre propaganda eleitoral também foi substancialmente ampliada em 
+março de 2026. Às regras já em vigor desde 2024 sobre a identificação obrigatória de conteúdo sintético 
+e a proibição de deepfakes49 somou-se a proibição de publicar novos conteúdos sintéticos com a imagem 
+ou a voz de candidatos ou figuras públicas a partir de 72 horas antes até 24 horas após a votação, mesmo 
+que estejam identificados (“silêncio tecnológico”); a proibição de que sistem as de IA classifiquem, 
+recomendem ou priorizem candidatos; a possibilidade de inverter o ônus da prova; a obrigação das 
+plataformas de remover, por iniciativa própria, determinados conteúdos, com aviso prévio e direito de 
+recurso para a pessoa afetada; e a  proteção das candidatas contra a violência política digital 50 . Em 
+resumo, em comparação com as eleições de 2018 e 2022, esta eleição se destacou pela vigência de um 
+regime preventivo que transferiu às plataformas digitais os deveres de gestão de riscos. 
+ 
+Considerando o exposto  e em resposta às demandas recorrentes da sociedade civil por maior 
+transparência no cumprimento das obrigações de moderação de conteúdo por parte das plataformas 
+digitais, em julho de 2026, a Presidência do TSE regulamentou os planos de conformidade que devem ser 
+apresentados pelas plataformas com mais de cinco milhões de usuários ativos no país e pelos serviços de 
+ 
+45 Projeto de Lei nº 2.630/2020 (Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet). Câmara dos Deputados. 
+https://www.camara.leg.br/propostasLegislativas/2256735 
+46 Tribunal Superior Eleitoral. Resolução nº 23.610. (18 de dezembro de 2019). 
+https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-610-de-18-de-dezembro-de-2019 
+47 Supremo Tribunal Federal. Recursos Extraordinários n.º 1.037.396/SP (Tema 987) e n.º 1.057.258/MG (Tema 533), decisões de 26 de junho de 
+2025. 
+48 Decreto nº 12.975/2026. Campos Mello, P . (13 de outubro de 2026). Bancada digital no Congresso, ampliada nas eleições, pretende reverter 
+boa parte da regulamentação das big techs. Folha de S.Paulo. https://www1.folha.uol.com.br/poder/2026/10/bancada-digital-no-congresso-
+ampliada-na-eleicao-pretende-reverter-boa-parte-da-regulacao-das-big-techs.shtml 
+49 Para esses fins, conteúdo sintético gerado ou alterado por IA com um grau de realismo capaz de induzir em erro quanto à sua autenticidade. O 
+TSE estabeleceu, por meio de jurisprudência, em 1º de setembro de 2026, que o deepfake proibido é o conteúdo manipulado por IA, com 
+realismo ou verossimilhança, que constitui propaganda eleitoral. Tribunal Superior Eleitoral. TSE define tese sobre deepfake e delimita regra 
+para as Eleições de 2026. 1º de setembro de 2026. https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-
+e-delimita-regra-para-as-eleicoes-2026 
+50 Tribunal Superior Eleitoral. Resolução nº 23.610. (18 de dezembro de 2019), alterada pelas Resoluções nº 23.714 (20 de outubro de 2022), nº 
+23.732 (27 de fevereiro de 2024) e nº 23.755 (2 de março de 2026), artigos 9-B, 9-E, 9-I, 9-J e 28, parágrafos 1-C, 4-A e 4-B. 
+https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-610-de-18-de-dezembro-de-2019 
+ 
+ 
+ 13 
+inteligência artificial generativa 51. Representantes de plataformas digitais entrevistados pela Missão 
+apontaram que a regulamentação foi aprovada pouco antes das eleições, o que lhes deixou pouco tempo 
+para elaborar os planos. No entanto, destacaram a boa coordenação mantida com as áreas técnicas do 
+TSE durante a elaboração. A MOE/OEA constatou que esses planos continuavam sendo atualizados após 
+o início do processo eleitoral. Embora alguns atores tenham destacado o potencial desses planos para 
+fortalecer a transparência, também apontaram que persiste incerteza jurídica quanto às  consequências 
+em caso de eventuais descumprimentos desses planos determinados pelo TSE. 
+ 
+Nesse cenário, surgiram múltiplas controvérsias que foram objeto de ações judiciais e receberam ampla 
+cobertura da mídia. Uma dessas controvérsias dizia respeito a questionamentos sobre a transparência 
+dos algoritmos das plataformas digitais no que se refe re à promoção e moderação de conteúdo, bem 
+como à aplicação isonômica (equitativa) das regras pertinentes às diferentes candidaturas. A esse 
+respeito, a coalizão “Brasil Pronto Para Mais”, que apoiava a candidatura de Luiz Inácio Lula da Silva, 
+apresentou uma ação judicial em 9 de outubro, na qual alegou que, desde o primeiro turno, “a Meta falha 
+de forma reiterada na entrega de conteúdos da campanha e de terceiros do mesmo campo político, e no 
+cumprimento de deveres que a legislação eleitoral lhe impõe”52. Em 14 de outubro, apresentou uma nova 
+petição judicial na qual informou sobre fatos ocorridos posteriormente.  
+A Missão reuniu-se com representantes da Coalizão para ouvir suas contribuições e preocupações acerca 
+desses fatos que, em sua avaliação, quando analisados em conjunto, configuraram um tratamento 
+desigual dispensado à sua campanha . Por sua vez, eles afirmaram que o TSE havia agido para tentar 
+garantir que não houvesse um tratamento diferenciado entre as campanhas. Em seu relatório 
+compartilhado, a Coligação aborda supostas irregularidades na atuação da Meta durante o processo 
+eleitoral, incluindo a suspensão temporária de contas publicitárias e restrições à promoção paga de 
+conteúdos; diferenças no alcance, na interação e na distribuição algorítmica de publi cações entre as 
+candidaturas; assimetrias nos resultados de busca dos canais do WhatsApp e na visualização de conteúdos 
+do Instagram; tratamento diferenciado na geração de imagens por meio de inteligência artificial; exclusão 
+e bloqueio de conteúdos políti cos; suposta circulação de propaganda eleitoral irregular, conteúdos 
+sintéticos e anúncios financiados do exterior; falta de transparência e de resposta da plataforma às 
+denúncias; e possíveis violações de suas políticas internas e do plano de conformidade  apresentado ao 
+TSE53 .  
+Em entrevistas com outros atores, a MOE/OEA também registrou a preocupação de organizações da 
+sociedade civil por terem enfrentado restrições ao divulgar publicações com conteúdo político de caráter 
+não eleitoral nas plataformas da Meta. Da mesma forma, outras organizações manifestaram preocupação 
+com a identificação de publicidade política paga proveniente  do exterior na mesma plataforma.  Sobre 
+ambos os temas, de acordo com um relatório do Conselho Nacional de Direitos Humanos (CNDH) entregue 
+à Missão, “um estudo do NetLab/UFRJ identificou 1.613 anúncios político -eleitorais divulgados nas 
+ 
+51 Tribunal Superior Eleitoral. Portaria nº 463. (27 de julho de 2026). https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-463-de-
+27-de-julho-de-2026 
+52 Equipe Digital da Campanha Lula Presidente. (2026). Relatório técnico sobre a interferência da Meta no processo eleitoral brasileiro. 
+https://pt.org.br/wp-content/uploads/2026/10/relatorio-tecnico-interferencia-meta-pt.pdf 
+53 Ibid. 
+ 
+ 
+ 14 
+plataformas da empresa Meta entre julho e setembro, financiados a partir do exterior e  por atores não 
+autorizados a realizar propaganda eleitoral no Brasil, de acordo com a metodologia do estudo”54.  
+O mesmo relatório documenta, por sua vez, que o Ministério Público Federal (MPF) havia ajuizado uma 
+Ação Civil Pública, com pedido de medidas urgentes, alegando “a imposição de sanções automatizadas 
+sem fundamentação individualizada, notificações claras nem mecanismos eficazes de contestação” e 
+solicitando “o restabelecimento de contas e conteúdos, a revisão humana especializada e a proibição de 
+decisões de bloqueio baseadas exclusivamente em algoritmos” 55. Na opinião da CNDH , “a questão vai 
+além do funcionamento das contas das candidaturas, pois afeta também as condições para o exercício da 
+liberdade de expressão e a organização de outros participantes do debate público”56. 
+A apresentação da denúncia contra a Meta perante a Justiça Eleitoral desencadeou uma série de decisões 
+por parte do TSE – tanto por parte de ministros individualmente quanto do plenário –, da Corregedoria-
+Geral da Justiça Eleitoral, do Ministério Público Federal57 e do Ministério Público Eleitoral58 . Em diversos 
+momentos do processo, essas autoridades avaliaram os níveis de cumprimento das medidas impostas à 
+empresa Meta no âmbito do processo, o que incluiu, por sua vez, reuniões com seus representantes 59. 
+Em sua resposta à denúncia, apresentada em 12 de outubro, a empresa reconheceu que houve um 
+“incidente técnico de alcance global”, mas negou que seus sistemas operassem para favorecer ou 
+prejudicar candidaturas e sustentou que os problemas não haviam afetado exclusivamente o Brasil n em 
+contas específicas60. Em um comunicado de 16 de outubro, a empresa afirmou que “ A Meta não toma 
+partido nessa nem em nenhuma outra eleição, e são falsas e infundadas as alegações de que estamos 
+favorecendo ou interferindo em nome de qualquer candidato ou grupo político. Nossos sistemas não 
+classificam nem distribuem conteúdo com base em ideologia política, e nossas regras e sua aplicação 
+valem igualmente para todos”61.  
+ 
+54 Relatório encaminhado à Missão pelo Conselho Nacional de Direitos Humanos (CNDH) em 22 de outubro de 2026. OFÍCIO Nº 834/2026-
+SEI/CNDH/MDHC. Outro estudo que integrou o debate sobre o tema foi realizado pela organização da sociedade civil Lupa. A esse respeito, ver 
+Rosauro, M. (2026, 21 de setembro). Rede gasta US$ 106 mil na Meta para promover Cury e criticar oponentes; parte das postagens tem 
+anunciante identificado nos EUA. Lupa. https://www.agencialupa.org/jornalismo/2026/09/21/rede-gasta-us-106-mil-na-meta-para-promover-
+cury-e-criticar-opositores-parte-dos-posts-tem-anunciante-identificado-nos-eua/ 
+55 Ação Civil Pública nº 5070367-44.2026.4.04.7100/RS 
+56 Relatório encaminhado à Missão pelo Conselho Nacional de Direitos Humanos (CNDH) em 22 de outubro de 2026. OFÍCIO Nº 834/2026-
+SEI/CNDH/MDHC. 
+57 Ministério Público Federal, Procuradoria Federal dos Direitos do Cidadão. Recomendação nº 2/2026/PFDC-MPF.  
+58 Congresso em Foco (2026, 22 de outubro). MPE vê novos indícios de tratamento desigual de Meta em relação a Lula e Flávio. Congresso em 
+Foco. https://www.congressoemfoco.com.br/noticia/123508/mpe-ve-novos-indicios-de-tratamento-desigual-da-meta-a-lula-e-flavio 
+59 Tribunal Superior Eleitoral. Despacho na Representação nº 0602746-69.2026.6.00.0000 (Coligação Brasil Pronto pra Mais vs. Facebook 
+Serviços Online do Brasil Ltda.), juiz auxiliar Marco Aurélio Bellizze. (10 de outubro de 2026). 
+https://static.poder360.com.br/uploads/2026/10/Despacho-2746-69.pdf; Decisão cautelar de 15 de outubro de 2026, ratificada pelo plenário 
+em 16 de outubro, e decisão de 18 de outubro de 2026. 
+Fonseca, F. (16 de outubro de 2026). TSE mantém decisão que impede interferência da Meta no conteúdo eleitoral. CNN Brasil. 
+https://www.cnnbrasil.com.br/eleicoes/tse-mantem-decisao-que-barra-interferencia-da-meta-no-conteudo-eleitoral/; 
+Luiz, A. e Limao, J. (20 de outubro de 2026). TSE reúne Meta e as campanhas de Lula e Flávio para investigar possível favorecimento. 
+Metropoles. https://www.metropoles.com/brasil/tse-reune-meta-e-campanhas-de-lula-e-flavio-para-apurar-favorecimento 
+60 Facebook Serviços Online do Brasil Ltda. Representação nº 0602746-69.2026.6.00.0000 – Classe 11541. Manifestação de cumprimento de 
+ordem e defesa. https://about.fb.com/br/wp-content/uploads/sites/11/2026/10/Peticao-cumprimento-e-defesa-TSE.pdf 
+61 Meta (16 de outubro de 2026). A Meta não está interferindo nas eleições brasileiras. Estes são os fatos. 
+https://about.fb.com/br/news/2026/10/a-meta-nao-esta-interferindo-nas-eleicoes-brasileiras-estes-sao-os-fatos/ 
+ 
+ 
+ 15 
+Ao mesmo tempo, informou que, em 23 de setembro, a conta publicitária da campanha de Luiz Inácio 
+Lula da Silva foi desativada por engano por pouco mais de uma hora, após um anúncio ter sido classificado 
+como possível fraude relacionada a programas sociais.  A empresa explicou que o incidente ocorreu no 
+âmbito de medidas antifraude acordadas com a Procuradoria -Geral da União (AGU) em abril de 2026 e 
+que foi rapidamente corrigido. Esclareceu que as contas oficiais da campanha no Facebook e no Instagram 
+nunca foram bloqueadas, entre outros contra -argumentos apresentados na denúncia 62. Em um 
+comunicado posterior, a Meta reiterou que aplica “as mesmas normas a todos, incluindo pessoas comuns” 
+e que a empresa “não classifica nem distribui conteúdos com base em posicionamentos políticos”63 . 
+A Missão se reuniu com representantes da Meta para conhecer a posição e as ações da empresa  nessas 
+eleições. Na ocasião, seus representantes reiteraram o que haviam comunicado publicamente, no sentido 
+de que, em 15 de outubro, o TSE ordenou que a empresa impedisse a veiculação de anúncios de 
+propaganda eleitoral no Brasil por parte de atores não autorizados64. A empresa alertou sobre o risco de 
+bloqueios indevidos devido ao curto prazo de implementação e destacou que a medida também impediria 
+temporariamente a publicidade paga por organizações não governamentais (ONGs) e por  meios de 
+comunicação sobre temas sociais, sem afetar as publicações orgânicas 65. Por sua vez, afirmaram que 
+continuariam a apresentar à Justiça Eleitoral as informações solicitadas. 
+A MOE/OEA tomou nota do comunicado publicado em 21 de outubro pelo Escritório do Alto Comissariado 
+das Nações Unidas para os Direitos Humanos, no qual um grupo de especialistas expressou preocupação 
+com as denúncias de restrições à expressão política legítima nas plataformas da empresa Meta durante 
+as eleições brasileiras, devido aos possíveis efeitos sobre a liberdade de expressão e de associação, a 
+participação política e a igualdade de tratamento entre diferentes posições políticas. Entre outras 
+considerações, os especialistas também indicaram que “as plataformas digitais não devem se tornar 
+guardiãs sem prestação de contas do debate político[…] A democracia e eleições livres e justas dependem 
+de plataformas independentes e consistentes, bem como de um ambiente aberto e pluralista […].”66  
+A Missão também tomou conhecimento da declaração dos copresidentes do Conselho de Supervisão da 
+Meta (Oversight Board), que expressaram sua preocupação com as falhas recorrentes na aplicação das 
+políticas da empresa durante os processos eleitorais de vário s países, entre eles o Brasil, afirmando que 
+“alertamos repetidamente que, durante os processos eleitorais e os períodos de elevada tensão política, 
+as falhas da Meta na moderação de conteúdos costumam se manifestar de duas maneiras: uma aplicação 
+excessiva das regras, que restringe a expressão política, e uma aplicação insuficiente, que prejudica a 
+integridade eleitoral”. Em particular, eles apontaram que “[a] aplicação excessiva das políticas antifraude 
+ 
+62 Ibid. 
+63 Meta. (2026, 22 de outubro). O número de seguidores não determina o alcance. https://about.fb.com/br/news/2026/10/numero-de-
+seguidores-nao-determina-o-alcance/ 
+64 Meta (2026, 20 de outubro). Como a Meta está cumprindo a determinação do TSE sobre anúncios eleitorais no Brasil. 
+https://about.fb.com/br/news/2026/10/como-a-meta-esta-cumprindo-a-determinacao-do-tse-sobre-anuncios-eleitorais-no-brasil/ 
+65 Ibid.  
+66 Escritório do Alto Comissariado das Nações Unidas para os Direitos Humanos. A Meta deve proteger a expressão política e garantir recursos 
+eficazes durante as eleições no Brasil: especialistas da ONU. 21 de outubro de 2026. int-md-nwr-bra-39847-p-media.pdf   
+ 
+ 
+ 16 
+da Meta às contas publicitárias do presidente do Brasil, Luiz Inácio Lula da Silva, constitui uma falha que 
+deveria ter sido encaminhada a uma equipe interna de especialistas para revisão”67. 
+Diversos atores afirmaram à Missão que o regime jurídico vigente reduziu a oferta de publicidade política 
+online. Desde 2024, o Google não permite anúncios políticos no Brasil, decisão que justificou pela 
+insegurança jurídica que, em sua opinião, as resoluções do TSE geravam, e que manteve para estas 
+eleições68. Outras plataformas, como o TikTok e o X, também proíbem a publicidade política 69. Como 
+resultado, a divulgação paga de propaganda eleitoral ficou concentrada em apenas duas empresas: a 
+Meta e a Kwai. A restrição adotada pela Meta para o segundo turno, que impediu temporariamente a 
+publicidade paga sobre temas políticos e sociais por p arte de organizações não governamentais e meios 
+de comunicação, reduziu ainda mais os canais disponíveis para o debate político online, além daqueles 
+registrados pelas campanhas. 
+Outro caso que gerou amplo debate público foi o das decisões da Justiça Eleitoral relativas ao canal de 
+WhatsApp de apoio à candidatura de Luiz Inácio Lula da Silva, que, naquele momento, contava com mais 
+de 4 milhões de seguidores 70. Em 11 de outubro, a Presidência do TSE determinou, em processo 
+administrativo, a suspensão total do canal, decisão que, horas depois, foi anulada pelo Corregedor-Geral 
+Eleitoral — que também é ministro do TSE —, ao considerar que o assunto já estava send o tratado em 
+uma investigação judicial eleitoral sob sua responsabilidade. A controvérsia envolveu tanto a 
+proporcionalidade da medida quanto a delimitação de competências entre ambas as autoridades.  
+Em 13 de outubro, a Presidência do TSE ordenou novamente a retirada do canal por falta de registro junto 
+à Justiça Eleitoral e, assim que a campanha o registrou naquele mesmo dia sob protesto71, autorizou sua 
+reativação após 48 horas. Nessa ocasião, anulou a decisão do Corregedor, ao considerar que este não 
+poderia revisar individualmente uma decisão da Presidência72. Por sua vez, o Corregedor solicitou que o 
+plenário do TSE examinasse com urgência  o assunto, dada a proximidade do segundo turno e a 
+necessidade de resolver as divergências de competência. Por sua vez, a campanha do Partido Liberal 
+comunicou ao TSE o registro de um canal próprio com características semelhantes, cujo bloqueio foi 
+solicitado pela campanha de Luiz Inácio Lula da Silva em 14 de outubro sob o mesmo argumento 73. As 
+ 
+67 Conselho de Supervisão. Declaração do Conselho de Supervisão sobre a proteção da integridade eleitoral nas plataformas da Meta. 20 de 
+outubro de 2026. https://www.oversightboard.com/news/oversight-board-statement-on-protecting-election-integrity-on-metas-platforms/ 
+68 Waltenberg, G. (2026, 31 de maio). Google proíbe propaganda eleitoral nas eleições de 2026. Poder 360. 
+https://www.poder360.com.br/poder-eleicoes/google-veta-impulsionamento-eleitoral-nas-eleicoes-de-2026/ 
+69 Ferreira, A. (2026, 31 de julho). Plataformas digitais traçam planos para conteúdos sobre as Eleições de 2026. Metropoles. 
+https://www.metropoles.com/sao-paulo/plataformas-digitais-tracam-planos-para-conteudos-sobre-eleicoes-2026 
+70 Trata-se do canal “Exército do Lula”, administrado por um deputado federal. Leite, P . (2026, 14 de outubro). “Exército do Lula” sai do ar após 
+registro e PL informa ao TSE sobre o canal “Tropa do Flávio”. O Tempo. 
+https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/14/exercito-do-lula-sai-do-ar-apos-registro-e-pl-informa-ao-tse-sobre-canal-
+tropa-do-flavio 
+71 Pontes, F. (2026, 13 de outubro). Campanha registra canal “Exército do Lula” na Justiça Eleitoral. Agência Brasil. 
+https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-registra-canal-exercito-do-lula-na-justica-eleitoral 
+72 Richter, A. (2026, 13 de outubro). TSE: Kassio autoriza a reativação do canal “Exército do Lula”. Agência Brasil. 
+https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-kassio-autoriza-reativacao-do-canal-exercito-do-lula 
+73 Leite, P . (2026, 14 de outubro). ‘Exército do Lula’ sai do ar após registro e PL informa ao TSE sobre o canal ‘Tropa do Flávio’. O Tempo. 
+https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/14/exercito-do-lula-sai-do-ar-apos-registro-e-pl-informa-ao-tse-sobre-canal-
+tropa-do-flavio; Rigamonti, C. (2026, 14 de outubro). Lula pede ao TSE a suspensão do canal “Tropa do Flávio”. Times Brasil. 
+https://timesbrasil.com.br/eleicoes-2026/lula-pede-ao-tse-suspensao-do-canal-tropa-do-flavio/ 
+ 
+ 
+ 17 
+equipes de ambas as campanhas anunciaram que buscariam uma proposta conjunta sobre o 
+funcionamento dos canais do WhatsApp para apresentá-la ao TSE74 , mas não chegaram a um consenso75.  
+Em 16 de outubro, já em fase avançada da campanha do segundo turno, o plenário aprovou , por 
+unanimidade, uma nova alteração na regulamentação que estabeleceu os pressupostos para a vinculação 
+entre um canal de mensagens e uma campanha eleitoral 76. Em 20 de outubro, o vice -presidente do TSE 
+propôs aos demais ministros a proibição de propaganda nos canais políticos do WhatsApp com mais de 
+200 mil seguidores, de 48 horas antes da votação até 24 horas após a votação, mas a Presidência se opôs 
+à alteração das regras às vésperas do segundo turno e não foi marcada data para sua análise pelo 
+plenário77. Por fim, em 21 de outubro, a Presidência do TSE anunciou que o Tribunal não analisaria a 
+proposta nessas eleições, e a discussão foi adiada para as eleições de 2028; assim, os canais do WhatsApp 
+funcionaram sem restrições adicionais até a votação78. 
+ 
+Entre outros casos, em 9 de outubro, a Presidência do TSE, a pedido de uma das campanhas, ordenou a 
+suspensão da distribuição de uma edição especial do jornal de um sindicato de trabalhadores do setor 
+petrolífero que comparava as propostas dos candidatos em relação à empresa petrolífera estatal, decisão 
+que a federação sindical em questão classificou como um ataque à liberdade de expressão 79. Em outra 
+controvérsia, em 13 de outubro, o plenário do TSE ordenou, por unanimidade, a retirada de um vídeo do 
+Partido Liberal, produzido com inteligência artificial, que associava o candidato Luiz Inácio Lula da Silva ao 
+ 
+74 Muniz, M. (2026, 14 de outubro). Campanhas de Lula e Flávio fecham acordos para reduzir disputas no TSE e fazem cobranças conjuntas às big 
+techs. O Globo. https://oglobo.globo.com/google/amp/politica/eleicoes-2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-fecham-acordos-
+para-reduzir-disputas-no-tse-e-fazem-cobrancas-conjuntas-as-big-techs.ghtml; AFP . (2026, 14 de outubro). Autoridade eleitoral do Brasil alerta 
+as campanhas sobre o aumento das disputas judiciais. Yahoo Notícias. https://es-us.noticias.yahoo.com/autoridad-electoral-brasil-advierte-
+campa%C3%B1as-024611223.html 
+75 Martín, L. (13 de outubro de 2026). As campanhas de Lula e Flávio Bolsonaro vão tentar chegar a um consenso sobre os canais do WhatsApp e 
+apresentar uma proposta ao TSE. Folha de S.Paulo. https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-
+tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml; Fernandes, C. (2026, 14 de outubro). Campanhas de Lula e Flávio 
+buscam acordo sobre o WhatsApp para levar ao TSE. Brasil em Folhas. https://www.brasilemfolhas.com.br/2026/10/campanhas-de-lula-e-
+flavio-buscam-acordo-sobre-whatsapp-para-levar-ao-tse/; Marinho, M. (2026, 14 de outubro). Reunião das campanhas de Lula e Flávio no TSE 
+sobre canais do WhatsApp termina sem acordo. CartaCapital. https://www.cartacapital.com.br/politica/reuniao-de-campanhas-de-lula-e-flavio-
+no-tse-sobre-canais-de-whatsapp-termina-sem-acordo/ 
+76 Giménez, L. (2026, 16 de outubro). TSE estabelece regras sobre canais de campanha eleitoral no WhatsApp. Poder360. 
+https://www.poder360.com.br/poder-eleicoes-2026/tse-cria-regras-sobre-canais-de-campanha-eleitoral-no-whatsapp/; Richter, A. (2026, 16 de 
+outubro). TSE define regras para canais do WhatsApp durante a campanha. Agência Brasil. 
+https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-define-regras-para-canais-de-whatsapp-durante-campanha.  Tribunal Superior 
+Eleitoral. Alteração da Resolução nº 23.610. (16 de outubro de 2026). https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-
+610-de-18-de-dezembro-de-2019 
+77 Marinho, M. (21 de outubro de 2026). Mendonça quer proibir campanha em canais do WhatsApp nas 48 horas antes do segundo turno; 
+Kassio é contra. CartaCapital. https://www.cartacapital.com.br/justica/mendonca-quer-proibir-campanha-em-canais-de-whatsapp-nas-48-
+horas-antes-do-2o-turno-kassio-e-contra/; BH 24 Horas. (2026, 22 de outubro). Presidente do TSE rejeita proposta de restrição a canais políticos 
+no WhatsApp próximo às eleições. BH 24 Horas. https://bh24horas.com.br/noticias/presidente-do-tse-rejeita-proposta-de-restricao-a-canais-
+politicos-no-whatsapp-proximas-as-eleicoes/ 
+78 Carvalho, A. (2026, 23 de outubro). Ministros do TSE cogitaram proibir canais do WhatsApp antes das eleições. ATribuna. 
+https://www.atribunarj.com.br/materia/-ministros-do-tse-cogitaram-proibir-canais-de-whatsapp-antes-das-eleicoes; Mello, L. (2026, 23 de 
+outubro). TSE recua e não deve restringir canais políticos do WhatsApp antes do segundo turno. Diário do Pará. 
+https://diariodopara.com.br/eleicoes-2026/tse-recua-e-nao-deve-restringir-canais-politicos-do-whatsapp-antes-do-2o-turno/ 
+79 InfoMoney. (2026, 12 de outubro). Kassio Nunes atende a Flávio e proíbe a distribuição do jornal “Petróleo dos Brasileiros”. InfoMoney. 
+https://www.infomoney.com.br/politica/kassio-nunes-atende-flavio-e-proibe-distribuicao-de-jornal-petroleo-dos-brasileiros/. 
+ 
+ 
+ 18 
+crime organizado. Os ministros concordaram com a retirada do vídeo, mas divergiram quanto ao seu 
+fundamento80. 
+ 
+Outra novidade introduzida para as eleições de 2026 foi a incorporação, pela primeira vez, de empresas 
+desenvolvedoras de inteligência artificial generativa ao Programa Permanente de Enfrentamento à 
+Desinformação da Justiça Eleitoral, por meio de termos de adesão nos quais se comprometeram a 
+desenvolver ferramentas para identificar novos padrões de abuso e combater o uso de conteúdos 
+sintéticos com fins de desinformação81, bem como a consolidação, por via regulamentar, de parâmetros 
+sobre o conteúdo sintético, sua rotulagem e os planos de conformidade das plataformas 82. Especialistas 
+consultados pela Missão, no entanto, identificaram o descumprimento, por parte de alguns chatbots 
+conversacionais83, da proibição de que os sistemas de inteligência artificial classifiquem, recomendem, 
+sugiram ou priorizem candidaturas ou expressem preferências de voto 84. Na opinião deles, ainda não 
+existe uma estrutura institucional suficiente para garantir a responsabilização por esse tipo de ferramenta. 
+ 
+Assim como já expressou em outras ocasiões, a Missão compreende o desafio de equilibrar a equidade 
+na disputa, proteger a integridade do processo eleitoral contra ataques e desinformação no âmbito digital 
+e, ao mesmo tempo, garantir o exercício do direito à liberdade de expressão nesse espaço. A esse respeito, 
+a Relatoria Especial  para a Liberdade de Expressão da Comissão Interamericana de Direitos Humanos 
+lembrou, em seu relatório sobre o Brasil de 2025, que as decisões judiciais sobre conteúdos digitais devem 
+atender aos critérios de legalidade, finalidade legítima, necessidade e  proporcionalidade, estar 
+plenamente fundamentadas e respeitar o devido processo legal85.  
+ 
+Por sua vez, afirmou que o acesso às redes sociais é hoje uma ferramenta essencial para participar do 
+debate público, motivo pelo qual sua restrição limita significativamente a liberdade de expressão, e que 
+o bloqueio de contas, canais ou plataformas inteiras costuma ser desproporcional quando se trata de 
+publicações específicas. Salientou, além disso, que as ordens dirigidas às plataformas devem especificar 
+ 
+80 Tribunal Superior Eleitoral. TSE determina a remoção de vídeo produzido com IA que associa Lula ao crime organizado. 13 de outubro de 
+2026. https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-determina-remocao-de-video-produzido-com-ia-que-associa-lula-a-
+crime-organizado-5 
+81 As empresas que aderiram em 16 de julho de 2026 foram a OpenAI, a Anthropic e a ElevenLabs, que se juntaram às plataformas digitais que 
+renovaram seus memorandos de entendimento com o TSE. Ver Redaction. (2026, 17 de julho). TSE amplia programa contra a desinformação e 
+inclui a ElevenLabs, a OpenAI e a Anthropic nas eleições de 2026. TI Inside. https://tiinside.com.br/17/07/2026/tse-amplia-programa-contra-
+desinformacao-e-inclui-elevenlabs-openai-e-anthropic-nas-eleicoes-de-2026/ 
+82 Tribunal Superior Eleitoral. Resolução nº 23.732. (27 de fevereiro de 2024). https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-
+no-23-732-de-27-de-fevereiro-de-2024; Tribunal Superior Eleitoral. Resolução nº 23.755 (2 de março de 2026). 
+https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-755-de-2-de-marco-de-2026; Tribunal Superior Eleitoral. Portaria nº 
+463 (27 de julho de 2026). https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-463-de-27-de-julho-de-2026 
+83 Programas de computador baseados em inteligência artificial generativa que mantêm conversas em linguagem natural com os usuários e 
+geram respostas às suas perguntas. 
+84 Tribunal Superior Eleitoral. Resolução nº 23.610 (18 de dezembro de 2019), alterada pela Resolução nº 23.755. (2 de março de 2026). 
+https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-755-de-2-de-marco-de-2026; reunião informativa da MOE/OEA com 
+especialistas e organizações da sociedade civil sobre comunicação digital e desinformação, 1º de outubro de 2026; Conectas Direitos Humanos. 
+(31 de julho de 2026). Ministério Público Eleitoral é acionado devido a chatbots que contrariam normas do Tribunal Superior Eleitoral. 
+https://conectas.org/en/noticias/electoral-prosecution-office-is-called-upon-due-to-chatbots-that-contradict-rules-from-the-superior-electoral-
+court/; InternetLab. (2026). Papo de IA – Boletim 2. https://internetlab.org.br/wp-content/uploads/2026/09/Papo_de_IA_-_Boletim_2.pdf 
+85 Comissão Interamericana de Direitos Humanos, Relatoria Especial para a Liberdade de Expressão. (2025). Relatório especial sobre a situação 
+da liberdade de expressão no Brasil (OEA/Ser .L/V/II, CIDH/RELE/INF.35/25). Organização dos Estados Americanos. 
+https://www.oas.org/en/iachr/expression/reports/RELEBrazilReport.pdf 
+ 
+ 
+ 19 
+o conteúdo afetado, sua base jurídica e sua duração, e que os serviços intermediários devem ter o direito 
+de ser ouvidos e de recorrer contra elas86. 
+ 
+Tendo em conta as constatações anteriores, a Missão formula as seguintes recomendações: 
+ 
+• Regulamentar, por lei, por meio de um processo com ampla participação da sociedade civil e da 
+academia, as regras sobre moderação de conteúdo pelas plataformas, a publicidade política 
+online e as restrições à propaganda eleitoral na internet, de modo que não dependam 
+exclusivamente de regulamentações administrativas e que  seja garantida uma oferta plural de 
+canais para o debate político online. 
+ 
+• Estabelecer que as ordens de restrição de conteúdos, contas ou canais dirigidas às plataformas 
+indiquem com precisão o conteúdo afetado, seu fundamento jurídico e sua duração, privilegiando 
+medidas proporcionais que evitem o bloqueio total de contas ou can ais e garantindo às 
+plataformas e às pessoas afetadas a possibilidade de serem ouvidas e de recorrer. 
+ 
+• Exigir que as plataformas digitais, na regulamentação dos planos de conformidade do TSE, 
+notifiquem, de forma fundamentada, às candidaturas e demais usuários afetados, as medidas de 
+moderação que lhes forem aplicadas, com um mecanismo de revisão, e que publiquem, durante 
+a campanha, relatórios periódicos sobre a aplicação das regras de recomendação algorítmica, a 
+moderação de conteúdos e a rotulagem de conteúdos sintéticos. 
+ 
+• Garantir mecanismos de preservação dos registros de publicações nas plataformas digitais, 
+especialmente nas bibliotecas de anúncios, para permitir o acompanhamento dos incidentes ao 
+longo de todo o processo. 
+ 
+• Consolidar, antes de futuros processos eleitorais, os critérios adotados para vincular os canais de 
+mensagens às campanhas e garantir que, em caso de desativação, a decisão seja tomada após 
+audiência prévia com seus administradores e submetida imediatamente à revisão colegiada, em 
+conformidade com os padrões interamericanos de direitos humanos, liberdade de expressão e 
+democracia no ambiente digital. 
+ 
+• Estabelecer espaços de diálogo entre o TSE e as plataformas de redes sociais e de inteligência 
+artificial para acompanhar o cumprimento das normas relativas à amplificação algorítmica, à 
+moderação de conteúdos e à geração de conteúdos por meio de inteligência artificial, incluindo a 
+proibição de que chatbots87 recomendem candidaturas. 
+ 
+ 
+ 
+ 
+ 
+ 
+86 Ibid. 
+87 Programas de computador baseados em inteligência artificial generativa que mantêm conversas em linguagem natural com os usuários e 
+geram respostas às suas perguntas. 
+ 
+ 
+ 20 
+Combate à desinformação 
+ 
+Os esforços específicos contra a desinformação foram institucionalizados em 2019, por meio de um 
+programa do TSE que se tornou permanente em 2021 88. Em 2022, foram reforçados os mecanismos de 
+remoção de conteúdos89 e, em 2024, foram regulamentados a recomendação automática de propaganda 
+e o uso de inteligência artificial 90. De acordo com informações coletadas pela Missão, tanto em suas 
+reuniões com as autoridades eleitorais quanto com organizações da sociedade civil, o volume de 
+denúncias da população sobre desinformação relacionada à integridade do processo eleitoral dimin uiu 
+significativamente em relação a 2022. Segundo o TSE, entre 1º de agosto e a véspera do primeiro turno, 
+seu sistema de alertas de desinformação eleitoral recebeu 2.606 denúncias desse tipo, contra 18.487 no 
+mesmo período de 2022, o que representa uma redução de aproximadamente 86%91.  
+ 
+Por outro lado, o número de litígios relacionados à propaganda digital aumentou: de acordo com uma 
+análise jornalística de dados judiciais, os processos relacionados à propaganda na internet, conteúdos 
+patrocinados, aplicativos de mensagens, inteligência artificial e desinformação passaram de 3.400 (4,1% 
+do total) em 2022 para 9.571 (11,4% do total) em 2026, com data de corte em 1º de outubro 92. Além 
+disso, um monitoramento realizado por organizações da sociedade civil identificou, entre 16 de agosto e 
+28 de setembro, 920 conteúdos eleitorais gerados por inteligência artificial — quase um por hora —, dos 
+quais 554 eram deepfakes; cerca de 60% não indicavam o uso dessa tecnologia, apesar da obrigação de 
+rotulagem93.  
+ 
+De acordo com os dados mais recentes do mesmo projeto, no período de silêncio para conteúdo sintético 
+antes do primeiro turno, entre 1º e 5 de outubro, circularam 64 publicações político -eleitorais 
+manipuladas com inteligência artificial, apesar da proibição. O monitoramento indica ainda que 45% das 
+publicações com IA buscavam promover candidaturas, 27,6% tinham caráter satírico e 24,6% continham 
+ataques. Também indica que 47,2% foram publicadas por usuários, eleitores ou militantes e 27,3% por 
+contas anônimas ou desconhecidas94. 
+ 
+ 
+88 Tribunal Superior Eleitoral. Portaria do TSE torna permanente o Programa de Combate à Desinformação. (9 de agosto de 2021). 
+https://www.tse.jus.br/comunicacao/noticias/2021/Agosto/portaria-do-tse-torna-permanente-o-programa-de-enfrentamento-a-desinformacao 
+89 Tribunal Superior Eleitoral. Resolução nº 23.714. (20 de outubro de 2022). https://www.tse.jus.br/legislacao/compilada/res/2022/resolucao-
+no-23-714-de-20-de-outubro-de-2022 
+90 Tribunal Superior Eleitoral. Resolução nº 23.732. (27 de fevereiro de 2024). https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-
+no-23-732-de-27-de-fevereiro-de-2024 
+91 Tribunal Superior Eleitoral. Presidente do TSE encerra o 1º turno das Eleições de 2026 e prevê a mesma tranquilidade para a segunda fase do 
+pleito. (4 de outubro de 2026). https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-conclui-1o-turno-das-eleicoes-
+2026-e-projeta-mesma-tranquilidade-para-segunda-fase-do-pleito; Agência Senado. (4 de outubro de 2026). TSE destaca normalidade no 1º 
+turno e redução das denúncias de desinformação. Senado Notícias. https://www12.senado.leg.br/noticias/materias/2026/10/04/tse-destaca-
+normalidade-no-1o-turno-e-reducao-das-denuncias-de-desinformacao 
+92 O total de processos eleitorais do ciclo chegava a 84.100 até essa data. Ver Spagnuolo, S. (3 de outubro de 2026). Processos sobre 
+desinformação e propaganda digital triplicam nas eleições de 2026. Agência Pública/Núcleo Jornalismo. 
+https://apublica.org/2026/10/processos-sobre-desinformacao-e-propaganda-digital-triplicam-nas-eleicoes-de-2026/ 
+93 Dados do Projeto VigIA, Observatório Lupa. Ver Delmondes, F. (2026, 6 de outubro). As eleições de 2026 tiveram quase um conteúdo eleitoral 
+com IA por hora. Diário do Grande ABC. https://www.dgabc.com.br/Noticia/4351247/nas-eleicoes-2026-quase-um-conteudo-eleitoral-com-ia-
+circulou-por-hora 
+94 Agência Lupa, Observatório Lupa. (7 de outubro de 2026). Conteúdos com IA circulam em período proibido pela lei eleitoral. Agência Lupa, 
+Observatório Lupa. https://www.agencialupa.org/jornalismo/2026/10/07/conteudos-com-ia-circulam-em-periodo-proibido-pela-lei-eleitoral/; 
+Delmondes, F. (2026, 6 de outubro). As eleições de 2026 tiveram quase um conteúdo eleitoral com IA por hora. Diário do Grande ABC. 
+https://www.dgabc.com.br/Noticia/4351247/nas-eleicoes-2026-quase-um-conteudo-eleitoral-com-ia-circulou-por-hora 
+ 
+ 
+ 21 
+No segundo turno, o sistema de alertas de desinformação do TSE recebeu 13.046 denúncias entre 5 e 14 
+de outubro, contra 3.729 entre 16 de agosto e 4 de outubro, segundo dados do TSE 95. Esses números 
+reúnem todas as denúncias recebidas pelo sistema em cada período. 
+ 
+A MOE/OEA esteve presente, no dia da eleição, em ambos os turnos, na Sala de Atenção a Riscos Digitais 
+do TSE. Na ocasião, observou-se a presença conjunta de representantes das principais plataformas 
+digitais, o que facilitou uma resposta coordenada e transversal aos incidentes; o funcionamento de uma 
+equipe forense digital, com participação policial e pericial, encarregada de esclarecer os casos e preservar 
+as evidências, em particular as de conteúdo audiovisual ; e a existência de espaços específicos de 
+atendimento a candidatas e jornalistas. Além disso, a Missão constatou a coordenação com o TRE do 
+Distrito Federal, responsável pela votação no exterior.  
+ 
+Não foi identificado, no entanto, um painel público que permitisse consultar, em tempo real, o andamento 
+das denúncias sobre desinformação eleitoral e sua resolução pelo TSE, conforme recomendado pela 
+MOE/OEA em 202496. 
+ 
+Nesse sentido, a MOE/OEA reitera suas recomendações de 2022 e 2024 e acrescenta outras: 
+ 
+• Regulamentar, por lei, o atual regime de responsabilidade das plataformas digitais em relação à 
+desinformação, por meio de um processo com ampla participação da sociedade civil e da 
+academia, considerando os padrões interamericanos sobre direitos humanos, liberdade de 
+expressão e democracia no ambiente digital. 
+ 
+• Promover a continuidade do diálogo entre o Poder Judiciário Eleitoral e as forças políticas para 
+fortalecer a segurança e a certeza jurídicas quanto ao conteúdo e à interpretação das normas 
+relativas à desinformação e a  outras restrições à circulação de propaganda durante os períodos 
+eleitorais. 
+ 
+• Publicar, em um painel de acesso público atualizado em tempo real, o andamento das denúncias 
+sobre desinformação eleitoral recebidas durante a campanha por meio dos mecanismos 
+estabelecidos pelo TSE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95 PB Agora. (2026, 19 de outubro). Saiba como denunciar desinformação eleitoral ao Tribunal Superior Eleitoral; as denúncias já são 3,5 vezes 
+maiores do que no primeiro turno. PB Agora. https://www.pbagora.com.br/noticia/politica/aprenda-como-denunciar-desinformacao-eleitoral-
+ao-tribunal-superior-eleitoral-denuncias-ja-sao-35-vezes-maior-que-no-1o-turno/ 
+96 Organização dos Estados Americanos. (2024). Relatório preliminar da Missão de Observação Eleitoral da OEA no Brasil. Eleições municipais de 
+2024. https://www.oas.org/es/centro_noticias/comunicado_prensa.asp?sCodigo=D-015%2F24  
+ 
+ 
+ 22 
+III. ORGANIZAÇÃO ELEITORAL 
+ 
+Cadastro biométrico 
+ 
+O cadastro eleitoral foi encerrado em 6 de maio de 2026 com 158.745.463 eleitores habilitados a votar97 
+(157.826.587 no território nacional e 918.876 no exterior 98). A Missão foi informada de que, para as 
+eleições gerais de 2026, 89% do eleitorado possuía cadastro biométrico99, o que representa um aumento 
+de 13,5% em comparação com os 75,5% registrados nas eleições gerais de 2022100.  
+ 
+Entre outras iniciativas para esse aumento, a Missão tomou conhecimento de que o TSE determinou que 
+os TREs priorizassem as medidas necessárias para ampliar a identificação biométrica dos eleitores 101 e 
+incorporassem, após validação, dados biométricos provenientes de órgãos associados , o que permitiu 
+ampliar a cobertura sem depender do cadastro presencial102.  
+ 
+Ao mesmo tempo, e tal como observado em 2022, tanto a Zona Eleitoral do Exterior quanto a região 
+Sudeste do país — que concentra o maior número de eleitores — continuam apresentando porcentagens 
+menores de avanço no cadastro biométrico em comparação com outras regiões 103. Apesar disso, o 
+progresso no registro biométrico tem sido constante e tem apresentado avanços significativos, em 
+consonância com as recomendações anteriores da OEA. 
+ 
+Considerando o exposto, a Missão reitera suas recomendações de 2022104 e 2024105 de:  
+ 
+• Continuar com os diversos esforços para a atualização e a coleta de dados do cadastro biométrico, 
+com atenção especial ao Sudeste do país e ao exterior. 
+ 
+• Dar continuidade ao Projeto de Importação de Biometrias de Órgãos Externos (BioEx) e ampliar 
+os programas de coleta de informações para o registro biométrico das cidadãs e dos cidadãos que 
+ainda não o possuam. 
+ 
+Consolidação das estatísticas em nível federal 
+Devido à natureza descentralizada da Justiça Eleitoral no Brasil, diversas atividades do processo eleitoral 
+estão a cargo dos TREs, das zonas eleitorais e dos juízes eleitorais. Entre elas estão o treinamento dos 
+ 
+97 Tribunal Superior Eleitoral. Mais de 158 milhões de eleitores estão aptos a votar nas eleições de 2026. (20 de julho de 2026).  
+https://www.tse.jus.br/comunicacao/noticias/2026/Julho/mais-de-158-milhoes-de-eleitores-estao-aptos-votar-nas-eleicoes-2026 
+98 Tribunal Superior Eleitoral. Estatísticas eleitorais. Ver https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao/home?session=214221186213891 
+99 Equivalente a 141.321.493 eleitores. Ver Tribunal Superior Eleitoral. Biometria. https://www.justicaeleitoral.jus.br/biometria/#historico 
+100 Equivalente a 118.151.926 eleitores. Ver Tribunal Superior Eleitoral. Biometria. https://www.justicaeleitoral.jus.br/biometria/#historico 
+101 Resolução do TSE n.º 23.750/2026, artigo 2. 
+102 Tribunal Superior Eleitoral. Cadastro biométrico vai além das eleições e amplia a segurança em diversos serviços. (25 de novembro de 2025). 
+https://www.tse.jus.br/comunicacao/noticias/2025/Novembro/cadastro-biometrico-vai-alem-das-eleicoes-e-amplia-seguranca-em-diversos-
+servicos 
+103 Tribunal Superior Eleitoral. Biometria. https://www.justicaeleitoral.jus.br/biometria/ 
+104 Organização dos Estados Americanos. (2022). Missão de Observação Eleitoral da OEA apresenta seu relatório preliminar após o segundo 
+turno das eleições no Brasil. https://www.oas.org/fpdb/press/Informe-Preliminar-de-la-MOE-Brasil-2022-ESP.pdf 
+105 Organização dos Estados Americanos. (2024). Relatório preliminar da Missão de Observação Eleitoral da OEA no Brasil. 
+https://www.oas.org/fpdb/press/Informe-Preliminar-MOE-OEA-Brasil-2024-(1).pdf 
+ 
+ 
+ 23 
+mesários, o recebimento das listas de delegados partidários encarregados de credenciar fiscais, a 
+realocação de locais de votação e o registro de candidaturas para determinados cargos. Essas atividades 
+ocorrem durante a fase pré -eleitoral e, em alguns casos, até m esmo durante o dia da votação, como 
+acontece com a realocação de seções eleitorais. A MOE/OEA observou que, embora alguns TREs 
+mantenham suas próprias estatísticas sobre essas atividades, a Justiça Eleitoral não dispõe de informações 
+estatísticas consolida das em nível federal e atualizadas em tempo real. Uma exceção é o registro de 
+candidaturas, para o qual o TSE dispõe de uma ferramenta digital que permite consultar periodicamente 
+o andamento de sua análise nos TREs. 
+Dispor de estatísticas consolidadas em nível federal permitiria oferecer uma visão nacional do andamento 
+dessas atividades, bem como avaliar com maior precisão o desenvolvimento e o alcance de determinados 
+processos, como o treinamento dos mesários. A esse respeito, a MOE/OEA foi informada de que todos os 
+presidentes de mesa receberam capacitação presencial por parte dos TREs, enquanto os demais membros 
+foram capacitados por meio de ferramentas assíncronas e de plataformas digitais106. Em outras instâncias, 
+observou-se que o simples envio de vídeos instrutivos era contabilizado como capacitação, o que 
+evidencia diferenças nos critérios adotados para medir seu alcance. 
+ 
+Dispor de estatísticas consolidadas e atualizadas em nível federal também contribuiria para evitar 
+especulações decorrentes da divulgação de informações inexatas ou imprecisas. Em comunicados à 
+imprensa, circularam informações sobre a modificação de mais de 4.000 seções eleitorais107, o que gerou 
+preocupação nas redes sociais. Como as alterações foram realizadas pelos TREs em tempo real, o TSE não 
+publicou um número concreto que refletisse a magnitude das mudanças; em vez disso, recomendou 
+consultar sua seção de estatísticas para conhecer o número de seções realocadas 108. Em 19 de outubro, 
+representantes dos 27 TREs publicaram um comunicado no qual reafirmaram seu compromisso de manter 
+o eleitorado informado sobre os locais de votação que eventualmente fossem alterados. Por sua vez, 
+afirmaram que os motivos das realocações são sempre extraordinários e estão relacionados a fenômenos 
+climáticos extremos, à infraestrutura ou à segurança pública109. Por fim, com dados atualizados até 24 de 
+outubro às 20h27, o TSE registrou a realocação de 111 locais de votação e 442 seções eleitorais antes do 
+dia da votação, o que equivale a 0,08% do total de seções (517.206). 
+ 
+Da mesma forma, a Missão constatou que o TSE não dispunha de estatísticas agregadas em nível federal 
+sobre o credenciamento dos fiscais dos partidos. Esse processo fica a cargo dos delegados das 
+organizações políticas, cujos nomes são informados aos juízes eleitorais da zona correspondente 110. 
+ 
+106 Tais como Ambiente Virtual de Aprendizagem do TSE, Mesários Brasil, Manuais: Manual do Mesário, Guia Rápido do Mesário, Manual do 
+Eleitor, aplicativos Mesários e e-Título. 
+107 Gésio, Passos (16 de outubro de 2026). TSE anuncia alteração de 4.352 locais de votação para o segundo turno. Agência Brasil. 
+https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/tse-anuncia-alteracao-de-4352-locais-de-votacao-para-o-
+segundo-turno 
+108 Tribunal Superior Eleitoral. Entenda por que a Justiça Eleitoral alterou o endereço de algumas seções para o segundo turno. (17 de outubro 
+de 2026). https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/entenda-por-que-a-justica-eleitoral-trocou-o-endereco-de-algumas-
+secoes-para-o-2o-turno 
+109 Tribunal Superior Eleitoral. TREs reforçam o compromisso de divulgar nos próximos dias os locais de votação do segundo turno. (19 de 
+outubro de 2026). https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tres-reforcam-compromisso-de-divulgar-nos-proximos-dias-os-
+locais-de-votacao-do-2o-turno 
+110 Tribunal Superior Eleitoral. Resolução nº 23.751. (26 de fevereiro de 2026). 
+https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026 
+ 
+ 
+ 24 
+Dispor de estatísticas consolidadas sobre o número de fiscais credenciados pelos partidos políticos 
+permitiria avaliar o alcance da fiscalização partidária no processo eleitoral. 
+ 
+A MOE/OEA também observou que o TSE não dispunha de relatórios periódicos e consolidados em nível 
+federal sobre o andamento do dia eleitoral, que incluíssem informações sobre a abertura das seções 
+eleitorais, as mudanças de locais de votação e os incidentes registrados, como cortes de energia elétrica, 
+entre outros aspectos, e que permitissem oferecer uma visão geral do andamento das eleições. 
+ 
+Levando em conta o exposto, a Missão recomenda, para futuros processos eleitorais: 
+ 
+• Desenvolver uma ferramenta digital que consolide e publique , em tempo real, estatísticas 
+desagregadas em nível nacional sobre as atividades dos TREs, juízes e zonas eleitorais, incluindo 
+aquelas realizadas no dia da votação.  
+ 
+Observação eleitoral internacional e nacional 
+ 
+Este processo eleitoral foi observado por três missões internacionais que se regem pela Declaração de 
+Princípios para a Observação Internacional e pelo Código de Conduta para Observadores Eleitorais 
+Internacionais, como a OEA, o Centro Carter e a missão de  especialistas da União Europeia, bem como 
+pelas missões do Parlamento do Mercosul (Parlasul) e da União Interamericana de Órgãos Eleitorais 
+(UNIORE), entre outras111.  
+ 
+Diante da proliferação de entidades dedicadas ao monitoramento eleitoral, a Missão destaca 
+positivamente que o TSE dispõe, desde 2021, de diretrizes e procedimentos para a realização de missões 
+nacionais e internacionais de observação eleitoral112. A normativa estabelece distinções específicas entre 
+as missões de observação eleitoral — que celebram um acordo de procedimento com o TSE e se regem 
+por princípios claros e metodologias transparentes — e os programas para convidados internacionais. Da 
+mesma forma, embora essa regulamentação estabeleça de forma abrangente os critérios e requisitos para 
+o credenciamento de organizações de observação eleitoral nacional, ela não se aplica às organizações que 
+desejam se credenciar para realizar observação internacional. 
+ 
+Mais uma vez, a Missão destaca como boa prática o fato de o Manual do Mesário do TSE conter uma 
+seção sobre a observação eleitoral nacional e internacional, o que lhes permite familiarizar -se com seu 
+trabalho. 
+  
+Além disso, a Missão observou que, no âmbito deste processo eleitoral, foram credenciadas sete 
+organizações de observação eleitoral nacional 113, o que representa um aumento em relação às eleições 
+ 
+111 Tribunal Superior Eleitoral. (2026). Lista de observadores internacionais. https://www.tse.jus.br/eleicoes/eleicoes-2026-
+content/arquivos/lista-de-pessoas-observadoras-internacionais/@@display-file/file/lista_pessoas_observadoras_internacionais_2026_sem-
+oea-23_10.pdf .  
+112 Tribunal Superior Eleitoral. Resolução 23.678. (17 de dezembro de 2021). https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-
+no-23-678-de-17-de-dezembro-de-2021 .  
+113 Tribunal Superior Eleitoral. (2026). Lista de observadores nacionais. https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/lista-de-
+pessoas-observadoras-nacionais/@@display-. file/file/lista_pessoas_observadoras_nacionais_23_10.pdf .  
+ 
+ 
+ 25 
+municipais de 2024, quando foram credenciadas cinco missões114, e em relação às eleições gerais de 2022, 
+quando participaram seis 115. A Missão saúda esse aumento, que está em consonância com sua 
+recomendação, emitida em 2018 116, de desenvolver a prática da observação eleitoral nacional, por se 
+tratar de uma ferramenta que contribui tanto para a fiscalização quanto para o aperfeiçoamento dos 
+sistemas e processos eleitorais.  
+ 
+A MOE/OEA tomou conhecimento de que, embora algumas dessas organizações de observação nacional 
+tenham enfrentado dificuldades para se registrar, outras apontaram requisitos excessivos e incerteza 
+quanto aos prazos de resposta.  
+ 
+Com o objetivo de continuar fortalecendo a observação eleitoral nacional, a Missão recomenda:  
+ 
+• ⁠Avaliar a experiência e a implementação do processo de credenciamento para a observação 
+nacional em diálogo com as organizações, a fim de identificar boas práticas e oportunidades de 
+melhoria que permitam seu fortalecimento. 
+ 
+Voto no exterior  
+ 
+Para estas eleições, 918.876 pessoas estavam habilitadas a votar no exterior, das quais 527.734 eram 
+mulheres (57%) e 391.142 homens (43%). A Missão avalia positivamente o aumento de 31,82% no 
+cadastro eleitoral no exterior  (221.798 pessoas) em relação às eleições gerais de 2022, quando foram 
+registrados 697.078 eleitores 117. De acordo com as autoridades brasileiras, estima -se que a diáspora 
+brasileira atinja 5,2 milhões de pessoas, o que indica um amplo potencial de crescimento do cadastro 
+eleitoral no exterior. 
+ 
+No que diz respeito à comunicação sobre o processo de votação no exterior, a MOE/OEA tomou 
+conhecimento de que as atividades de divulgação ficaram principalmente a cargo das embaixadas e sedes 
+consulares, por meio de seus canais de comunicação e de suas redes sociais. Segundo as informações 
+recebidas, isso se deve, em parte, ao fato de as representações diplomáticas disporem de canais de 
+comunicação estabelecidos com as cidadãs e os cidadãos residentes no exterior. Nesse contexto, a Missão 
+não observou um a campanha de informação e divulgação por parte do TSE, por meio de seus canais 
+institucionais, sobre aspectos relevantes do voto no exterior, como a localização dos centros de votação 
+e os procedimentos do sufrágio. 
+ 
+ 
+114 Tribunal Superior Eleitoral. (2024) Missões de Observação Eleitoral 2024. https://www.tse.jus.br/eleicoes/eleicoes-2024-content/missoes-de-
+observacao-eleitoral?tab=ancora-4 .  
+115 Tribunal Superior Eleitoral. (2022). Missões de Observação Eleitoral 2022. https://www.tse.jus.br/eleicoes/eleicoes-2022/missoes-de-
+observacao-eleitoral?tab=ancora-1 .  
+116 Organização dos Estados Americanos. (2018). Relatório final, MOE/OEA, Eleições Gerais do Brasil. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=410&MissionId=489 .    
+117 Tribunal Superior Eleitoral. Aplicativo PowerBi Eleições no Exterior 2022. 
+https://app.powerbi.com/view?r=eyJrIjoiMTRmMmM2ZTktMjZjOC00NjBmLWJlMzUtYzRkZDVhMzAwMmM4IiwidCI6ImFiNzcyYzYzLWViMzgtNGIx
+ZS1iZWY3LTdiNjBlZDhhY2RmMSJ9 
+ 
+ 
+ 26 
+Por fim, a Missão expressa sua satisfação pelo fato de que, para as eleições gerais de 2026, o TSE tenha 
+disponibilizado 98 locais de votação nas sedes consulares e 68 em outros imóveis118, em consonância com 
+recomendações anteriores feitas pela OEA de habilitar locais de votação adicionais às sedes consulares 
+para reduzir as filas e evitar aglomerações119. 
+ 
+Com base nas constatações anteriores, a MOE/OEA reitera sua recomendação de 2022120 de: 
+ 
+• Implementar, a partir do TSE, uma ampla campanha de informação, com o apoio da rede consular 
+brasileira, para divulgar os mecanismos existentes de cadastro eleitoral no exterior.  
+ 
+Além disso, recomenda: 
+ 
+• Implementar uma campanha de comunicação do TSE sobre o voto no exterior durante todo o 
+ciclo eleitoral, em coordenação com o TRE do Distrito Federal e o Ministério das Relações 
+Exteriores, aproveitando os canais institucionais e as ferramentas de educação eleitoral desses 
+órgãos. 
+ 
+IV. TECNOLOGIA ELEITORAL 
+Apesar do aumento do eleitorado e do número de seções eleitorais devido ao voto no exterior, para este 
+processo eleitoral foram disponibilizadas 7.114 urnas eletrônicas a menos do que nas eleições de 2024.  
+Em resposta a isso, o TSE decidiu aumentar o número de seções agregadas121, o que, por sua vez, elevou 
+o número de eleitoras e eleitores designados a essas seções. Durante o segundo turno, a Missão observou 
+uma menor presença de filas, em parte porque, na maior parte do país, foi eleito apenas um cargo. 
+Quanto aos sistemas de auditoria, a Missão observou o sorteio de urnas eletrônicas para a realização de 
+Testes de Integridade, com e sem biometria, bem como a verificação da autenticidade do software das 
+urnas eletrônicas em vários TREs no sábado, 24 de outubro de 2026. A MOE/OEA destaca positivamente 
+que os partidos políticos, federações e coligações, na qualidade de entidades fiscalizadoras, têm o direito 
+de escolher uma seção eleitoral para a realização dessa auditoria, o que contribui para fortalecer a 
+transparência e a fiscalização do sistema de votação eletrônica122. 
+ 
+Assim como em eleições anteriores, a MOE/OEA observou que 10% do total de urnas eletrônicas 
+sorteadas foram destinadas ao Teste de Integridade com biometria. A realização desses testes impõe 
+desafios logísticos, como a instalação de equipamentos nos centros de votação sorteados e a necessidade 
+de convencer os eleitores a participar voluntariamente do teste após votarem. Como resultado disso, o 
+ 
+118  Tribunal Eleitoral Regional do Distrito Federal.  Eleições de 2026 – endereços fora do imóvel da sede da representação diplomática brasileira 
+no exterior. https://www.tre-df.jus.br/eleicoes/arquivos-eleicoes-2026/enderecos-fora/@@display-
+file/file/eleicoes_2026___enderecos_fora_do_imovel_da_reparticao_brasileira_no_exterior___v4-1.pdf 
+119 Organização dos Estados Americanos. (2022). Missão de Observação Eleitoral, Segundo turno eleitoral no Brasil. 
+https://www.oas.org/fpdb/press/Informe-Preliminar-de-la-MOE-Brasil-2022-ESP.pdf 
+120  Ibid. 
+121 Seções que, devido ao seu pequeno tamanho, são integradas a uma seção principal para compartilhar a mesma urna eletrônica. 
+122 Tribunal Superior Eleitoral, Resolução n.º 23.673, de 14 de dezembro de 2021, arts. 6.I e 57, § 1º, I, conforme redação dada pela Resolução 
+n.º 23.758/2026. 
+ 
+ 
+ 27 
+número de urnas utilizadas no Teste de Integridade com biometria é menor do que o de  urnas sem 
+biometria. 
+ 
+Com vistas a futuros processos eleitorais, a Missão recomenda: 
+ 
+• Aumentar progressivamente o tamanho da amostra de urnas eletrônicas para o Teste de 
+Integridade com biometria. 
+ 
+V. PARTICIPAÇÃO POLÍTICA DAS MULHERES 
+De acordo com a União Interparlamentar, em agosto de 2026, o Brasil ocupava a 138ª posição no ranking 
+mundial de mulheres nos parlamentos123. Desde 1997, o Brasil adotou uma cota de gênero de 30% para a 
+Câmara dos Deputados, as Assembleias Legislativas e a Câmara Legislativa do Distrito Federal 124. Essa 
+obrigação foi reforçada em 2009, ao estabelecer que as porcentagens deveriam ser efetivamente 
+preenchidas e não apenas reservadas125.  
+A Missão tomou conhecimento de que, para este processo eleitoral, o TSE incorporou ao Sistema de 
+Candidaturas – Módulo Externo (CANDex)126 uma funcionalidade que permite verificar automaticamente 
+o cumprimento das porcentagens mínimas e máximas de candidaturas por gênero estabelecidas na 
+legislação eleitoral. Além disso, o TSE estabeleceu o tratamento prioritário dos pedidos de registro de 
+candidaturas femininas a cargos de representação proporcional que tivessem sido rejeitados, a fim de 
+agilizar a resolução desses casos e reduzir a incerteza jurídica127. 
+Embora as mulheres constituam 52,84% do eleitorado, elas representaram 35% das candidaturas 
+analisadas pelo TSE. A disparidade foi maior nas candidaturas à presidência, pois, das 12 registradas, 
+apenas duas (16,7%) eram de mulheres. Em segundo lugar, ident ificou-se disparidade de gênero nas 
+candidaturas a governos estaduais, em que apenas 17,4% eram  de mulheres. Os cargos legislativos, por 
+sua vez, registraram uma proporção de candidaturas de mulheres semelhante à média nacional: 36,8% 
+no caso das deputadas federais, 34,8% no caso das deputadas estaduais e 35,1% no caso das deputadas 
+distritais. A proporção diminui consideravelmente quando se trata de candidaturas ao Senado, nas quais 
+as mulheres representaram apenas 21,9%128. Por outro lado, mulheres negras, indígenas e pertencentes 
+a outros grupos historicamente sub -representados enfrentam barreiras adicionais para acessar 
+candidaturas e competir em condições de igualdade. 
+As pessoas entrevistadas com quem a Missão se reuniu também identificaram algumas práticas dos 
+partidos políticos como um dos principais obstáculos para alcançar uma maior representação das 
+ 
+123 IPU. (2026). Ranking de mulheres nos parlamentos. https://data.ipu.org/women-ranking/?date_year=2026&date_month=08 
+124 Lei nº 9.504/1997, artigo 10. 
+125 Lei nº 12.034/2009, que altera o artigo 10 da Lei nº 9.504/1997.  
+126Tribunal Superior Eleitoral. Sistema online para registro e apresentação de candidaturas. Disponível em 
+https://www.tse.jus.br/eleicoes/eleicoes-2026-content/sistema-de-candidaturas-modulo-externo-candex-2026. 
+127 Tribunal Superior Eleitoral. Resolução TSE nº 23.754, que altera o artigo 54 da Resolução TSE nº 23.609/2019 (2 de março de 2026). 
+https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-754-de-2-de-marco-de-2026. 
+128 Tribunal Superior Eleitoral. (2026). Estatísticas eleitorais. https://sig.tse.jus.br/ords/dwapr/r/seai/sig-
+eleicao/home?session=312428241500124. 
+ 
+ 
+ 28 
+mulheres em cargos eleitos. Elas destacaram dinâmicas como o apoio insuficiente às candidaturas de 
+mulheres e os escassos mecanismos para prevenir e responder a situações de violência política.  
+Por sua vez, a eficácia do modelo de cotas é condicionada, na prática, pelo sistema de lista aberta vigente 
+no Brasil, uma vez que o eleitorado vota em candidatos individuais. Nesse sentido, a inclusão de mulheres 
+nas listas não lhes garante vagas caso o p artido receba votos suficientes. Fatores como financiamento e 
+visibilidade nas campanhas também adquirem especial relevância. Em resposta a essas barreiras, o Brasil 
+incorporou, desde 2018, mecanismos de financiamento eleitoral direcionado às mulheres129.  
+Dando seguimento às recomendações formuladas anteriormente, a Missão saúda as medidas adotadas 
+em 2026 para fortalecer a fiscalização e a rastreabilidade dos recursos destinados às ações afirmativas. 
+Constatou-se que o TSE reforçou os mecanismos de fiscali zação, estabelecendo o uso exclusivo dos 
+recursos reservados em benefício das candidaturas protegidas 130 e determinando que o desvio desses 
+recursos pode constituir infração eleitoral, independentemente do valor envolvido131. Da mesma forma, 
+a Procuradoria -Geral do Estado (PGE) recomendou tornar transparentes os critérios de distribuição e 
+garantir recursos mínimos a cada candidatura protegida para assegurar condições efetivas de 
+concorrência132.  
+Ao mesmo tempo, a Missão recebeu relatos de preocupações sobre atrasos nas transferências, 
+concentração de recursos e falta de clareza nos critérios de distribuição partidária. Além disso, foi alertada 
+sobre o risco de que a falta de financiamento e de apoio dos partidos políticos às candidaturas femininas 
+não apenas limite suas possibilidades de desenvolver campanhas eficazes, mas também possa acarretar 
+consequências em uma eventual avaliação judicial sobre a autenticidade dessas candidaturas. Isso se deve 
+ao fato de que a jurisprudência do TSE contempla, entre os possíveis indícios de fraude à cota de gênero, 
+uma votação pouco significativa, movimentação financeira reduzida ou inexistente e a ausência de atos 
+efetivos de campanha133. Dessa forma, as limitações decorrentes da falta de apoio partidário poderiam , 
+posteriormente, ser consideradas  indícios de uma candidatura fictícia, mesmo que esta tenha sido 
+apresentada com a intenção genuína de concorrer. 
+De acordo com os resultados oficiais, as mulheres obtiveram 109 cadeiras na Câmara dos Deputados, o 
+que equivale a 21,2% do total de 513 cadeiras, representando um aumento em relação às eleições de 
+2022 (17,7%)134. Das deputadas eleitas, 59 foram reeleitas (54,1%), o que reflete a continuidade de suas 
+trajetórias políticas. No Senado, foram eleitas 12 mulheres, o que corresponde a 22,2% dos 54 assentos 
+ 
+129 Pelo menos 5% do Fundo Partidário deve ser destinado a programas de promoção da participação política das mulheres; pelo menos 30% 
+dos recursos públicos destinados às campanhas devem ser alocados às candidatas, proporcionalmente à sua participação nas candidaturas; e 
+pelo menos 30% da propaganda partidária gratuita deve ser destinada à promoção da participação política das mulheres. Constituição da 
+República Federativa do Brasil, artigo 17, § 8º; Resolução nº 23.607/2019, artigos 17, § 4º e 19, § 3º. Lei nº 9.096/1995, artigo 50-B, § 2º. 
+130 Resolução nº 23.607/2019, artigos 17, § 6º, e 19, § 5º. 
+131 Resolução nº 23.735/2014, artigos 11, § 2º. 
+132Recomendação PGE nº 1/2026, alíneas a, b, c. https://www.mpf.mp.br/atuacao/eleitoral/pge/gt-violencia-de-genero/recomendacoes-
+acordo-de-cooperacao-e-orientacoes/recomendacao-pge-1-2026-partidos-politicos-candidaturas-femininas-negros-indigenas-eleicoes-
+2026.pdf   
+133 Tribunal Superior Eleitoral. (2024). Súmula-TSE n.º 73/2024. (16 de maio de 2024). https://www.tse.jus.br/legislacao/codigo-
+eleitoral/sumulas/sumulas-do-tse/sumula-tse-n-73. 
+134 Câmara dos Deputados. Com 109 deputadas eleitas, a bancada feminina cresce 21,1% na Câmara. (5 de outubro de 2026). 
+https://www.camara.leg.br/noticias/1309285-com-109-deputadas-eleitas-bancada-feminina-cresce-211-na-camara.   
+ 
+ 
+ 
+ 29 
+em disputa. Considerando que, nessas eleições, foram renovados apenas dois terços do Senado (54 das 
+81 cadeiras), as 12 senadoras eleitas se somarão às seis mulheres cujos mandatos continuam em vigor; 
+assim, a bancada feminina será composta por 18 senadoras, o que equivale a 22,2% do total de cadeiras 
+da Câmara Alta.  
+ 
+Quanto aos governos estaduais, no primeiro turno, Raquel Lyra, do Partido Social Democrata (PSD), foi 
+reeleita em Pernambuco, enquanto, no segundo turno, Celina Leão, do Partido Progressista (PP), também 
+foi reeleita no Distrito Federal e, pelo mesmo partido, Mailza Assis foi eleita pela primeira vez no Acre. 
+Essa última eleição elevou para três o número de governadoras eleitas em comparação com 2022, número 
+que evidencia a baixa representação das mulheres em cargos executivos de eleição popular em nível 
+estadual.  
+ 
+Considerando as constatações anteriores, a Missão recomenda: 
+ 
+• Solicitar à Organização dos Estados Americanos que seja realizada uma visita do Grupo de Alto 
+Nível para o Fortalecimento da Participação Política das Mulheres, com o objetivo de promover a 
+implementação das recomendações das Missões de Observação Eleitoral (MOE) nessa matéria. 
+ 
+• Avançar na adoção de legislação que estabeleça a paridade de gênero nas candidaturas a cargos 
+eletivos. 
+ 
+• Garantir o acesso oportuno aos recursos destinados às candidaturas de mulheres. 
+ 
+• Explorar mecanismos para garantir um acesso mais equitativo entre as candidatas à distribuição 
+do financiamento público destinado às formações políticas para as campanhas. 
+ 
+• Prestar assistência técnica aos partidos políticos na gestão e na prestação de contas dos recursos 
+destinados às candidatas. 
+ 
+• Avaliar os critérios jurisprudenciais para identificar possíveis fraudes na cota de gênero, a fim de 
+evitar que as dificuldades de acesso ao financiamento ou a falta de apoio partidário sejam 
+interpretadas, por si só, como indícios de fraude, de modo a imp edir que o risco de sanções por 
+essas circunstâncias desincentive a participação política das mulheres. 
+Violência contra as mulheres na política 
+A Missão observou que, em 2026, foram registrados avanços institucionais na implementação da lei para 
+prevenir, reprimir e combater a violência política contra as mulheres135. Nesse sentido, em março de 2026, 
+diversas instituições assinaram um protocolo para combater a violência política contra as mulheres, que 
+estabelece mecanismos interinstitucionais de coordenação e de resposta136.  
+ 
+135 Em seu artigo 4º, a Lei nº 14.192/2021 introduz o artigo 326-B na Lei nº 4.737/1965 do Código Eleitoral. 
+136 Ministério das Mulheres, Conselho Nacional do Ministério Público, Procuradoria-Geral Eleitoral, Conselho Nacional de Justiça, Ministério da 
+Justiça e Segurança Pública e Defensoria Pública da União. (2026). Protocolo de Combate à Violência Política contra as Mulheres. 
+ 
+ 
+ 30 
+Além disso, em setembro, foi lançada a campanha “Política é Substantivo Feminino”, voltada à 
+sensibilização sobre as diversas manifestações de violência política contra as mulheres e à promoção de  
+sua identificação e denúncia 137. Também foram registrados avanços na aplicação judicial da legislação 
+sobre violência política de gênero. Em agosto de 2026, o TSE proferiu suas primeiras condenações138 com 
+base no artigo 326 -B do Código Eleitoral 139 e, posteriormente, confirmou outras condenações por 
+violência política de gênero, contribuindo para a consolidação da jurisprudência nessa matéria. A Missão 
+destaca, além disso, o trabalho das organizações da sociedade civil no monitoramento e na documentação 
+da violência política contra as mulheres, bem como na promoção de respostas por parte das instituições 
+competentes. 
+Apesar desses avanços, os dados disponíveis mostram um aumento nos registros de violência política 
+contra as mulheres. Em setembro de 2026, a Justiça Eleitoral registrou 177 processos judiciais por 
+violência política de gênero, contra 15 em 2022. Desses, 26 estavam diretamente relacionados à 
+campanha eleitoral de 2026. Por sua vez, o Grupo de Trabalho para a Prevenção e o Combate à Violência 
+Política de Gênero do Ministério Público registrou o acompanhamento de 436 casos desde 2018140. Esses 
+números correspondem a diferentes registros e períodos de referência, portanto, não são comparáveis 
+nem podem ser somados. Sobre esse tema, a Missão tomou conhecimento de que o TSE e a PGE adotaram 
+um novo protocolo de intenções que fortalece o pap el da Comissão de Mulheres do TSE, consolida um 
+canal específico para denúncias e cria um painel de monitoramento que apresenta os casos atendidos por 
+diversas instâncias141. 
+A violência política contra as mulheres no ambiente digital ganhou especial relevância durante essas 
+eleições. A Missão tomou conhecimento de diversos casos de perseguição e de divulgação de dados 
+pessoais de candidatas e de seus familiares durante a campanha142, inclusive no período entre o primeiro 
+e o segundo turno. Da mesma forma, tomou conhecimento de casos de ameaças de morte, violência 
+ 
+https://www.gov.br/mulheres/pt-br/acesso-a-informacao/acoes-e-programas/protocolo-de-enfrentamento-a-violencia-politica-contra-as-
+mulheres/protocolo-de-enfrentamento-a-violencia-politica-contra-as-mulheres.pdf/@@display-file/file 
+137 Tribunal Superior Eleitoral. Ação “Violência Política TEM Gênero” fortalece rede de proteção às mulheres. 22 de setembro de 2026.  
+https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/acao-violencia-politica-tem-genero-fortalece-rede-de-protecao-as-mulheres. 
+138Tribunal Superior Eleitoral. TSE condena vereador por violência política contra colega mulher em Nova Friburgo (RJ). 13 de agosto de 2026. 
+https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/tse-condena-vereador-que-praticou-violencia-politica-contra-colega-mulher-em-
+nova-friburgo-rj; Tribunal Superior Eleitoral. Plenário condena vereador de Medina (MG) por violência política de gênero. 18 de agosto de 2026. 
+https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/tse-condena-vereador-de-medina-mg-por-violencia-politica-de-genero  
+139 Artigo 326-B. Assediar, coagir, humilhar, perseguir ou ameaçar, por qualquer meio, uma candidata a um cargo eletivo ou uma mulher que 
+exerça um mandato eletivo, por meio de atos de menosprezo ou discriminação em razão de sua condição de mulher ou de sua cor, raça ou 
+etnia, com o objetivo de impedir ou dificultar sua campanha eleitoral ou o exercício de seu mandato. 
+140 Ministério Público. Campanha mobiliza a sociedade contra a violência política de gênero e mostra como denunciar. 23 de setembro de 2026. 
+https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/campanha-mobiliza-sociedade-contra-violencia-politica-
+de-genero-e-mostra-como-denunciar. 
+141 Tribunal Superior Eleitoral e Procuradoria-Geral Eleitoral. Protocolo de Intenções TSE nº 61/2026. Prevenção e Combate à Violência Política 
+contra as Mulheres 2.1 e 2.2. 22 de setembro de 2026. https://www.tse.jus.br/comunicacao/noticias/arquivos/protocolo-tse-mpe-prevencao-
+e-enfrentamento-a-violencia-politica-contra-as-mulheres-22-09.2026/@@display-file/file/protocolo-de-intenções-tse-n-61_2026.pdf. 
+142 De acordo com a plataforma “MonitorA”, alguns casos de destaque incluem Marina Silva, Bia Kicis, Simonete Tebet e Benedita da Silva, entre 
+outras. Ver InternetLab e Centro de Jornalismo. (2026, 17 de setembro). Marina Silva é o principal alvo de ofensas contra candidatas no X. 
+https://internetlab.org.br/pt/noticias/marina-silva-e-o-principal-alvo-de-ofensas-contra-candidatas-no-x/ . Por sua vez, a Iniciativa Sentinela 
+destacou casos de violência contra candidatas trans. Entre as que recebem o maior número de ataques nas redes sociais estão Duda Salabert, 
+Benny Briolly e Thabatta Pimenta. Ver https://vote.org.br/sentinela. Ver também Gouveia, J. (2026, 1º de outubro). Quatro candidatas 
+concentram 83% dos ataques LGBTfóbicos no Instagram, aponta pesquisa. Folha de S. Paulo. 
+ 
+ 
+ 31 
+sexual e ataques racistas que ganharam ampla divulgação nas redes sociais 143, o que evidenciou os 
+desafios persistentes para garantir a proteção das mulheres que participam da vida política. 
+Nesse contexto, a regulamentação de 2026 incorporou novas obrigações relativas ao uso de inteligência 
+artificial e de conteúdos sintéticos, incluindo restrições à geração de imagens ou vídeos de caráter sexual 
+envolvendo candidatas e mecanismos de denúncia às plataformas contra conteúdos que configurem  
+violência política de gênero 144. Esses avanços normativos foram acompanhados por iniciativas de 
+prevenção e sensibilização, como a campanha “Políticas Seguras nas Redes” do ONMP. Além disso, a 
+MOE/OEA tomou conhecimento de que o TSE colaborou com diversas plataformas digitais em iniciativas 
+de capacitação e na incorporação de ferramentas tecnológicas para detectar e responder ao uso não 
+autorizado da imagem e da voz das candidatas145 . 
+Várias pessoas entrevistadas informaram à MOE/OEA que persistem desafios na aplicação da Lei nº 
+14.192/2021, particularmente na identificação das condutas que constituem violência política de gênero, 
+na ausência de critérios jurídicos uniformes para seu tratamento e julgamento 146, e na necessidade de 
+fortalecer a capacitação e a sensibilização daqueles que atuam no recebimento de denúncias, na 
+investigação e na resolução dos casos. Além disso, há  necessidade de consolidar uma resposta 
+interinstitucional que vá além do atendimento a casos individuais. 
+Diante disso, a Missão reitera a importância de: 
+• Estabelecer um registro único e sistemático das denúncias registradas e publicar estatísticas que 
+permitam a elaboração de diagnósticos para prevenir e punir esse tipo de violência, incluindo a 
+violência política de gênero no espaço digital147. 
+ 
+Além disso, recomenda: 
+ 
+• Estabelecer programas permanentes de capacitação para a Justiça Eleitoral e o Ministério Público 
+sobre violência política contra as mulheres, a fim de harmonizar os critérios de identificação, 
+investigação e julgamento, incluindo os casos ocorridos em ambientes digitais. 
+ 
+• Fortalecer a coordenação interinstitucional para a prevenção, o monitoramento e o atendimento 
+à violência política contra as mulheres, incluindo a coleta e a sistematização de informações. 
+ 
+ 
+143 Destaca-se o caso da deputada federal eleita Ana Elisa Santos Silva, cuja conta no X teve que ser desativada devido à intensidade dos ataques 
+recebidos, conforme relatório encaminhado à Missão pelo Conselho Nacional dos Direitos Humanos (CNDH) em 22 de outubro de 2026. Ofício 
+nº 834/2026-SEI/CNDH/MDHC.  
+144 Resolução do TSE nº 23.755/2026, artigo 28, § 1º-C, III-IV e artigo 9-E, VII e § 2º. 
+145 Tribunal Superior Eleitoral. TSE apresenta ferramentas de proteção da imagem e da voz das mulheres na política. 23 de setembro de 2026. 
+https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-apresenta-ferramentas-de-protecao-de-imagem-e-voz-de-mulheres-na-
+politica. 
+146 ONU Mulheres Brasil. ONU Mulheres reúne instituições para acompanhar o panorama da violência política de gênero e raça no ciclo 
+eleitoral. 31 de agosto de 2026. https://brasil.unwomen.org/pt-br/stories/noticia/2026/08/segunda-reuniao-da-sala-de-situacao. CNN Brasil 
+[@CNNBrasil] (2 de outubro de 2026). Tribunais regionais divergem sobre violência de gênero. [Publicação no X]. X. 
+https://x.com/CNNBrasil/status/2106127676368880052?s=20.  
+147 Organização dos Estados Americanos. (2024) Relatório preliminar, MOE/OEA, Relatório Preliminar, Eleições Municipais do Brasil 2024. 
+https://www.oas.org/fpdb/press/Informe-Preliminar-MOE-OEA-Brasil-2024-(1).pdf 
+ 
+ 
+ 32 
+• Divulgar entre os partidos políticos e as candidatas as ferramentas para a proteção de sua imagem 
+e voz, bem como os mecanismos de denúncia de seu uso indevido, especialmente em ambientes 
+digitais. 
+ 
+• Fortalecer a cooperação entre a Justiça Eleitoral e as plataformas digitais para combater a 
+violência política contra as mulheres no ambiente digital, incluindo o acompanhamento das 
+candidatas no uso de ferramentas para identificar, prevenir e denunciar o uso não autorizado de 
+suas imagens e vozes. 
+ 
+• Desenvolver campanhas de sensibilização de amplo alcance e contínuas sobre a violência política 
+contra as mulheres, especialmente no ambiente digital, para promover sua identificação, 
+prevenção e denúncia. 
+ 
+VI. JUSTIÇA ELEITORAL 
+ 
+Registro de candidaturas 
+ 
+Para o registro das candidaturas à Presidência da República, os pedidos deveriam ser apresentados ao TSE 
+e, caso o ministro relator rejeite o registro, a decisão pode ser impugnada perante o plenário148 . Por sua 
+vez, as candidaturas ao Senado, à Câmara dos Deputados, ao governo estadual, à vice-governança e às 
+câmaras distritais e estaduais são registradas junto aos TREs, cujas decisões são passíveis de recurso 
+perante o TSE149.  
+ 
+O prazo final para a apresentação dos pedidos de registro de candidaturas para as eleições gerais foi 15 
+de agosto150, e a campanha eleitoral teve início no dia seguinte. Por esse motivo, a Justiça Eleitoral decidiu 
+sobre os registros das candidaturas simultaneamente ao desenrolar das campanhas. Nesse sentido, assim 
+como em MOEs anteriores da OEA151, observou-se que os prazos processuais para o registro definitivo das 
+candidaturas não coincidem com os do calendário eleitoral. 
+ 
+Embora a legislação eleitoral estabeleça que, até vinte dias antes da data da eleição, todos os pedidos de 
+registro de candidaturas e seus respectivos recursos devam ser julgados pelos tribunais ordinários152, isso 
+não ocorre na prática. Portanto, a legislação prevê que as candidaturas cujo registro tenha sido aprovado 
+ou negado, mas que ainda estejam sujeitas a recurso, sejam denominadas candidaturas sub judice153. De 
+acordo com a legislação, as candidaturas que se encontram nessa situação podem realizar todos os atos 
+relacionados à campanha eleitoral, incluindo o acesso ao horário eleitoral gratuito no rádio e na televisão 
+e manter seu nome na urna eletrônica154.  
+ 
+148 Código Eleitoral, artigo 280. 
+149 Código Eleitoral, artigo 22.II 
+150 Código Eleitoral, artigo 93, e Lei Eleitoral 9.504/1997, artigo 11. 
+151 Organização dos Estados Americanos. (2020). Relatório preliminar, MOE/OEA, Eleições municipais do Brasil 2020; Organização dos Estados 
+Americanos. (2022). Relatório preliminar, MOE/OEA, Eleições gerais do Brasil 2022; Organização dos Estados Americanos. (2024). Relatório 
+final, MOE/OEA, Eleições municipais no Brasil 2024. 
+152 Lei Eleitoral nº 9507/1997, artigo 16, inciso 1 
+153 Tribunal Superior Eleitoral. Candidatura “sub judice”: entenda como funciona. (18 de setembro de 2026). 
+https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/candidatura-sub-judice-entenda-como-funciona 
+154 Lei nº 9.504/1997 (Lei Eleitoral), artigo 16-A. 
+ 
+ 
+ 33 
+ 
+Até 2 de outubro de 2026, dois dias antes do primeiro turno, o Poder Judiciário Eleitoral havia recebido 
+um total de 20.988 pedidos de registro de candidaturas. Desse total, 20.296 já haviam sido julgados, 
+enquanto 692 permaneciam sub judice155. Esse número é ligeiramente inferior ao registrado em 2022, 
+quando foram identificadas mais de 700 candidaturas nessa situação no dia da eleição 156. A MOE/OEA 
+observou que, nessas eleições, havia candidaturas nessa situação para os cargos de governador, senador 
+e deputado federal e estadual 157. De acordo com um veículo de imprensa, no primeiro turno foram 
+registrados 1,8 milhão de votos a favor de candidaturas cujo registro foi negado, mas que tinham recursos 
+pendentes de decisão 158. Isso significa que os eleitores puderam votar em candidaturas cujo registro 
+poderia ser finalmente rejeitado, o que afeta a certeza e a segurança jurídica, bem como a garantia do 
+voto informado.  
+ 
+A esse respeito, a MOE/OEA tomou conhecimento de que o Projeto de Código Eleitoral (PL 112/2021)159, 
+em sua redação original 160, previa reformas estruturais no calendário, propondo antecipar o prazo final 
+para o registro de candidaturas para o dia 1º de junho (em vez do atual 15 de agosto). Dessa forma, 
+estender o prazo entre a apresentação do registro e o dia da votação por mais de quatro meses 
+proporcionaria ao Poder Judiciário Eleitoral o tempo indispensável para apreciar as impugnações, realizar 
+audiências e proferir decisões definitivas em última instância antes do dia da votação, reduzindo o número 
+de candidaturas sub judice . O projeto encontra -se atualmente no plenário do Senado Federal para 
+votação161. 
+Ainda no que diz respeito ao registro de candidaturas, a Missão observou que alguns Tribunais Regionais 
+Eleitorais (TREs) indeferiram registros — vários deles contestados pelo Ministério Público Eleitoral 
+(MPE)162 — por supostas ligações com organizações criminosas.  Essa interpretação remonta a 2024, 
+quando, no âmbito das eleições municipais daquele ano, o TSE estabeleceu como critério jurisprudencial 
+a aplicação imediata do artigo 17, § 4º, da Constituição Federal, que proíbe os partidos políticos de utilizar 
+“organizações paramilitares”. Na decisão de 19 de dezembro de 2024, o TSE determinou que essa 
+disposição constitui uma norma de plena eficácia e de aplicação imediata, integral e direta 163, mesmo 
+antes de haver uma sentença definitiva de segunda instância no âmbito penal . O critério foi reafirmado 
+ 
+155 Tribunal Superior Eleitoral. Sistema de Informações Gerenciais (SIG), “Situações do candidato”. https://sig.tse.jus.br/ords/dwapr/r/seai/sig-
+candidaturas/situa%C3%A7%C3%B5es-do-candidato?session=9259474867243 
+156 Organização dos Estados Americanos. (2022). Relatório preliminar, MOE/OEA, Eleições Gerais do Brasil. 
+https://www.oas.org/fpdb/press/Informe-Preliminar-de-la-MOE-Brasil-2022-PT.pdf 
+157Tribunal Superior Eleitoral. Candidaturas. https://sig.tse.jus.br/ords/dwapr/r/seai/sig-candidaturas/lista-
+candidatos?p20_st_sit_julgada=Em%20tramita%C3%A7%C3%A3o&clear=RP ,20&session=316471829119102 
+158 Nogueira, I. e Canavarro, M. (22 de outubro de 2026). Eleição registra 1,8 milhão de votos em candidatos com registro indeferido e recurso 
+pendente no TSE. Folha de S.Paulo. https://www1.folha.uol.com.br/poder/2026/10/eleicao-tem-18-milhao-de-votos-em-candidatos-com-
+registro-indeferido-e-recurso-pendente-no-tse.shtml 
+159 Disponível em: https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2292163  
+160 Ver artigo 201 do projeto citado. Disponível em: 
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2050061&filename=PLP%20112/2021  
+161 Senado Federal. Projeto de Lei Complementar n.º 112, de 2021. https://www25.senado.leg.br/web/atividade/materias/-/materia/149849  
+162 Na maioria dos casos, estavam envolvidos candidatos do Rio de Janeiro, bem como da Paraíba, São Paulo, Mato Grosso do Sul, Amapá e 
+Bahia. Ver Nogeira, I., Albernaz, I., Marques, J. (9 de setembro de 2026). Procuradoria vincula 23 candidatos ao crime organizado em 6 estados. 
+Folha de S. Paulo. https://www1.folha.uol.com.br/poder/2026/09/procuradoria-vincula-14-candidatos-ao-crime-organizado-em-5-
+estados.shtml?utm  
+163 Recurso Especial nº 0600242-56/RJ, 19 de dezembro de 2024 
+ 
+ 
+ 34 
+por unanimidade pelo Plenário do TSE em 25 de março de 2025 164 e aplicado novamente em decisão 
+posterior165.  
+Para as eleições gerais de 2026, a MOE/OEA observou que os TREs utilizaram parâmetros distintos para 
+recusar o registro de candidaturas a diferentes cargos, com base em suas interpretações sobre o alcance 
+do artigo 17, § 4º, da Constituição. Internamente nos TREs, também foram evidenciadas diferenças de 
+critério quando as decisões não foram tomadas por consenso. Alguns dos debates giraram em torno de 
+saber se uma investigação por suposta ligação com milícias e facções seria suficiente (“milícia de vínculo”), 
+ou se também seria necessária uma acusação formal, ou mesmo uma condenação em primeira instância, 
+para a cassação dos direitos políticos do candidato. Outra questão discutida foi se a interpretação deveria 
+abranger apenas membros de milícias e gangues com atuação armada direta ou também incluir membros 
+de outros grupos criminosos, como os de colarinho branco (“milícia de gravata”)166.  
+Parte do debate também se concentrou no fato de que algumas dessas interpretações podem entrar em 
+conflito com a Lei da Ficha Limpa de 2010 (que alterou a Lei de Inelegibilidades), a qual estabelece 
+expressamente, entre as causas de inelegibilidade de uma candidatura, a condenação, por sentença 
+transitada em julgado ou por  decisão de um órgão judicial colegiado, por crimes cometidos por uma 
+organização criminosa, grupo ou facção.  
+Nesse sentido, a MOE/OEA reitera sua recomendação de 2022 e 2024167 de: 
+ 
+• Redefinir os prazos estabelecidos na legislação para o registro e a análise das candidaturas e, 
+inclusive, considerar que o controle jurídico seja realizado em fase anterior ao início das 
+campanhas, com antecedência suficiente para resolver as impugnações que possam surgir. 
+ 
+Ao mesmo tempo, recomenda: 
+ 
+• Estabelecer um critério jurisprudencial uniforme que defina o alcance da interpretação do artigo 
+17, § 4º, da Constituição no que diz respeito à inelegibilidade de candidaturas vinculadas ao crime 
+organizado, a fim de preservar a certeza e a segurança jurídicas, em conformidade com os padrões 
+da Corte Interamericana de Direitos Humanos sobre restrições aos direitos políticos168. 
+ 
+ 
+ 
+ 
+164 Tribunal Superior Eleitoral. O TSE consolida sua tese sobre o envolvimento de organizações paramilitares no processo eleitoral. (25 de março 
+de 2025) https://www.tse.jus.br/comunicacao/noticias/2025/Marco/tse-consolida-tese-sobre-envolvimento-com-organizacao-paramilitar-no-
+processo-eleitoral 
+165 Recurso Especial nº 0600317-95/RJ, de 20 de maio de 2025. 
+166  Recurso Especial nº 0600242-56/RJ, de 19 de dezembro de 2024. Foi indeferido o registro de Fábio Augusto de Oliveira Brasil (Fabinho 
+Varandão), candidato a vereador de Belford Roxo (Rio de Janeiro); Caso Paulo Lomenha, candidato a deputado federal pelo partido Mobiliza no 
+Rio de Janeiro. O TRE-RJ indeferiu o registro de candidatura por “macrocriminalidade de colarinho branco” (crime organizado 
+corporativo/institucional ou “milícia de gravata”). Decisão de 17 de setembro de 2026; caso “Binho Galinha” (Avante, para deputado estadual da 
+Bahia): em 30 de setembro de 2026, o TRE da Bahia ratificou a rejeição definitiva da candidatura, devido à coexistência de um braço armado e 
+financeiro derivado do crime organizado. 
+167 Organização dos Estados Americanos. (2022). Relatório preliminar, MOE/OEA, Eleições Gerais no Brasil, 2022; e Organização dos Estados 
+Americanos. (2024). Relatório final, MOE/OEA, Eleições Municipais no Brasil, 2024. 
+168 Organização dos Estados Americanos. (2022). Relatório preliminar, MOE/OEA, Eleições Gerais no Brasil, 2022. 
+ 
+ 
+ 35 
+VII. FINANCIAMENTO POLÍTICO-ELEITORAL 
+ 
+Equidade no financiamento 
+ 
+Embora o modelo de financiamento político -eleitoral brasileiro seja de caráter misto, uma vez que 
+permite tanto fontes públicas quanto privadas, na prática, o financiamento é predominantemente público 
+e é administrado por meio de dois fundos: o Fundo Partidário 169, destinado ao funcionamento dos 
+partidos e que também pode ser aplicado a campanhas 170, e o Fundo Especial de Financiamento de 
+Campanha (FEFC), exclusivo para anos eleitorais171.  
+ 
+A Missão tomou conhecimento de que o TSE publicou a distribuição do FEFC entre 30 partidos políticos 
+em 3 de junho de 2026 e, segundo suas informações, os recursos foram entregues a 12 partidos em 20 de 
+agosto, a outros 12 em 21 de agosto e a mais quatro entre 25 de agosto e 11 de setembro172. Os partidos 
+políticos tinham até 8 de setembro para distribuir às candidaturas o financiamento público destinado a 
+mulheres, pessoas negras e indígenas, nas porcentagens mínimas previstas pela legislação173. 
+ 
+Com base nas informações publicadas no portal do TSE174, a MOE/OEA constatou que os partidos políticos 
+mantêm a tendência de concentrar os recursos públicos de campanha em um número reduzido de 
+candidaturas, como já havia sido identificado em missões anteriores175. Até 8 de setembro, último dia do 
+prazo para distribuir recursos aos grupos prioritários e data da prestação parcial de contas, os partidos 
+haviam transferido R$ 4.555 milhões para as campanhas, 176 entre o FEFC e o Fundo Partidário. Metade 
+ 
+169 Até setembro de 2026, esse fundo distribuiu R$ 1.026.485.312,15, valor equivalente a aproximadamente US$ 206 milhões. Tribunal Superior 
+Eleitoral. Distribuição do Fundo Partidário 2026 – Dotação orçamentária e multa. https://www.tse.jus.br/partidos/contas-partidarias/fundo-
+partidario-1/fundo-partidario?tab=ancora-2 
+170 Lei nº 9.096 de 1995, artigo 44, inciso III.  
+171 Este ano, o valor totalizou R$ 4.961.519.777,00, valor equivalente a aproximadamente US$ 996,4 milhões. Tribunal Superior Eleitoral. Fundo 
+Especial de Financiamento de Campanha (FEFC) – Eleições de 2026. https://www.tse.jus.br/eleicoes/eleicoes-2026-content/prestacao-de-
+contas/fundo-especial-de-financiamento-de-campanha-fefc 
+172Para dois partidos políticos, não constava data de entrega, uma vez que, na apresentação das contas em processos anteriores, estas foram 
+declaradas como “não prestadas”: o Partido Democrata e o Partido Comunista Brasileiro (PCB). Em relação ao primeiro dos partidos 
+mencionados, seu pedido de acesso ao FEFC foi negado por decisão de 26 de agosto de 2026 (https://consultaunificadapje.tse.jus.br/consulta-
+publica-
+unificada/documento?extensaoArquivo=text/html&path=tse/2026/9/26/16/19/34/18a01d42c22f7e1db8017d03709968b2815300b3f68440644
+ec1e7b86db62029), enquanto o pedido formulado no final do mês de agosto pelo PCB ainda estava em tramitação 
+(https://consultaunificadapje.tse.jus.br/#/public/resultado/0601258-79.2026.6.00.0000) 
+Tribunal Superior Eleitoral. FEFC – Eleições 2026 (nota 1), quadro “FEFC liberado em”; e (3 de junho de 2026). TSE divulga distribuição do Fundo 
+Especial de Financiamento de Campanha para as Eleições de 2026. https://www.tse.jus.br/comunicacao/noticias/2026/Junho/tse-divulga-
+distribuicao-do-fundo-especial-de-financiamento-de-campanha-para-as-eleicoes-2026 
+173 Resolução do TSE nº 23.607 de 2019, artigo 17, parágrafos 4 e 9, conforme a Resolução do TSE nº 23.770 de 3 de agosto de 2026. Tribunal 
+Superior Eleitoral. Hoje termina o prazo para os partidos distribuírem recursos a grupos prioritários. (8 de setembro de 2026). 
+https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/termina-hoje-prazo-para-partidos-distribuirem-recursos-a-grupos-prioritarios. 
+174Tribunal Superior Eleitoral. Portal de Dados Abertos. https://dadosabertos.tse.jus.br; Tribunal Superior Eleitoral. DivulgaCandContas. 
+https://divulgacandcontas.tse.jus.br 
+175 Organização dos Estados Americanos. (2018). Relatório Final, MOE/OEA, Eleições Gerais do Brasil 2018. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=410&MissionId=489; Organização dos Estados Americanos (2020). Relatório 
+Final, MOE/OEA, Eleições Municipais do Brasil 2020. https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=429&MissionId=510; 
+Organização dos Estados Americanos. (2022). Relatório Final, MOE/OEA, Eleições Gerais do Brasil, 2022. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=447&MissionId=533; e Organização dos Estados Americanos (2024). 
+Relatório Final, MOE/OEA, Eleições Municipais do Brasil 2024. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=467&MissionId=556  
+176 Aproximadamente US$ 904,2 milhões. 
+ 
+ 
+ 36 
+desse montante (R$ 2.277 milhões177) concentrava-se em 853 campanhas (4,25% das 20.064 candidaturas 
+titulares). Em 30 de setembro, o total transferido ascendia a R$ 5.265 milhões178. Das 20.064 candidaturas 
+titulares, 14.419 (71,8%) haviam recebido algum montante e 5.645 (28,1%) não registravam receitas 
+desses fundos em suas contas de campanha. Metade do valor transferido (R$ 2.633 milhões 179) 
+concentrava-se em 892 campanhas (4,45%)180. 
+ 
+A Missão também observou que, embora a propaganda eleitoral tenha sido permitida a partir de 16 de 
+agosto de 2026181 , os recursos foram entregues aos partidos políticos com as campanhas já iniciadas, e o 
+prazo para distribuí -los às candidaturas terminou em 8 de setembro, 26 dias antes da eleição. O prazo 
+originalmente estabelecido era 30 de agosto, mas foi alterado pelo TSE em 3 de agosto de 2026182 a pedido 
+das autoridades partidárias. Considerando que o financiamento público tem como objetivo promover a 
+competitividade da oferta política, essa decisão pode ter tido impacto nas candidaturas.  
+ 
+No ambiente digital, a Missão constatou que duas plataformas ofereceram serviços de promoção paga de 
+conteúdos eleitorais183, modalidade permitida pela legislação brasileira sob determinadas condições 184. 
+Destaca-se o caso do Facebook Serviços Online do Brasil, empresa do grupo Meta, que , segundo 
+informações publicadas por um veículo de imprensa com base em dados do TSE, registrava R$ 282,5 
+milhões185 em gastos declarados pelas campanhas até 14 de outubro186. Dessa forma, esta foi a plataforma 
+digital que mais recursos recebeu diretamente das campanhas para a  promoção de conteúdo. Entre as 
+candidaturas que registraram maiores gastos com serviços da Meta estavam as de Flávio Bolsonaro (R$ 
+7,5 milhões187 ), Luiz Inácio Lula da Silva (R$ 2,6 milhões188) e Fernando Haddad (R$ 2,5 milhões189). Esses 
+números são parciais, uma vez que o registro de gastos eleitorais continua sendo atualizado. 
+ 
+Considerando o exposto, a MOE/OEA reitera sua recomendação de 2018, 2020, 2022 e 2024190: 
+ 
+177 Aproximadamente US$ 453 milhões. 
+178 Aproximadamente US$ 1.047 milhões. 
+179 Aproximadamente US$ 523,6 milhões. 
+180Cálculos da MOE/OEA com base no Tribunal Superior Eleitoral. Portal de Dados Abertos. Prestação de Contas Eleitorais 2026, arquivo 
+receitas_candidatos_2026_BRASIL (gerado em 30 de setembro de 2026) e consulta_cand_2026_BRASIL (gerado em 1º de outubro de 2026). 
+Inclui o FEFC e o Fundo Partidário aplicado às campanhas, apenas na parte transferida pelos partidos para as contas de campanha dos 
+candidatos; não inclui os gastos que os partidos tenham realizado diretamente em favor das candidaturas nem outras fontes de receita 
+(doações de pessoas físicas, recursos próprios e financiamento coletivo). O universo abrange as 20.064 candidaturas titulares registradas, de 
+todos os cargos, excluindo vice-presidências, vice-governos e suplências, cujas receitas são declaradas juntamente com a do titular. Os dois 
+prazos correspondem a 8 de setembro, data da prestação de contas parcial e do término do prazo de distribuição, e a 30 de setembro, data de 
+geração do arquivo de receitas. 
+181 Lei nº 9.504 de 1997, artigo 36. 
+182 Tribunal Superior Eleitoral. Resolução nº 23.770. (3 de agosto de 2026). https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-
+no-23-770-de-3-de-agosto-de-2026 
+183 A outra plataforma que ofereceu esse serviço foi o Kwai. 
+184 Lei 9.504/1997, artigo 57-C. 
+185 Aproximadamente US$ 56,1 milhões. 
+186 Ribeiro, B. (16 de outubro de 2026). Alvo de polêmica, a Meta é a empresa que mais arrecadou na eleição. Folha de S.Paulo. 
+https://www1.folha.uol.com.br/poder/2026/10/alvo-de-polemica-meta-e-a-empresa-que-mais-arrecadou-na-eleicao-do-brasil.shtml 
+187 Aproximadamente US$ 1,49 milhão. 
+188 Aproximadamente 516.100 dólares. 
+189 Aproximadamente US$ 496.300. 
+190 Organização dos Estados Americanos. (2018). Relatório Final, MOE/OEA, Eleições Gerais do Brasil 2018. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=410&MissionId=489 ; Organização dos Estados Americanos. (2020). Relatório 
+Final, Eleições Municipais do Brasil 2020. https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=429&MissionId=510; Organização 
+dos Estados Americanos. (2022). Relatório Final, MOE/OEA, Eleições Gerais do Brasil 2022. 
+ 
+ 
+ 37 
+ 
+• Que o Congresso Nacional e o TSE estudem mecanismos que promovam uma distribuição mais 
+equitativa do financiamento público entre os partidos políticos. 
+ 
+Por sua vez, recomenda:  
+ 
+• Garantir que a transferência de recursos e sua distribuição entre os  partidos políticos ocorram 
+antes do início das campanhas. 
+ 
+A MOE/OEA observou que a legislação brasileira estabelece um amplo conjunto de restrições ao uso de 
+recursos públicos e à atuação de agentes públicos durante os processos eleitorais. No âmbito 
+constitucional, a administração pública deve respeitar os princ ípios da legalidade, impessoalidade e 
+moralidade, e sua publicidade deve ter caráter educativo, informativo ou de orientação social, sem incluir 
+nomes, símbolos ou imagens que impliquem promoção pessoal de autoridades ou servidores públicos191. 
+Da mesma forma, a Constituição prevê a proteção da normalidade e da legitimidade das eleições diante 
+da influência do poder econômico e do abuso no exercício de funções, cargos ou empregos públicos192.  
+ 
+Por sua vez, o Código Eleitoral proíbe, durante todo o ano eleitoral, a distribuição gratuita de bens, valores 
+ou benefícios pela administração pública, exceto em casos de calamidade pública, de estado de 
+emergência ou em programas sociais autorizados por lei e cuja execução orçamentária tenha se iniciado 
+no exercício anterior. Estes últimos não podem ser executados por entidades nominalmente vinculadas a 
+candidaturas ou mantidas por elas. Também é proibido o uso promocional, em benefício de candidaturas, 
+da distribuição gratuita de bens e serviços de caráter social financiados com recursos públicos193.  
+ 
+Nos três meses anteriores à eleição, estabelecem-se, além disso, restrições às transferências voluntárias 
+de recursos entre níveis de governo, à publicidade institucional, às declarações em cadeia de rádio e 
+televisão, à contratação ou demissão de pessoal,  à participação de candidaturas em inaugurações de 
+obras públicas e à contratação, com recursos públicos, de espetáculos artísticos nessas ocasiões 194. No 
+ano eleitoral, é proibido, além disso, o gasto com publicidade institucional durante o primeiro semestre 
+do ano eleitoral que exceda a média dos primeiros semestres dos três anos anteriores, e são restringidas 
+as revisões gerais de remuneração que excedam a recomposição do poder aquisitivo 195. O 
+descumprimento dessas disposições pode resultar, dependendo da infração e das circunstâncias do caso, 
+em multas, no cancelamento do registro ou do diploma das candidaturas beneficiadas e, quando for o 
+caso, na configuração de abuso de poder político ou de autoridade196. 
+ 
+ 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=447&MissionId=533; e Organização dos Estados Americanos (2024). Relatório 
+Final, Eleições Municipais do Brasil 2024. https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=467&MissionId=556 
+191 Constituição da República Federativa do Brasil, artigo 37, caput e parágrafo 1. 
+192 Constituição da República Federativa do Brasil, artigo 14, parágrafo 9. 
+193 Lei Eleitoral, artigo 73, inciso IV, e parágrafos 10 e 11. 
+194 Lei Eleitoral, artigos 73, incisos V e VI; 75 e 77. A restrição relativa à remuneração se estende até a posse e prevê exceções. 
+195 Lei Eleitoral, artigo 73, incisos VII e VIII. A limitação de remunerações não se aplica durante todo o ano eleitoral, mas sim a partir do prazo 
+previsto no artigo 7º da Lei até a posse. 
+196 Constituição da República Federativa do Brasil, artigos 14, parágrafo 9, e 37, caput e parágrafo 1; Lei nº 9.504 de 1997 (Lei Eleitoral), artigos 
+73 a 78; Lei Complementar nº 64 de 1990, artigo 22; e Resolução do TSE nº 23.735 de 2024, com as alterações da Resolução do TSE nº 23.757 
+de 2026. 
+ 
+ 
+ 38 
+A Missão também tomou nota da preocupação expressa por diversos atores quanto ao anúncio ou à 
+execução de programas com recursos estatais e seu possível impacto na equidade da disputa eleitoral. 
+Por exemplo, em 17 de setembro foi anunciado o reajuste de 15,04% no programa Bolsa Família e seu 
+primeiro pagamento em 19 de outubro, com um adiantamento no cronograma para que todas as famílias 
+beneficiárias recebessem os novos valores antes do segundo turno eleitora l197. Essa última medida foi 
+considerada por um ministro do STF como um reajuste que não viola a legislação eleitoral198. Além disso, 
+em 29 de setembro , foram anunciados oito novos editais de renegociação de dívidas com a União, 
+voltados, entre outros, para microempreendedores individuais (MEI), produtores rurais e pessoas 
+físicas199. Somado a isso, em 15 de outubro de 2026, o presidente Luiz Inácio Lula da Silva anunciou uma 
+proposta para tornar gratuito o transporte público coletivo durante os fins de semana e feriados em todo 
+o país. Em 21 de outubro, ele encaminhou ao Congresso Nacional uma proposta de emenda constitucional 
+(PEC) para implementar a medida, cujo financiamento viria de recursos das emendas parlamentares200.  
+ 
+Outras pessoas entrevistadas também expressaram preocupação com a prática recorrente do Congresso 
+Nacional de aprovar emendas orçamentárias, que chegaram a R$ 49,9 bilhões no orçamento de 2026 
+(valor equivalente a aproximadamente US$ 9,999 milhões)201. De acordo com esses atores, essas emendas 
+podem estar afetando a equidade eleitoral entre as forças políticas que já têm representação no Poder 
+Legislativo e aquelas que não têm, devido ao apoio financeiro que essas emendas geram nos 
+municípios202.  
+ 
+Transparência e fiscalização 
+ 
+As candidaturas e os órgãos partidários deveriam registrar os recursos financeiros recebidos no prazo de 
+72 horas e apresentar um relatório parcial entre 9 e 13 de setembro com as informações geradas desde 
+o início das campanhas até 8 de setembro203. Para esse fim, o TSE colocou em funcionamento, para esta 
+eleição, a ferramenta Conta+JE, que unifica os antigos Sistema de Apresentação de Contas Eleitorais e 
+ 
+197Tribu Simoes, R. (2026, 18 de setembro). Lula aumenta o Bolsa Família a 17 dias das eleições. Tribuna de Jondaí. 
+https://tribunadejundiai.com.br/politica/lula-aumenta-bolsa-familia-a-17-dias-das-eleicoes/ 
+198Freire Freitosa, D. (2026, 18 de setembro). Gilmar Mendes valida reajuste do Bolsa Família feito por Lula antes das eleições. Gazeta do Povo. 
+https://www.gazetadopovo.com.br/republica/gilmar-mendes-valida-reajuste-do-bolsa-familia-feito-por-lula-antes-das-eleicoes/ 
+199Pimenta, G. (2026, 29 de setembro). Governo anuncia nova renegociação de dívidas para MEIs a cinco dias do primeiro turno. Bem Paraná. 
+https://www.bemparana.com.br/eleicoes-2026/governo-anuncia-nova-renegociacao-de-dividas-para-meis-a-cinco-dias-do-1o-turno/amp/ 
+200 Moliterno, D. (2026, 15 de outubro). A dez dias da eleição, Lula propõe tarifa zero no transporte público. CNN Brasil. 
+https://www.cnnbrasil.com.br/eleicoes/a-dez-dias-da-eleicao-lula-propoe-tarifa-zero-no-transporte-publico/?utm; Santiago, L. (2026, 21 de 
+outubro). Lula envia ao Congresso PEC sobre tarifa zero no transporte nos finais de semana. CNN Brasil. 
+https://www.cnnbrasil.com.br/politica/lula-envia-ao-congresso-pec-da-tarifa-zero-no-transporte-em-fins-de-semana/?utm  
+201 O total previsto foi de aproximadamente R$ 61 bilhões (equivalente a aproximadamente US$ 12,225 milhões): R$ 49,9 bilhões em emendas 
+parlamentares individuais e coletivas (cerca de US$ 9,999 milhões), mais R$ 11,1 bilhões (cerca de US$ 2,224 milhões) incorporados a 
+programas ministeriais; R$ 37,8 bilhões (valor equivalente a USD 7,575 milhões) do primeiro grupo eram de execução obrigatória. Senado 
+Federal. (19 de dezembro de 2025). Congresso aprova Orçamento de R$ 6,5 trilhões e R$ 61 bilhões em emendas. 
+https://www12.senado.leg.br/noticias/materias/2025/12/19/congresso-aprova-orcamento-de-r-6-5-trilhoes-e-r-61-bilhoes-em-emendas 
+202 Avelino, G., & Luz, J. (2026, 89 de setembro). Prefeito aliado vale um Pix. Folha de S.Paulo. https://www1.folha.uol.com.br/colunas/voto-a-
+voto/2026/09/prefeito-aliado-vale-um-pix.shtml; Testa, G. (2026, 26 de setembro). Na eleição para a Câmara, o fisiologismo é a estratégia, e o 
+localismo é o projeto político. Folha de S.Paulo. https://www1.folha.uol.com.br/poder/2026/09/na-eleicao-para-deputado-fisiologismo-e-
+estrategia-e-localismo-e-projeto.shtml 
+203 Lei nº 9.504 de 1997, artigo 28, § 4º, inciso II; Resolução do TSE nº 23.607 de 2019, artigo 47, § 4º. 
+ 
+ 
+ 39 
+Sistema de Apresentação de Contas Anua l, que antes estavam separados, em consonância com uma 
+recomendação prévia da OEA de unificar ambos os sistemas204 . 
+ 
+As informações apresentadas pelos partidos no Conta+JE foram posteriormente divulgadas , em 15 de 
+setembro, na plataforma de consulta pública DivulgaCandContas 205. No que diz respeito à fiscalização 
+dessas prestações de contas, a MOE/OEA observou que as tarefas definitivas de fiscalização dos recursos 
+começam com a apresentação do relatório final 206 30 dias após a eleição. A partir daí, inicia -se a 
+verificação das contas, que pode se estender até três dias antes da entrega do respectivo diploma. Essas 
+contas podem ser contestadas, e os procedimentos resultantes não têm duração definida, pois dependem 
+das características da controvérsia e das instâncias possíveis,  de acordo com o tipo de eleição 207. Nesse 
+sentido, embora o Conta+JE facilite a comparação de informações e a correção de erros no momento do 
+registro de receitas e despesas, o modelo de fiscalização manteve sua estrutura e prazos, com a 
+possibilidade de que, em caso de judicialização, as contas permaneçam pendentes de julgamento. 
+ 
+A Missão tomou conhecimento de que o Grupo de Inteligência208 da Justiça Eleitoral colabora com o TSE 
+no trabalho de fiscalização, por meio do intercâmbio de informações financeiras, fiscais, de controle de 
+gastos públicos e de natureza penal, com o objetivo de identificar operações suspeitas ou atípicas. A 
+MOE/OEA observou que a composição e o funcionamento desse grupo não contam com uma estrutura 
+formal que permita a realização de reuniões periódicas209. Organizações da sociedade civil alertaram que 
+inúmeros riscos e indícios de infiltração de recursos ilícitos nas campanhas eleitorais continuam sem 
+serem detectados ou são subestimados pelas autoridades210 . 
+ 
+Por fim, a eficácia do regime de financiamento público — incluindo as cotas para grupos específicos — 
+tem sido prejudicada pela aprovação , nos últimos anos, de anistias pelo Congresso Nacional 211. Embora 
+cada uma dessas anistias tenha tido motivos e finalidades distintos, elas têm o efeito de esvaziar de 
+conteúdo o próprio sistema de fiscalização e de prestação de contas, pois constituem um incentivo ao seu 
+descumprimento. A Missão tomou conhecimento de que tramita no Senado Federal um projeto de lei 
+aprovado pela Câmara dos Deputados em 19 de maio de 2026 que, entre outras questões, limita o valor 
+ 
+204 Organização dos Estados Americanos. (2024). Relatório preliminar da Missão de Observação Eleitoral da OEA no Brasil 
+https://www.oas.org/fpdb/press/Informe-Preliminar-MOE-OEA-Brasil-2024-(1).pdf 
+205 Lei nº 9.504 de 1997, artigo 28, § 4º, inciso II; Resolução do TSE nº 23.607 de 2019, artigo 47, § 5º. 
+206 De acordo com o artigo 89 da Resolução do TSE nº 23.607, de 17 de dezembro de 2019, a Justiça Eleitoral pode fiscalizar a arrecadação e a 
+aplicação dos recursos durante todo o processo eleitoral. No entanto, durante as entrevistas com os funcionários do TSE e da Vice-Procuradoria 
+Geral Eleitoral, os funcionários foram enfáticos ao afirmar que, até a apresentação do relatório final, os valores relatados deveriam ser 
+considerados definitivos. 
+207 Lei nº 9.504 de 1997, artigos 30, parágrafo 1, e 30-A; Resolução do TSE nº 23.760 de 2026 (relatório final: 3 de novembro, primeiro turno; 14 
+de novembro, segundo turno). 
+208 Esse grupo é composto pelo Tribunal de Contas da União (TCU), pela Receita Federal do Brasil (RFB), pelo Conselho de Controle de Atividades 
+Financeiras (COAF), pelo Ministério Público Federal (MPF) e pelo Departamento de Polícia Federal (DPF). 
+209 Baseia-se em convênios. Por exemplo: Tribunal Superior Eleitoral. Acordos de Cooperação Técnica nº 4/2025 (Ministério Público da União), 
+https://contratos.comprasnet.gov.br/transparencia/contratos/597389; n.º 5/2016 (Ministério Público Federal), 
+https://contratos.comprasnet.gov.br/transparencia/contratos/6001; e n.º 17/2016 (Tribunal de Contas da União), 
+https://contratos.comprasnet.gov.br/transparencia/contratos/5994.  
+210 Transparência Internacional Brasil. (outubro de 2026). Resumo sobre as eleições de 2026 no Brasil, pp. 3 e 4. 
+211 Lei nº 13.831 de 2019; Emenda Constitucional nº 117 de 2022; Emenda Constitucional nº 133 de 2024. 
+ 
+ 
+ 40 
+das sanções e permite o diferimento do  pagamento das multas pelos partidos212. Organizações da 
+sociedade civil classificaram esse projeto como uma nova anistia213.  
+ 
+Com base nessas constatações, a Missão reitera suas recomendações de 2022 e 2024214 de: 
+ 
+• Desenvolver medidas que agilizem os processos de revisão contábil e garantam a aplicação efetiva 
+das sanções. 
+ 
+• Ajustar o sistema de prestação de contas por meio da implementação de alertas automatizados 
+que classifiquem as irregularidades de acordo com sua gravidade, incorporando um mecanismo de 
+resposta imediata para as de menor impacto e permitindo que as autorid ades concentrem as 
+auditorias nos casos mais críticos. 
+ 
+Além disso, recomenda: 
+ 
+• Institucionalizar o Grupo de Inteligência da Justiça Eleitoral, definindo suas funções e um programa 
+de trabalho que preveja reuniões periódicas. 
+ 
+VIII. VIOLÊNCIA ELEITORAL215 
+ 
+A Missão observou que, embora existam registros oficiais sobre determinadas manifestações de violência 
+política, não há estatísticas públicas consolidadas em nível nacional que permitam avaliar de forma 
+abrangente esse fenômeno . Nesse contexto, o trabalho realizado por entidades acadêmicas é 
+fundamental para avaliar as dinâmicas de risco e de violência no contexto eleitoral. De acordo com um 
+monitoramento realizado pela academia, entre 1º de janeiro e 30 de setembro de 2026, foram registrados 
+341 atos de violência216 contra líderes políticos217 no país. Ao comparar esses dados com o mesmo período 
+ 
+212 Projeto de Lei nº 4.822 de 2025. 
+213 Câmara dos Deputados. PL 4822/2025. https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565441; Peduzzi, P. 
+(2026, 21 de maio). Minirreforma eleitoral limita e parceliza multa aos partidos políticos. Agência Brasil. 
+https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/minirreforma-eleitoral-limita-e-parcela-multa-partidos-politicos; Transparência 
+Internacional Brasil. (2026, 20 de maio). Câmara aprova projeto de lei que recompensa irregularidades e abre as portas para a desinformação 
+eleitoral. https://transparenciainternacional.org.br/posts/camara-aprova-pl-que-premia-irregularidades-e-abre-portas-a-desinformacao-
+eleitoral/ 
+214 Organização dos Estados Americanos. (2022). Relatório Final, MOE/OEA, Eleições Gerais do Brasil 2022. 
+https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=447&MissionId=533; e Organização dos Estados Americanos (2024). Relatório 
+Final, Eleições Municipais do Brasil 2024. https://www.oas.org/eomdatabase/MoeReport.aspx?Lang=es&Id=467&MissionId=556 
+215 Define-se como qualquer forma de intimidação ou agressão física dirigida contra os atores envolvidos no processo eleitoral, a interrupção do 
+mesmo ou danos aos materiais eleitorais, com o objetivo de afetar a realização livre e transparente das eleições ou influenciar seus resultados. 
+Esse fenômeno se insere no âmbito da violência política, que abrange diversas manifestações de hostilidade que violam o direito fundamental à 
+participação política. 
+216 De acordo com a metodologia do Observatório de Violência Política e Eleitoral (OVPE), entende-se por “atos de violência” um conjunto de 
+cinco modalidades: 1) Violência física (homicídios, atentados, sequestros, agressões); 2) Violência psicológica (ameaças, intimidação, incitação à 
+violência); 3) Violência semiótica (atos de desqualificação, objetificação ou invisibilização); 4) Violência econômica (roubos, furtos, vandalismo 
+contra bens); e 5) Violência sexual (assédio, agressões ou incitações de caráter sexual). 
+217 O monitoramento define como “líderes políticos” um amplo espectro de atores que inclui: pessoas no exercício de um mandato, ex-
+mandatários, candidatos, pré-candidatos e membros da administração pública, bem como seus familiares. A metodologia do observatório exclui 
+explicitamente os casos de violência dirigidos contra eleitores, militantes ou profissionais da imprensa. 
+ 
+ 
+ 41 
+do ciclo eleitoral de 2022, quando foram registrados 527 incidentes, observa -se uma redução de 35,3% 
+nos níveis de violência física e direta218.  
+ 
+Apesar da redução geral da violência, o padrão das agressões mantém uma estrutura semelhante à dos 
+ciclos anteriores, em que as ameaças e a intimidação psicológica prevalecem sobre a agressão física direta. 
+Além disso, do total de 341 incidentes, 74 casos (21,7%) foram dirigidos contra candidatos às eleições de 
+2026, dos quais 29,7% concentraram-se em candidaturas à Câmara dos Deputados. A análise por filiação 
+partidária revela que os atos de violência não se concentraram em nenhum grupo político em particular, 
+mas que as vítimas pertencem a um amplo espectro ideológico. 
+ 
+Geograficamente, 47,8% de todos os incidentes registrados no período analisado concentraram -se em 
+seis estados: Rio Grande do Norte (37 casos), São Paulo (34), Paraíba (31), Minas Gerais (22), Mato Grosso 
+(21) e Goiás (18). As pessoas entrevistadas apontaram que as dinâmicas de inserção e expansão do crime 
+organizado nos territórios constituem um fator plausível para a ocorrência de violência política e eleitoral. 
+Em particular, observa -se com preocupação um interesse mais evidente em disputar o controle do s 
+poderes locais. 
+ 
+Nos encontros realizados pela Missão, diversos atores também concordaram que a campanha de 2026 
+registrou menor intensidade de violência física em comparação à de 2022. No entanto, elas apontaram 
+que o confronto se deslocou, em grande parte, para as redes sociais, onde proliferam discursos de ódio e 
+de estigmatização, com impacto particular sobre as mulheres . Esses atos, embora nem sempre 
+ultrapassem a barreira do físico, constituem manifestações de violência simbólica e psicológica que 
+prejudicam a qualidade do debate. 
+ 
+Em relação à estrutura jurídica e institucional que regula a segurança das eleições gerais no Brasil, a 
+MOE/OEA identificou uma coordenação civil-militar robusta, voltada a garantir a ordem pública e o livre 
+exercício do sufrágio. O Código Eleitoral brasileiro prevê expressamente a atribuição ao TSE de solicitar 
+ao Poder Executivo o apoio de forças federais,  com o objetivo de reforçar a segurança em localidades 
+específicas, mediante solicitação justificada dos TREs e em coordenação com as autoridades locais de 
+segurança pública219.  
+ 
+De acordo com as informações coletadas pela Missão, para o primeiro turno, foi solicitada e autorizada a 
+mobilização de um total de 26.569 membros das Forças Armadas, abrangendo a proteção, o 
+patrulhamento e a assistência a 11.588 locais de votação distribuídos em todo o território nacional 220. 
+Essa ampla mobilização em âmbito federal foi considerada por diversos atores entrevistados como um 
+fator decisivo para mitigar riscos logísticos e dissuadir possíveis perturbações na  ordem pública, 
+especialmente em regiões isoladas ou sujeitas a dinâmicas complexas de segurança. 
+ 
+ 
+218 Grupo de Investigação Eleitoral (GIEL). (2026). Observatório da Violência Política e Eleitoral no Brasil (Painel Interativo). Universidade Federal 
+do Estado do Rio de Janeiro. Acessado em: 
+https://app.powerbi.com/view?r=eyJrIjoiNmI4NWU1NjgtYzUyOC00NTA5LWFmMTktZTM3M2YwZTczM2RjIiwidCI6ImIzM2ZkNzZjLWM5M2YtNDk
+0YS05MjRiLTg5ZDM4ODg5NTBkYyJ9&pageName=d0016f53d8e7a8619d05 
+219 Código Eleitoral do Brasil (Lei nº 4.737/1965), Artigo 23, inciso XIV. 
+220 Quartel-General do Exército Brasileiro. Comando de Operações Terrestres. Reunião de 2 de outubro de 2026, Missões de observação 
+internacionais. 
+ 
+ 
+ 42 
+Por outro lado, a Missão valoriza a implementação de instâncias de articulação jurídica e institucional 
+nesse processo democrático, tais como a constituição formal, no TSE, do Núcleo Institucional de Garantia 
+dos Direitos Eleitorais para as Eleições de 202 6221. De acordo com as avaliações compartilhadas por 
+diversos atores consultados em campo pela Missão, essa instância teve um impacto positivo na 
+coordenação interinstitucional, facilitando o diálogo ágil e direto entre os diversos órgãos com 
+responsabilidades compartilhadas na administração, fiscalização e segurança das funções eleitorais. 
+ 
+Com o objetivo de continuar fortalecendo as garantias de segurança pública, a Missão reitera suas 
+recomendações de 2020 e 2022222 : 
+ 
+• Criar um registro público de dados sobre violência política, que consolide informações em nível 
+federal e estadual, desagregadas por raça e gênero, para diagnosticar e formular políticas 
+preventivas e punitivas. 
+ 
+• Integrar à análise da violência política as contribuições fornecidas por organizações sociais e 
+acadêmicas especializadas no acompanhamento e na análise da violência política, e coordenar 
+esforços com elas para continuar desenvolvendo e divulgando orientações sobre como responder 
+à violência política. 
+ 
+• Criar espaços de análise para compreender a dimensão do problema do crime organizado e sua 
+influência potencial nos processos eleitorais nos âmbitos federal, estadual e municipal. 
+ 
+• Investigar de forma oportuna e tomar decisões judiciais firmes contra os responsáveis, tanto 
+materiais quanto intelectuais, pela violência política. Para isso, sugere-se que tanto as autoridades 
+do Ministério Público Federal quanto as das unidades federativas estabeleçam unidades especiais 
+de investigação ou sistemas de priorização voltados aos atos de violência contra candidatos e 
+atores envolvidos no processo eleitoral. 
+ 
+Além disso, recomenda-se: 
+ 
+• Garantir a continuidade do Núcleo Institucional de Garantia dos Direitos Eleitorais e de Apoio 
+Eleitoral, para facilitar a coordenação interinstitucional , o intercâmbio de informações e a 
+resposta a contingências. 
+ 
+Violência contra jornalistas 
+ 
+A Missão tomou conhecimento de alertas emitidos por sindicatos e organizações da sociedade civil sobre 
+a intensificação de agressões, assédios e ameaças contra profissionais da imprensa no contexto das 
+eleições de 2026. Essa situação de vulnerabilidade não apenas atenta contra a integridade física e moral 
+dos comunicadores, mas também afeta diretamente o direito coletivo dos cidadãos de receber 
+ 
+221 Tribunal Superior Eleitoral. Portaria nº 528. Cria o Núcleo Institucional de Garantia dos Direitos Eleitorais para as Eleições de 2026. (14 de 
+agosto de 2026). https://www.tse.jus.br/legislacao/compilada/prt/2026/portaria-no-528-de-14-de-agosto-de-2026 
+222 Organização dos Estados Americanos. (2022) Relatório preliminar da MOE/OEA, Eleições Gerais do Brasil, segundo turno. 
+https://www.oas.org/fpdb/press/Informe-Preliminar-de-la-MOE-Brasil-2022-ESP.pdf 
+ 
+ 
+ 43 
+informações livres e plurais sobre o processo eleitoral. Diante do aumento dos níveis de risco, 
+organizações profissionais e sindicais coordenaram planos de contingência regionais e exigiram 
+compromissos expressos de garantia de segurança das diferentes candidaturas, alertando para o fato de 
+que a hostilidade sistemática está levando as equipes jornalísticas a adotar dinâmicas de autocensura223. 
+ 
+No ecossistema digital, a hostilidade contra a mídia e seus profissionais registrou um aumento substancial 
+à medida que o calendário eleitoral avançava. De acordo com monitoramentos especializados da 
+sociedade civil e da academia, durante a segunda quinzen a da campanha do primeiro turno, os ataques 
+online dirigidos à imprensa aumentaram 67,3%, totalizando mais de 4.400 agressões digitais que afetaram 
+mais de 80 jornalistas e mais de uma centena de veículos de comunicação 224. A Missão constatou , com 
+especial preocupação, que esse fenômeno apresenta uma marcante dimensão de gênero. Embora as 
+agressões afetem a imprensa em geral, os monitoramentos evidenciam que as jornalistas são alvo 
+desproporcional de campanhas de difamação e assédio em plataformas digitais225. 
+ 
+Nesse sentido, a Missão recomenda: 
+ 
+• Fortalecer os mecanismos de proteção e  de resposta rápida diante de ameaças contra 
+profissionais do jornalismo e da comunicação durante os processos eleitorais, por meio da 
+coordenação entre as autoridades de segurança pública e a Justiça Eleitoral, especialmente em 
+áreas de maior risco. 
+ 
+• Fortalecer os mecanismos de prevenção e  de resposta à violência digital de gênero contra 
+jornalistas mulheres durante os processos eleitorais, especialmente diante de campanhas de 
+assédio e de ameaças em plataformas digitais. 
+ 
+ 
+ 
+ 
+223 Federação Internacional de Jornalistas. Brasil: a FIP apoia as reivindicações da FENAJ aos candidatos à presidência e alerta sobre a tentativa 
+de silenciar a imprensa. (21 de setembro de 2026). https://www.ifj.org/media-centre/news/detail/category/press-releases/article/brasil-la-fip-
+respalda-las-demandas-de-fenaj-a-los-candidatos-presidenciales-y-advierte-sobre-el-silenciamiento-de-la-prensa; Federação Nacional dos 
+Jornalistas. A FENAJ orienta sindicatos sobre a segurança dos jornalistas nas eleições de 2026. (24 de setembro de 2026). 
+https://fenaj.org.br/fenaj-orienta-sindicatos-sobre-seguranca-de-jornalistas-nas-eleicoes-de-2026/; Associação Brasileira de Jornalismo 
+Investigativo. Sob ameaça de morte, o Tapajós de Fato desiste de cobrir as eleições; a Abraji repudia os ataques. (18 de setembro de 2026).  
+https://abraji.org.br/noticias/sob-ameaca-de-morte-tapajos-de-fato-desiste-de-cobrir-eleicoes-abraji-repudia-ataques; Observatório da 
+Imprensa. Defender o jornalismo independente para defender a democracia. (1º de outubro de 2026). 
+https://www.observatoriodaimprensa.com.br/observatorio-de-jornalismo-ambiental/defender-o-jornalismo-independente-para-defender-a-
+democracia/.  
+224 Coalizão em Defesa do Jornalismo (CDJor) & Associação Brasileira de Jornalismo Investigativo. Ataques online à imprensa crescem 67,3% na 
+segunda quinzena da campanha. (18 de setembro de 2026).  https://emdefesadojornalismo.org.br/monitoramento/ataques-online-a-imprensa-
+crescem-673-na-segunda-quinzena-de-campanha/ e https://www.abraji.org.br/noticias/ataques-online-a-imprensa-crescem-67-3-na-segunda-
+quinzena-de-campanha 
+225 Valenga, D. (2026, 24 de setembro). Mulheres são o principal alvo de ataques contra jornalistas nas eleições de 2026. Catarinas. 
+https://catarinas.info/mulheres-sao-principal-alvo-de-ataques-contra-jornalistas-nas-eleicoes-de-2026/ e reportagem nas redes sociais em: 
+https://www.instagram.com/portalcatarinas/p/DdrKO-qE17X/ . 
+Associação Brasileira de Jornalismo Investigativo. (2026, 29 de setembro). Mulheres concentram quase 80% dos ataques online a jornalistas na 
+reta final do primeiro turno. https://www.abraji.org.br/noticias/mulheres-concentram-quase-80-dos-ataques-online-a-jornalistas-na-reta-final-
+do-primeiro-turno; Laboratório de Internet e Ciência de Dados da Universidade Federal do Espírito Santo (Labic/Ufes) & ARTIGO 19 Brasil. 
+(2026). Relatório de monitoramento da violência de gênero contra comunicadoras nas eleições de 2026. Citado nas notas de análise do CDJor e 
+da Abraji. 
+ 
+ 
+ 44 
+IX. PARTICIPAÇÃO POLÍTICA DE PESSOAS INDÍGENAS E AFRODESCENDENTES 
+ 
+De acordo com os dados do Censo de 2022 226, a população do Brasil totaliza 203.080.756 pessoas, das 
+quais 92.083.286 (45,3%) se identificam como pardas, 20.656.458 (10,2%) como negras, 1.694.836 
+(0,83%) como indígenas e 1.330.186 (0,66%) como quilombolas. 
+ 
+Quanto ao cadastro eleitoral de pessoas pertencentes a povos indígenas e comunidades quilombolas, a 
+Missão avalia positivamente o aumento do número de eleitoras e eleitores que se autoidentificam como 
+membros desses grupos. Entre 2024 e 2026, o número de pessoas registradas como indígenas aumentou 
+84%, passando de 155.661 para 287.157, enquanto o de pessoas quilombolas cresceu 97%, de 95.409 
+para 188.371. Esse aumento reflete, entre outros fatores, os avanços na incorporação de informações de 
+autoidentificação étnica ao cadastro eleitoral, bem como os esforços do TSE e dos TREs para facilitar o 
+cadastro dessas populações, em consonância com as recomendações formuladas por Missões de 
+Observação Eleitoral da OEA anteriores.  
+ 
+A autoridade eleitoral informou à MOE/OEA sobre a realização de capacitações em coordenação com os 
+TREs, bem como sobre a elaboração de materiais informativos em línguas indígenas, a fim de facilitar o 
+acesso dessas comunidades às informações eleitorais. Além disso, a Missão tomou conhecimento da 
+implementação do programa “Seu voto importa”, instituído para as eleições de 2026, que prevê medidas 
+para facilitar o transporte gratuito de pessoa s com deficiência ou mobilidade reduzida, bem como de 
+residentes em territórios indígenas, comunidades quilombolas e outras comunidades tradicionais até seus 
+respectivos centros de votação 227. Os entrevistados afirmaram à Missão que, embora essas iniciativas 
+sejam valiosas, continuam sendo limitadas e insuficientes, além de não serem conhecidas por todas as 
+partes interessadas. 
+ 
+Especificamente sobre a questão do transporte, antes do segundo turno, a MOE/OEA recebeu 
+manifestações de preocupação de organizações da sociedade civil quanto à disponibilização de 
+informações claras e às condições materiais necessárias para que os povos indígenas e as comunidades 
+quilombolas pudessem exercer efetivamente seu direito ao voto, em especial  no Vale do Javari, no 
+Amazonas, e na Terra Indígena Apyterewa, no Pará. A esse respeito, o TRE divulgou um comunicado em 
+20 de outubro explicando a decisão da juíza eleitoral que indeferiu o pedido da União dos Povos Indígenas 
+do Vale do Javari (UNIVAJA) para organizar o transporte de eleitores de 44 aldeias no estado do Amazonas, 
+alegando o vencimento dos prazos legais de planejamento, a ausência de dotação orçamentária específica 
+e a inviabilidade logística da operação228. No entanto, dias antes, em 15 de outubro, o TSE havia indicado 
+aos TREs que o prazo estabelecido para solicitar o transporte não os impedia de aceitar pedidos 
+apresentados em prazo inferior ao previsto, com o objetivo de ampliar o acesso ao transporte especial, 
+considerando as particularidades locais e a viabilidade operacional229. 
+ 
+226 Instituto Brasileiro de Geografia e Estatística (IBGE) (2022). Censo 2022. https://censo2022.ibge.gov.br/panorama/.  
+227 Tribunal Superior Eleitoral. Resolução nº 23.753. (26 de fevereiro de 2026). https://www.tse.jus.br/legislacao/codigo-eleitoral/normas-
+editadas-pelo-tse/resolucao-n-23-753-de-26-de-fevereiro-de-2026-brasilia-df. 
+228 Tribunal Regional Eleitoral do Amazonas. TRE-AM esclarece sua atuação no transporte de eleitores em áreas indígenas e de difícil acesso. (20 
+de outubro de 2026).  https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-esclarece-atuacao-no-transporte-de-eleitores-
+em-areas-indigenas-e-de-dificil-acesso. 
+229 Resolução nº 23.780, de 15 de outubro de 2026, Art. 1. 
+https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-780-de-15-de-outubro-de-2026 
+ 
+ 
+ 45 
+ 
+Em reunião com o TRE do Amazonas, a Missão tomou conhecimento de que as instituições envolvidas na 
+elaboração do plano de transporte naquele estado — como o Ministério Público, as prefeituras, o TRE e 
+as lideranças indígenas da UNIVJA — se reuniram em 21 de outubro para tratar do assunto. Nesse 
+encontro, ficou definido que a prefeitura de Atalaia do Norte forneceria a gasolina necessária ao 
+transporte de eleitores indígenas 230 e que esse  fornecimento de combustível seria supervisionado pela 
+Justiça Eleitoral. Com essa articulação, a autoridade eleitoral e as lideranças indígenas confirmaram a 
+disponibilidade do transporte durante o segundo turno das eleições231.  
+A MOE/OEA reconhece esses avanços e recomenda: 
+ 
+• Fortalecer e dar continuidade às campanhas de informação e às jornadas móveis de registro e 
+atualização do cadastro eleitoral em comunidades indígenas e quilombolas, com o objetivo de 
+facilitar o exercício de seus direitos políticos. 
+ 
+• Ampliar a produção e a divulgação de materiais informativos sobre os direitos eleitorais e o 
+processo de votação em línguas indígenas e em formatos adaptados às tradições orais dessas 
+comunidades, garantindo sua distribuição por meio de canais acessíveis a populações com 
+conectividade limitada ou sem acesso à mídia impressa. 
+ 
+• Ampliar o transporte gratuito para os eleitores e eleitoras das comunidades indígenas e 
+quilombolas, fortalecendo a coordenação com os TREs e a participação dessas comunidades no 
+planejamento, especialmente em áreas de difícil acesso. 
+ 
+O sistema eleitoral brasileiro não prevê cotas de candidaturas nem cadeiras reservadas para povos 
+indígenas e para a população afrodescendente. As medidas afirmativas para promover sua participação 
+política têm se concentrado na alocação de recursos para o financiamento eleitoral e na disponibilização 
+de espaços de propaganda gratuita no rádio e na televisão. No caso das candidaturas de pessoas negras, 
+essas medidas são aplicadas desde as eleições de 2020 232, enquanto, para as candidaturas indígenas, 
+foram expressamente incorporadas ao marco normativo das eleições de 2026233.  
+ 
+No que diz respeito ao financiamento, a normativa estabelece um mínimo de 30% dos recursos para as 
+candidaturas de pessoas negras, enquanto , para as candidaturas indígenas, prevê uma alocação 
+proporcional à sua participação entre as candidaturas apresentadas por cada partido político, 
+considerando a distribuição por gênero. A MOE/OEA recebeu manifestações de preocupação de alguns 
+atores entrevistados, pois os recursos destinados às ações afirmativas não foram repassados em tempo 
+ 
+230 Lima, J. (2026, 21 de outubro). Prefeitura mobiliza apoio para levar indígenas às urnas no Vale do Javari após o TRE-AM negar transporte. 
+Globo. https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/21/prefeitura-mobiliza-apoio-para-levar-indigenas-as-urnas-no-
+vale-do-javari-apos-tre-am-negar-transporte.ghtml. 
+231 Tribunal Regional Eleitoral do Amazonas. TRE-AM e lideranças indígenas coordenam o transporte de eleitores do Vale do Javari no segundo 
+turno. 22 de outubro de 2026. https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-e-liderancas-indigenas-alinham-
+transporte-de-eleitores-do-vale-do-javari-no-2o-turno. 
+232 Tribunal Superior Eleitoral. Resolução n.º 23.607. (17 de dezembro de 2019). 
+https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-607-de-17-de-dezembro-de-2019. 
+233 Tribunal Superior Eleitoral. Resolução n.º 23.752. (26 de fevereiro de 2026). 
+https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-752-de-26-de-fevereiro-de-2026. 
+ 
+ 
+ 46 
+hábil pelos partidos políticos e os espaços de propaganda gratuita no rádio e na televisão se mostraram 
+insuficientes para alcançar efetivamente suas comunidades e territórios. 
+ 
+A Missão tomou conhecimento de que, até 18 de agosto, haviam sido registradas 20.560 candidaturas, 
+das quais 10.226 (49,7%) correspondiam a pessoas negras (pretas e pardas). Pela segunda eleição 
+consecutiva, esse foi o grupo racial com o maior número de candidaturas no Brasil. Além disso, a Missão 
+observou que, embora o TSE permita identificar as candidaturas quilombolas em seus registros, estas não 
+dispõem de uma categoria específica para a alocação de financiamento eleitoral por meio de ações 
+afirmativas, razão pela qual são incluídas nas categorias raciais de pessoas pretas e pardas. Isso limita a 
+possibilidade de elas terem acesso a uma alocação diferenciada de recursos. Um total de 210 candidaturas 
+foram identificadas como quilombolas234. 
+ 
+Quanto às candidaturas indígenas, a Missão tomou conhecimento de que, neste processo eleitoral, foi 
+registrado o maior número de candidaturas de pessoas indígenas desde que o TSE começou a coletar 
+informações sobre raça e cor das candidaturas 235. A Missão destaca, ainda, que, pela primeira vez em 
+eleições legislativas, as mulheres indígenas ultrapassaram o limite mínimo de 30% de candidaturas 
+estabelecido pela legislação eleitoral, representando 44% do total de candidaturas indígenas, o que 
+corresponde a 84 candidatas. A Missão reconhece os esforços realizados pelas autoridades eleitorais para 
+fortalecer a visibilidade das candidaturas de pessoas pertencentes a povos indígenas, em consonância 
+com as observações formuladas anteriormente pela OEA.  
+ 
+Com o objetivo de fortalecer o cumprimento das medidas afirmativas adotadas, recomenda-se: 
+ 
+• Fortalecer os mecanismos de coleta, sistematização e divulgação de informações desagregadas sobre 
+as candidaturas de pessoas indígenas, negras e quilombolas. 
+ 
+• Incentivar os partidos políticos a elaborar e implementar programas de formação política contínua 
+voltados a líderes indígenas, negros e quilombolas. 
+ 
+• Explorar mecanismos para garantir um acesso mais equitativo às candidaturas de pessoas indígenas 
+e negras na distribuição do financiamento público concedido aos grupos políticos para as campanhas. 
+ 
+• Fortalecer a fiscalização do TSE e do MPE quanto ao cumprimento das normas de financiamento e de 
+acesso à propaganda gratuita para candidaturas de pessoas negras e indígenas, por meio de 
+verificações antes e durante a campanha eleitoral. 
+ 
+ 
+ 
+ 
+ 
+ 
+234 Tribunal Supremo Eleitoral. (2026). Estatísticas eleitorais. Comparação de candidaturas. https://sig.tse.jus.br/ords/dwapr/r/seai/sig-
+candidaturas/cruzamento-de-candidaturas?p25_back=22&p25_cruzamento_1=st_quilombola&clear=RP ,25&session=941696585664 
+235 Tribunal Superior Eleitoral. Resolução nº 23.659. (26 de outubro de 2021). https://www.tse.jus.br/legislacao/codigo-eleitoral/normas-
+editadas-pelo-tse/resolucao-no-23-659-de-26-de-outubro-de-2021 
+ 
+ 
+ 47 
+AGRADECIMENTOS  
+ 
+A Missão agradece às autoridades e aos funcionários do Tribunal Superior Eleitoral (TSE) e dos Tribunais 
+Regionais Eleitorais (TRE) que possibilitaram o exercício de suas funções . Estende, igualmente, seus 
+agradecimentos ao Ministério das Relações Exteriores e às diversas instituições do Estado brasileiro pelo 
+apoio. Esta é a quinta vez que a OEA envia uma Missão ao Brasil e agradece as contribuições financeiras 
+do Canadá, Espanha, Estados Unidos, Itália, França, Paraguai, Peru, Portugal, Suíça e  Turquia, que 
+possibilitaram essa missão. 
+ 

@@ -151,7 +151,7 @@ def g07_quem_reconheceu() -> None:
         eixo.text(0.0, y, linha["quem"], fontsize=30, fontweight="bold", va="center", transform=eixo.transAxes)
         eixo.text(0.38, y, linha["situacao"], fontsize=28, color=cor, fontweight="bold", va="center", transform=eixo.transAxes)
         eixo.text(0.38, y - 0.075, textwrap.fill(linha["detalhe"], 70), fontsize=17, color="#444444", va="center", transform=eixo.transAxes)
-    salvar(figura, "g07_quem_deu_parabens", "capturas com sha256 em dados/capturas/ (docs/F1_REACOES.md; rodada 2: dados/f4_estado_27out.md)")
+    salvar(figura, "g07_quem_deu_parabens", "capturas com sha256 em dados/capturas/ (docs/F1_REACOES.md; rodada 2: dados/f4_estado_27out.md; rodada 3: dados/f4_estado_28out.md)")
 
 
 FAIXA_COR = {"quase nenhuma chance": "#7F1D1D", "muito improvável": "#B91C1C", "improvável": "#F87171",
@@ -168,7 +168,7 @@ CURTO = {"S1": "Justiça anula o 2º turno", "S2": "Lula toma posse", "S3": "Pro
 def g08_suposicoes() -> None:
     with (RAIZ / "dados" / "sintese_suposicoes.csv").open(encoding="utf-8") as arquivo:
         linhas = list(csv.DictReader(arquivo))
-    figura, eixo = nova("O que esperar, pelas 2 visões", "Faixa de probabilidade se o resultado for legítimo e se a fraude for comprovada (rodada 2, 27/out)")
+    figura, eixo = nova("O que esperar, pelas 2 visões", "Faixa de probabilidade se o resultado for legítimo e se a fraude for comprovada (rodada 3, 28/out)")
     figura.subplots_adjust(left=0.08, right=0.97, top=0.80, bottom=0.12)
     eixo.axis("off")
     altura = 1 / (len(linhas) + 1)

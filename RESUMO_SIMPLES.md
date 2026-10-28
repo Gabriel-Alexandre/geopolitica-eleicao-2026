@@ -4,11 +4,13 @@
 
 **Como:** a IA levantou 25 eleições contestadas do mundo desde 1990 (19 fecharam com duas fontes e entraram na conta), mediu os interesses de cada país no Brasil com dado oficial e leu o que cada um disse nas primeiras horas. Tudo foi feito pelas duas lentes: tratando o resultado como legítimo e tratando como fraude.
 
-**Qual lente o dado de hoje sustenta:** L na frente, sem prova para nenhum lado: 4 de 5 critérios apontam L (C1, C2, C3, C5), nenhum aponta F; pela emenda 6, C2 bate nas duas lentes e pesa menos, e a lente L só fica sustentada com C3 e C5 fechados (C3 aponta L (provisório); C4 sem dado; C5 aponta L (parcial)).
+**Qual lente o dado de hoje sustenta:** L na frente, sem prova para nenhum lado: 5 de 5 critérios apontam L (C1, C2, C3, C4, C5), nenhum aponta F; pela emenda 6, C2 bate nas duas lentes e pesa menos, e a lente L só fica sustentada com C3 e C5 fechados (C3 aponta L (provisório); C4 aponta L (parcial); C5 aponta L (parcial)).
 
 **O tamanho das queixas:** para a prorrogação virar o resultado, ela teria de ter acrescentado 4.430.191 votos, todos para o Lula; os logs das urnas mostram 34.810 votos depois das 17h, 0,79% disso (projeto do vídeo 16). Para eleitores impedidos de votar virarem o resultado, com 60% deles no Flávio, seriam precisos 22.150.955; a abstenção caiu entre os turnos.
 
 **O que mudou de 26 para 27/out (rodada 2):** o Flávio desistiu da anulação e o PL reconheceu o resultado; o Trump disse que a eleição pareceu fraudada e, na mesma fala, que gosta do Lula; a nota do Departamento de Estado foi adiada; o Xi mandou mensagem pessoal; a Argentina só "tomou nota". Detalhe em [`docs/RODADAS.md`](docs/RODADAS.md).
+
+**O que mudou de 27 para 28/out (rodada 3):** a OEA publicou o relatório preliminar do 2º turno dizendo que não tem dúvidas sobre a integridade dos dados oficiais; o Flávio saiu pela Argentina, chegou a Miami e divulgou carta dizendo que é o presidente eleito; o Departamento de Estado deu vistos a ele e à família; o Trump disse que aprovaria e que a eleição foi muito estranha; o pedido da PF para apreender os passaportes foi assinado 7 minutos depois de o TSE confirmar o resultado, e a hora da decisão do Moraes não foi divulgada.
 
 **O que esperar, em uma linha cada:**
 
@@ -24,7 +26,7 @@
 - **Putin parabeniza Lula até 02/nov:** aconteceu se o resultado for legítimo; aconteceu se a fraude for demonstrada.
 - **China ou Rússia citam em público interferência dos EUA na eleição brasileira até 25/nov:** improvável se o resultado for legítimo; improvável se a fraude for demonstrada.
 - **No 4º mandato o Brasil fica mais perto da China do que dos EUA nos indicadores medidos:** provável se o resultado for legítimo; não se aplica se a fraude for demonstrada.
-- **O governo dos EUA anuncia asilo ou recusa entregar o Flávio ao Brasil:** improvável se o resultado for legítimo; não se aplica se a fraude for demonstrada.
+- **O governo dos EUA anuncia asilo ou recusa entregar o Flávio ao Brasil:** chance parecida se o resultado for legítimo; não se aplica se a fraude for demonstrada.
 
 **O que mais pesa:** nos casos do histórico, os governos de fora reagiram ao que ficou demonstrado e seguiram o que a Justiça do país decidiu. Por essa regra, uma fraude que não deixasse prova teria a mesma reação de um resultado legítimo. Com o que dá para ver de fora, há dúvidas que são justas e não há prova de fraude; o que falta ver está dentro do TSE e nos processos que ainda vão ser julgados.
 

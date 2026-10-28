@@ -48,3 +48,20 @@ def test_rodada_2_toda_citacao_esta_no_texto_capturado_com_hash():
             assert manifesto[linha["fonte"]].get("ok"), linha["id"]
             texto = (RAIZ / "dados" / "capturas" / f"{linha['fonte']}.txt").read_text(encoding="utf-8")
             assert _normal(linha["citacao"]) in _normal(texto), linha["id"]
+
+
+def test_rodada_3_toda_citacao_esta_no_texto_capturado_com_hash():
+    """Rodada 3 (28/out): cada citação de dados/citacoes_r3.csv aparece, palavra por palavra, na captura com sha256."""
+    manifesto = json.loads((RAIZ / "dados" / "MANIFESTO.json").read_text(encoding="utf-8"))
+    with (RAIZ / "dados" / "citacoes_r3.csv").open(encoding="utf-8") as arquivo:
+        for linha in csv.DictReader(arquivo):
+            assert manifesto[linha["fonte"]].get("ok"), linha["id"]
+            texto = (RAIZ / "dados" / "capturas" / f"{linha['fonte']}.txt").read_text(encoding="utf-8")
+            assert _normal(linha["citacao"]) in _normal(texto), linha["id"]
+
+
+def test_rodada_3_curva_da_noite_copiada_com_hash():
+    """A curva oficial da noite, copiada do projeto do vídeo 16, bate com o sha256 registrado em dados/f4_estado_28out.md."""
+    import hashlib
+    dados = (RAIZ / "dados" / "derivados" / "video16" / "d5_curva_noite.csv").read_bytes()
+    assert hashlib.sha256(dados).hexdigest() == "983557aa491f7c3752f30d3395b5c38f56c864f9f89df844abec6ec43af95e5f"

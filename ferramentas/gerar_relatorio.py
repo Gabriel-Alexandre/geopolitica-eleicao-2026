@@ -86,16 +86,16 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
     fat = f3["fatias_pct"]
     l = ["# O que esperar dos EUA, da China e da Rússia depois do 2º turno de 2026: relatório\n",
          f"Gerado por `ferramentas/gerar_relatorio.py`. Análise feita pelo Claude (Anthropic), a pedido de Gabriel Alexandre, "
-         f"pelas regras do [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) e das emendas 1 a 6, em 2 rodadas (26 e 27/out, [`docs/RODADAS.md`](docs/RODADAS.md)). Repositório: {REPO}\n",
+         f"pelas regras do [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) e das emendas 1 a 6, em 3 rodadas (26, 27 e 28/out, [`docs/RODADAS.md`](docs/RODADAS.md)). Repositório: {REPO}\n",
          "## O que este projeto não consegue dizer\n",
          "- **A lente F2 (fraude que não deixou prova) não é testável por dado.** É o mundo em que boletins, logs, totalização e teste de integridade fecham entre si. O projeto mostra o que ela implicaria, mas nenhum dado a confirma ou derruba.",
-         "- **Dois critérios de lente ainda não fecham em 27/out:** C4 (a PF e a OEA não concluíram) e o consolidado de C5; C3 aponta L de forma provisória, porque as ações de cassação não foram julgadas. Os arquivos das urnas (C2) batem, mas isso é o esperado nas duas lentes (emenda 6).",
+         "- **Três critérios de lente ainda têm ressalva em 28/out:** C3 aponta L de forma provisória, porque as ações de cassação não foram julgadas; C4 aponta L em parte, porque a OEA publicou o relatório preliminar e a PF não concluiu o inquérito sobre os ônibus; C5 aponta L em parte, porque falta o consolidado do teste de integridade. Os arquivos das urnas (C2) batem, mas isso é o esperado nas duas lentes (emenda 6).",
          f"- **{len(f2['casos_excluidos'])} dos 25 casos históricos saíram da conta** por não fecharem com duas fontes numa das passadas (emenda 2): {', '.join(f2['casos_excluidos']) or 'nenhum'}.",
          "- **Três casos somem das tabelas por lente** (Malaui 2019, Venezuela 2018 e Nicarágua 2021) porque as duas passadas divergiram em `fraude_demonstrada` (emenda 2); eles continuam nas tabelas de *todos os casos*.",
          "- **A base sistemática NELDA não foi usada** (emenda 5): a taxa-base sai só dos casos codificados à mão.",
          "- **As duas passadas foram feitas por instâncias da mesma IA**, com a mesma instrução e sem ver uma a outra; erros comuns ao mesmo modelo não são pegos pela concordância.",
          "- **Interesse se mede pelo que é público** (comércio, votos na ONU, reservas, medidas oficiais). Intenção de pessoa não se mede e não é afirmada.",
-         "- **As reações foram lidas até 27/out, por volta de 14h30 (rodada 2).** De um dia para o outro uma decisão pode mudar o quadro; as suposições têm prazo e critério de resolução para serem conferidas depois.\n",
+         "- **As reações foram lidas até 28/out, por volta de 18h (rodada 3).** De um dia para o outro uma decisão pode mudar o quadro; as suposições têm prazo e critério de resolução para serem conferidas depois.\n",
          "## 1. A resposta, pelas duas lentes\n",
          f"**Veredito de lente hoje:** {veredito_de_lente(criterios)}. Os critérios estão na §3.\n"]
     l += tabela_suposicoes(sintese)
@@ -104,10 +104,11 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
           f"{f1['truth_social_posts_sobre_brasil']} de {f1['truth_social_posts_em_25_out']} posts de 25/out falam do Brasil.",
           "- O advogado da Trump Media, Martin De Luca, escreveu que ninguém vai reconhecer a eleição; Donald Trump Jr. e Elon Musk compartilharam; Jason Miller publicou o discurso do Flávio em inglês.",
           "- **Rodada 2:** em 26/out, a repórteres, o próprio Trump disse que a eleição pareceu *\"another rigged election\"*, que a prorrogação foi *\"very strange\"*, que não tomou partido e que gosta do Lula; não apoiou a anulação. Segundo a Folha, o Departamento de Estado tinha uma nota pronta e o governo mandou adiar a publicação. Até 27/out, 14h30: nenhuma nota da Casa Branca ou do Departamento de Estado, nenhuma medida nova da OFAC ([`dados/f4_estado_27out.md`](dados/f4_estado_27out.md) §1).",
+          "- **Rodada 3:** em 27/out, um alto funcionário do Departamento de Estado disse que o governo vai dar vistos ao Flávio e à família e deixá-los entrar nos EUA; à noite, o Trump disse que aprovaria e que a eleição foi *\"very strange\"* e *\"terrible\"*, de novo sem afirmar fraude com todas as letras. O De Luca, em entrevista de 26/out, defendeu refazer o 2º turno se não houver investigação independente, e disse que, se o Lula ganhou por 4 milhões de votos, vai ser o primeiro a reconhecer. Até 28/out, 18h: nenhuma nota sobre o resultado, nenhuma medida nova contra o Brasil ([`dados/f4_estado_28out.md`](dados/f4_estado_28out.md) §3 e §4).",
           f"- {f1['citacoes_conferidas']} de {f1['citacoes']} citações conferidas palavra por palavra no texto capturado: [`docs/F1_REACOES.md`](docs/F1_REACOES.md).\n",
           "## 3. A contestação: os critérios C1 a C5\n",
-          "| Critério | Estado em 27/out (rodada 2) | Aponta |", "|---|---|---|"]
-    l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_27out']} | {APONTA[c['aponta']]} |" for c in criterios]
+          "| Critério | Estado em 28/out (rodada 3) | Aponta |", "|---|---|---|"]
+    l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_28out']} | {APONTA[c['aponta']]} |" for c in criterios]
     t = r["teto_das_duas_pontas"]
     imp = t["eleitores_impedidos_necessarios"]
     v16 = json.loads((DADOS / "derivados" / "video16" / "rodada2.json").read_text(encoding="utf-8"))["A6_votos_depois_das_17h"]
@@ -175,6 +176,8 @@ def relatorio(r: dict, f1: dict, base: list[dict], conc: list[dict], criterios: 
           "- Emendas ao pré-registro: §13 de [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md).\n",
           "## 8. Como refazer\n", "```bash", "pip install -r requirements.txt",
           "python ferramentas/capturar.py dados/fontes_f1.csv", "python ferramentas/capturar.py dados/fontes_f1.csv --navegador",
+          "python ferramentas/capturar.py dados/fontes_r2.csv", "python ferramentas/capturar.py dados/fontes_r3.csv",
+          "python ferramentas/capturar_pdf.py r3_58 https://www.oas.org/fpdb/press/2026_MOE_Brasil_Segundo_Turno_Relatorio_Preliminar_POR.pdf",
           "python ferramentas/gerar_f1.py", "python ferramentas/coletar_f3.py", "python ferramentas/capturar.py dados/fontes_f3.csv",
           "python ferramentas/analise.py", "python ferramentas/validacao_independente.py", "python ferramentas/graficos.py",
           "python ferramentas/gerar_relatorio.py", "python ferramentas/conferir_linguagem.py", "python -m pytest -q", "```", ""]
@@ -192,6 +195,7 @@ def resumo_simples(r: dict, criterios: list[dict], sintese: list[dict]) -> str:
           f"seriam precisos {milhar(r['teto_das_duas_pontas']['eleitores_impedidos_necessarios']['60% para o Flávio'])}; "
           "a abstenção caiu entre os turnos.\n"),
          "**O que mudou de 26 para 27/out (rodada 2):** o Flávio desistiu da anulação e o PL reconheceu o resultado; o Trump disse que a eleição pareceu fraudada e, na mesma fala, que gosta do Lula; a nota do Departamento de Estado foi adiada; o Xi mandou mensagem pessoal; a Argentina só \"tomou nota\". Detalhe em [`docs/RODADAS.md`](docs/RODADAS.md).\n",
+         "**O que mudou de 27 para 28/out (rodada 3):** a OEA publicou o relatório preliminar do 2º turno dizendo que não tem dúvidas sobre a integridade dos dados oficiais; o Flávio saiu pela Argentina, chegou a Miami e divulgou carta dizendo que é o presidente eleito; o Departamento de Estado deu vistos a ele e à família; o Trump disse que aprovaria e que a eleição foi muito estranha; o pedido da PF para apreender os passaportes foi assinado 7 minutos depois de o TSE confirmar o resultado, e a hora da decisão do Moraes não foi divulgada.\n",
          "**O que esperar, em uma linha cada:**\n"]
     for s in sintese:
         l.append(f"- **{s['suposicao']}:** {s['final_L']} se o resultado for legítimo; {s['final_F1']} se a fraude for demonstrada.")
@@ -229,6 +233,7 @@ def leitura_da_ia(sintese: list[dict], hipoteses: list[dict], base: list[dict]) 
               f"- **O histórico:** {historico(s['taxa_base'], base)}",
               f"- **O estado em 26/out:** {s['estado_26out']}",
               f"- **O estado em 27/out (rodada 2):** {s['estado_27out']}",
+              f"- **O estado em 28/out (rodada 3):** {s['estado_28out']}",
               f"- **Por quê:** {s['porque']}\n"]
     l += ["## As potências\n"]
     l += [f"- **{h['potencia']}:** fica de pé *{h['fica']}*. {h['porque']}" for h in hipoteses]
@@ -236,12 +241,12 @@ def leitura_da_ia(sintese: list[dict], hipoteses: list[dict], base: list[dict]) 
 
 
 def f4(criterios: list[dict]) -> str:
-    l = ["# F4 · A contestação, critério por critério (rodada 2, 27/out/2026)\n",
+    l = ["# F4 · A contestação, critério por critério (rodada 3, 28/out/2026)\n",
          "Gerado por `ferramentas/gerar_relatorio.py`. O levantamento completo, com as duas fontes de cada fato e as alegações dos **dois lados** "
          "(a quebra de isonomia apontada pelo lado do Flávio; a falta de ônibus apontada pelo lado do Lula), está em "
-         "[`dados/f4_estado_26out.md`](../dados/f4_estado_26out.md) (rodada 1) e [`dados/f4_estado_27out.md`](../dados/f4_estado_27out.md) (rodada 2).\n",
+         "[`dados/f4_estado_26out.md`](../dados/f4_estado_26out.md) (rodada 1), [`dados/f4_estado_27out.md`](../dados/f4_estado_27out.md) (rodada 2) e [`dados/f4_estado_28out.md`](../dados/f4_estado_28out.md) (rodada 3).\n",
          "| Critério | Estado | Aponta | Base |", "|---|---|---|---|"]
-    l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_27out']} | {APONTA[c['aponta']]} | {c['base']} |" for c in criterios]
+    l += [f"| {c['criterio']} · {c['nome']} | {c['estado_em_28out']} | {APONTA[c['aponta']]} | {c['base']} |" for c in criterios]
     l += ["", f"**Veredito de lente:** {veredito_de_lente(criterios)}.\n",
           "**Correções ao §0 do pré-registro achadas na F4:** os ônibus com adesivo do PT retidos foram em Salvador, não em São Paulo; a PF tem 1 inquérito e 4 apurações (5 estados), não 7.\n"]
     return "\n".join(l) + "\n"
