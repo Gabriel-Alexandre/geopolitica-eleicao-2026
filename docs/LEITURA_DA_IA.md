@@ -59,7 +59,7 @@ Feita pelo Claude depois de todas as fases. Para cada suposição: o que mudou d
 - **O histórico:** os EUA parabenizaram em até 30 dias: 7 de 8 (88%) (fraude não demonstrada (lente L)) · os EUA não reconheceram: 0 de 8 (0%) (fraude não demonstrada (lente L))
 - **O estado em 26/out:** nada do Departamento de Estado até 10h05
 - **O estado em 27/out (rodada 2):** segundo a Folha, o Departamento de Estado tinha uma nota pronta e adiou a publicação para avaliar a situação política; nada publicado até 27/out à tarde
-- **O estado em 28/out (rodada 3):** nenhuma nota sobre o resultado até 28/out, 18h; o único anúncio do Departamento de Estado foi o dos vistos para o Flávio e a família
+- **O estado em 28/out (rodada 3):** nenhuma nota sobre o resultado até 28/out, 17h20; o único anúncio do Departamento de Estado foi o dos vistos para o Flávio e a família
 - **Por quê:** Desceu na rodada 2: segundo a Folha, o Departamento de Estado tinha a nota pronta e o governo mandou adiar para avaliar a situação política, e no dia seguinte o Trump disse que a eleição pareceu fraudada. Não cai mais porque no histórico da lente L os EUA sempre reconheceram de alguma forma, e o prazo vai até 25/nov. Rodada 3: o Departamento de Estado falou do Brasil só para dar vistos ao Flávio, sem nota sobre o resultado; a faixa não muda, e o prazo vai até 25/nov
 
 ## S7 · Trump ou o governo dos EUA dizem em público que houve fraude ou apoiam a anulação

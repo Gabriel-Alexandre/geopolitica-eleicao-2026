@@ -36,7 +36,7 @@ Todas as fases do pré-registro (F0 a F7) com o que existia até a manhã de 26/
 
 ## Rodada 3 · 28/out/2026
 
-Cobre o que saiu depois da rodada 2 (27/out, 14h30) até 28/out, por volta de 18h. Nenhuma regra mudou: não há emenda nesta rodada.
+Cobre o que saiu depois da rodada 2 (27/out, 14h30) até 28/out, por volta das 17h20. Nenhuma regra mudou: não há emenda nesta rodada.
 
 **O que entrou:**
 

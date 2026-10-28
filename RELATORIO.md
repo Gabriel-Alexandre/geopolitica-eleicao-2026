@@ -11,7 +11,7 @@ Gerado por `ferramentas/gerar_relatorio.py`. Análise feita pelo Claude (Anthrop
 - **A base sistemática NELDA não foi usada** (emenda 5): a taxa-base sai só dos casos codificados à mão.
 - **As duas passadas foram feitas por instâncias da mesma IA**, com a mesma instrução e sem ver uma a outra; erros comuns ao mesmo modelo não são pegos pela concordância.
 - **Interesse se mede pelo que é público** (comércio, votos na ONU, reservas, medidas oficiais). Intenção de pessoa não se mede e não é afirmada.
-- **As reações foram lidas até 28/out, por volta de 18h (rodada 3).** De um dia para o outro uma decisão pode mudar o quadro; as suposições têm prazo e critério de resolução para serem conferidas depois.
+- **As reações foram lidas até 28/out, por volta das 17h20 (rodada 3).** De um dia para o outro uma decisão pode mudar o quadro; as suposições têm prazo e critério de resolução para serem conferidas depois.
 
 ## 1. A resposta, pelas duas lentes
 
@@ -38,7 +38,7 @@ Gerado por `ferramentas/gerar_relatorio.py`. Análise feita pelo Claude (Anthrop
 - A fala do *"manual de Joe Biden"* tinha uma origem só, um texto da agência EFE (noite de 25/out), e **a própria EFE trocou esse texto**, no mesmo endereço, por outro dizendo que o Trump não tinha se pronunciado (relido na tarde de 26/out; `docs/F1_REACOES.md` §1). Ela não está entre os posts do Truth Social de 25/out no arquivo independente: 0 de 19 posts de 25/out falam do Brasil.
 - O advogado da Trump Media, Martin De Luca, escreveu que ninguém vai reconhecer a eleição; Donald Trump Jr. e Elon Musk compartilharam; Jason Miller publicou o discurso do Flávio em inglês.
 - **Rodada 2:** em 26/out, a repórteres, o próprio Trump disse que a eleição pareceu *"another rigged election"*, que a prorrogação foi *"very strange"*, que não tomou partido e que gosta do Lula; não apoiou a anulação. Segundo a Folha, o Departamento de Estado tinha uma nota pronta e o governo mandou adiar a publicação. Até 27/out, 14h30: nenhuma nota da Casa Branca ou do Departamento de Estado, nenhuma medida nova da OFAC ([`dados/f4_estado_27out.md`](dados/f4_estado_27out.md) §1).
-- **Rodada 3:** em 27/out, um alto funcionário do Departamento de Estado disse que o governo vai dar vistos ao Flávio e à família e deixá-los entrar nos EUA; à noite, o Trump disse que aprovaria e que a eleição foi *"very strange"* e *"terrible"*, de novo sem afirmar fraude com todas as letras. O De Luca, em entrevista de 26/out, defendeu refazer o 2º turno se não houver investigação independente, e disse que, se o Lula ganhou por 4 milhões de votos, vai ser o primeiro a reconhecer. Até 28/out, 18h: nenhuma nota sobre o resultado, nenhuma medida nova contra o Brasil ([`dados/f4_estado_28out.md`](dados/f4_estado_28out.md) §3 e §4).
+- **Rodada 3:** em 27/out, um alto funcionário do Departamento de Estado disse que o governo vai dar vistos ao Flávio e à família e deixá-los entrar nos EUA; à noite, o Trump disse que aprovaria e que a eleição foi *"very strange"* e *"terrible"*, de novo sem afirmar fraude com todas as letras. O De Luca, em entrevista de 26/out, defendeu refazer o 2º turno se não houver investigação independente, e disse que, se o Lula ganhou por 4 milhões de votos, vai ser o primeiro a reconhecer. Até 28/out, 17h20: nenhuma nota sobre o resultado, nenhuma medida nova contra o Brasil ([`dados/f4_estado_28out.md`](dados/f4_estado_28out.md) §3 e §4).
 - 33 de 33 citações conferidas palavra por palavra no texto capturado: [`docs/F1_REACOES.md`](docs/F1_REACOES.md).
 
 ## 3. A contestação: os critérios C1 a C5

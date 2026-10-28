@@ -1,6 +1,6 @@
 # Rodada 3 · o estado dos critérios e das reações em 28/out/2026
 
-**Busca feita em 28/out/2026, das 16h às 18h (horário de Brasília), cobrindo o que saiu depois da rodada 2 (27/out, 14h30).** Cada citação abaixo está em `dados/citacoes_r3.csv` e foi conferida palavra por palavra no texto capturado com sha256 (`dados/capturas/r3_*.txt`, registro em `dados/MANIFESTO.json`; o teste `test_rodada_3_toda_citacao_esta_no_texto_capturado_com_hash` refaz a conferência). Das 58 fontes da lista `dados/fontes_r3.csv`, 52 foram capturadas; as que recusaram leitura (HTTP 403 ou 404) ficam marcadas e nenhuma sustenta fato sozinha. O relatório da OEA é PDF e foi lido por `ferramentas/capturar_pdf.py`.
+**Busca feita em 28/out/2026, das 16h30 às 17h20 (horário de Brasília; capturas entre 17h08 e 17h17), cobrindo o que saiu depois da rodada 2 (27/out, 14h30).** Cada citação abaixo está em `dados/citacoes_r3.csv` e foi conferida palavra por palavra no texto capturado com sha256 (`dados/capturas/r3_*.txt`, registro em `dados/MANIFESTO.json`; o teste `test_rodada_3_toda_citacao_esta_no_texto_capturado_com_hash` refaz a conferência). Das 58 fontes da lista `dados/fontes_r3.csv`, 52 foram capturadas; as que recusaram leitura (HTTP 403 ou 404) ficam marcadas e nenhuma sustenta fato sozinha. O relatório da OEA é PDF e foi lido por `ferramentas/capturar_pdf.py`.
 
 A curva oficial da noite (as 346 versões do resultado publicadas pelo TSE) vem do projeto público do vídeo 16, `investigacao-segundo-turno-2026` (commit `d706893`), copiada com sha256 para `dados/derivados/video16/`:
 
@@ -33,7 +33,7 @@ A curva oficial da noite (as 346 versões do resultado publicadas pelo TSE) vem 
 | Carta divulgada por aliados (Paulo Figueiredo): *"eu sou o presidente eleito e os criminosos que roubaram a eleição do Brasil"* […]; *"não fugi do Brasil, eu saí pelo Brasil"*; agradece ao Trump e ao Milei | 28/out, à tarde | O Antagonista (`r3_42`), Gazeta do Povo (`r3_40`), Jornal Opção (`r3_47`), Metrópoles (`r3_41`) | sim |
 | Nota da Polícia Federal: representou ao STF *"no dia 25 de outubro"*; a restrição de documento *"não caracteriza a condição de foragido nem autoriza a realização de prisão"*; não há registro oficial de saída pelos postos brasileiros; investiga o descumprimento | 28/out, 14h48 | Poder360 (`r3_33`) | uma (é a nota oficial; Gazeta do Povo cita a mesma nota em manchete) |
 | A PF *"considera solicitar sua prisão preventiva"* e o bloqueio de bens | 28/out | Diário Carioca (`r3_34`), DCM (`r3_35`) | sim como reportagem; **nenhum pedido nem decisão** encontrados |
-| **Não encontrado:** mandado de prisão, pedido de extradição, pedido de asilo protocolado, difusão vermelha da Interpol | até 28/out, 18h | · | · |
+| **Não encontrado:** mandado de prisão, pedido de extradição, pedido de asilo protocolado, difusão vermelha da Interpol | até 28/out, 17h20 | · | · |
 
 ## 3. Os EUA
 
@@ -42,7 +42,7 @@ A curva oficial da noite (as 346 versões do resultado publicadas pelo TSE) vem 
 | Um alto funcionário do Departamento de Estado: *"the State Department will issue visas to Flávio Bolsonaro and his family and allow them entry into the United States"*; não disse nada sobre asilo | 27/out (terça) | AP via PBS (`r3_14`), Reuters via Yahoo (`r3_16`), Al Jazeera (`r3_13`), Fox News (`r3_15`) | sim |
 | Trump a repórteres, sobre a entrada do Flávio: *"Eu aprovaria. Acho que são boas pessoas."*; e *"The election was very strange, and I thought it was terrible"*; repetiu que não tomou partido | 27/out, à noite | Reuters via Yahoo (`r3_16`), Metrópoles (`r3_04`) | sim |
 | O deputado democrata Joaquin Castro: *"Losing an election is not grounds for asylum."* | 27/out | Al Jazeera (`r3_13`) | uma |
-| **Não encontrado:** nota do Departamento de Estado ou da Casa Branca sobre o resultado da eleição; o Trump dizendo que a eleição *foi* fraudada (sem o *"pareceu"*); tarifa, sanção ou revogação de visto nova contra o Brasil | até 28/out, 18h | · | · |
+| **Não encontrado:** nota do Departamento de Estado ou da Casa Branca sobre o resultado da eleição; o Trump dizendo que a eleição *foi* fraudada (sem o *"pareceu"*); tarifa, sanção ou revogação de visto nova contra o Brasil | até 28/out, 17h20 | · | · |
 
 ## 4. O círculo do Trump
 
